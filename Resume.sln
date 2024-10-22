@@ -20,18 +20,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resume", "Resume", "{0E7876E6-09DA-4B91-930D-35FB4FABDC07}"
-	ProjectSection(SolutionItems) = preProject
-		Resume\Resume-En-2023-09-28-Default.pdf = Resume\Resume-En-2023-09-28-Default.pdf
-		Resume\Resume-En-2023-09-28-Template10.pdf = Resume\Resume-En-2023-09-28-Template10.pdf
-		Resume\Resume-En-2023-09-28-Template2.pdf = Resume\Resume-En-2023-09-28-Template2.pdf
-		Resume\Resume-En-2023-09-28-Template24.pdf = Resume\Resume-En-2023-09-28-Template24.pdf
-		Resume\Resume-En-2023-09-28-Template30.pdf = Resume\Resume-En-2023-09-28-Template30.pdf
-		Resume\Resume-En-2023-09-28-Template4.pdf = Resume\Resume-En-2023-09-28-Template4.pdf
-		Resume\Resume-En-2023-09-28-Template5.pdf = Resume\Resume-En-2023-09-28-Template5.pdf
-		Resume\Resume-En-2023-09-28-Templatex.pdf = Resume\Resume-En-2023-09-28-Templatex.pdf
-		Resume\Resume-En-2023-09-28-Templatex2.pdf = Resume\Resume-En-2023-09-28-Templatex2.pdf
-		Resume\Resume-Fa-2024-10-15-Templatex2.pdf = Resume\Resume-Fa-2024-10-15-Templatex2.pdf
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
