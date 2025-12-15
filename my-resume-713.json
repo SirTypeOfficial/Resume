@@ -1,0 +1,181 @@
+{
+  "resumeLang": "en",
+  "basics": {
+    "name": "MohammadReza Vazifeh",
+    "label": "Senior Full-Stack .NET Developer | Architecting Scalable Solutions with Blazor, MAUI & Microservices",
+    "image": "https://cvbuilder.storage.c2.liara.space/Files/User_Photo/48c86b1f-44d1-47b1-87fe-a257d90e8c9e/05L0SINpn0KaSb1-KGcUsQ-706.jpg",
+    "email": "mv6468@gmail.com",
+    "phone": "9332297757",
+    "summary": "Innovative **Senior Full-Stack Architect & .NET Expert** with **over a decade of experience** in building high-performance, scalable solutions. Specializing in the modern .NET ecosystem **(my.NET 9/10, MAUI, Blazor)**, I bridge the gap between complex backend architecture and engaging frontend experiences. A **polyglot developer (C#, Python, Kotlin) and AI-adopter** who leverages cutting-edge tools to accelerate delivery. Proven track record in engineering robust **Microservices**, developing **algorithmic trading bots**, and integrating **Blockchain technology**. I turn abstract business concepts into deployed, **production-ready reality.**",
+    "url": "MohammadRezaV.ir",
+    "location": {
+      "city": "Shiraz",
+      "region": "Fars",
+      "country": "Iran",
+      "countryCode": "+98"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/sirtype/"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/SirTypeOfficial"
+      }
+    ],
+    "dob": "1998/4/18",
+    "marital_status": "Single",
+    "military_status": "Served"
+  },
+  "work": [
+    {
+      "position": "Senior Full-Stack Developer",
+      "name": "Ertebatat Pazhoohan Matin",
+      "startDate": "2025-06",
+      "location": {
+        "city": "Shiraz",
+        "region": "Fars",
+        "country": "Iran"
+      },
+      "summary": "* **Architected and maintained enterprise-grade** platforms\u00A0for School Service Management across major cities (Shiraz, Isfahan, Qazvin), utilizing\u00A0**C#**\u00A0and\u00A0**Onion Architecture\u00A0**to ensure high scalability and maintainability. * Developed \"Safir Mehr,\" a **native Android application\u00A0using\u00A0Kotlin**, providing a seamless mobile experience for fleet management and user interaction. * **Engineered \"Automatic license plate recognition\" an AI-powered system**\u00A0using\u00A0**Python**, integrating intelligent processing capabilities (**AI/Computer Vision**) into the company's product ecosystem. * **Accelerated product development cycles**\u00A0by pioneering the use of AI-native IDEs (like\u00A0Cursor), significantly boosting coding velocity and efficiency. * **Delivered multiple functional MVPs within one-week sprints**, leveraging bleeding-edge technologies such as\u00A0**.NET 10**\u00A0and\u00A0**PostgreSQL\u00A0**to rapidly validate business concepts."
+    },
+    {
+      "position": "Lead Full-Stack Developer & Project Manager",
+      "name": "BahamShop (Product Search Engine Startup)",
+      "startDate": "2024-12",
+      "endDate": "2025-06",
+      "location": {
+        "city": "Shiraz",
+        "region": "Fars",
+        "country": "Iran"
+      },
+      "summary": "* Spearheaded the end-to-end development of \"BahamShop,\" leading a cross-functional team to deliver a next-gen search engine ahead of schedule. * **Designed an\u00A0Automated SEO & Content Workflow\u00A0using\u00A0n8n**, **reducing manual data entry by\u00A0100%\u00A0and significantly improving product indexing speed on search engines**. * Orchestrated the aggregation of product data from multiple sources, creating a centralized database that allows users to compare prices across the entire Iranian market instantly. * Architected a high-performance**\u00A0Product Search Engine\u00A0utilizing\u00A0ASP.NET Core 9\u00A0and\u00A0Clean Architecture**, ensuring sub-millisecond response times for complex queries. * Developed a unified cross-platform experience using\u00A0**.NET MAUI\u00A0and\u00A0Blazor Hybrid**, sharing 90% of the codebase between Web, Android, and iOS to accelerate time-to-market. * Implemented\u00A0**CQRS\u00A0**and\u00A0**RabbitMQ\u00A0**to decouple data ingestion from search query processing, improving system scalability and fault tolerance."
+    },
+    {
+      "position": "Senior Full-Stack Developer (.NET)",
+      "name": "ParsiaAfzar FaraAndishanNovin",
+      "startDate": "2020-10",
+      "endDate": "2023-01",
+      "location": {
+        "city": "Shiraz",
+        "region": "Fars",
+        "country": "Iran"
+      },
+      "summary": "* Spearheaded the architecture and development\u00A0of a dynamic Workflow Engine (BPMS), transitioning from a monolithic structure to a scalable\u00A0**Microservices architecture**\u00A0using\u00A0**RabbitMQ**,\u00A0**CQRS**, and\u00A0**Domain-Driven Design (DDD)**. * Led a cross-functional development team, conducting code reviews and mentoring junior developers to ensure high code quality and successful integration of the\u00A0**Vue.js**\u00A0frontend with the\u00A0.NET Core\u00A0backend. * **Delivered mission-critical software solutions\u00A0for electricity distribution companies across multiple cities**, ensuring high availability and optimizing data processing workflows. * Engineered a custom Content Management System (**CMS**)\u00A0using\u00A0**ASP.NET Core MVC**, significantly improving the company's web presence and content administration capabilities."
+    },
+    {
+      "position": "Freelance Full-Stack Developer & Emerging Tech Enthusiast",
+      "name": "Independent Consultant",
+      "startDate": "2023-01",
+      "location": {
+        "city": "Shiraz",
+        "region": "Fars",
+        "country": "Iran"
+      },
+      "summary": "* **Engineered algorithmic trading systems**\u00A0using\u00A0**MQL4/MQL5**\u00A0and\u00A0C#, successfully converting complex manual trading strategies into automated bots (**EAs**) with back-testing and risk management modules. * **Architected cross-platform mobile solutions**\u00A0using\u00A0**.NET MAUI\u00A0and\u00A0Blazor Hybrid**, creating a unified codebase for Web, Android, and iOS to maximize development efficiency. * **Prototyped decentralized applications** (**dApps**)\u00A0by integrating**\u00A0Smart Contracts**\u00A0with .NET applications, leveraging blockchain technology for secure and transparent data handling. * **Developed advanced automation workflows**\u00A0using\u00A0**n8n\u00A0**and**\u00A0AI Agents**, enabling seamless integration between different SaaS platforms and reducing manual operational overhead. * **Delivered freelance consultancy**\u00A0for diverse clients, translating niche business requirements into robust software solutions while maintaining a continuous cycle of upskilling in bleeding-edge technologies."
+    },
+    {
+      "position": "Senior Full-Stack Developer (.NET)",
+      "name": "ParsiaAfzar FaraAndishanNovin",
+      "startDate": "2020-10",
+      "endDate": "2023-01",
+      "location": {
+        "city": "Shiraz",
+        "region": "Fars",
+        "country": "Iran"
+      },
+      "summary": "* Spearheaded the architecture and development\u00A0of a dynamic Workflow Engine (BPMS), transitioning from a monolithic structure to a scalable\u00A0**Microservices architecture**\u00A0using\u00A0**RabbitMQ**,\u00A0**CQRS**, and\u00A0**Domain-Driven Design (DDD)**. * Led a cross-functional development team, conducting code reviews and mentoring junior developers to ensure high code quality and successful integration of the\u00A0**Vue.js**\u00A0frontend with the\u00A0.NET Core\u00A0backend. * **Delivered mission-critical software solutions\u00A0for electricity distribution companies across multiple cities**, ensuring high availability and optimizing data processing workflows. * Engineered a custom Content Management System (**CMS**)\u00A0using\u00A0**ASP.NET Core MVC**, significantly improving the company's web presence and content administration capabilities."
+    },
+    {
+      "position": "Project Manager / .NET Developer",
+      "name": "Rasta International Finance",
+      "startDate": "2019-10",
+      "endDate": "2020-10",
+      "location": {
+        "city": "Shiraz",
+        "region": "Fars",
+        "country": "Iran"
+      },
+      "summary": "* **Established modern DevOps practices** by introducing **Git** and **Azure DevOps**, transitioning the organization from legacy workflows to **Agile/Scrum methodologies**, which significantly improved team collaboration and release cycles. * **Managed the end-to-end delivery** of a financial **CRM** and a network-based investment platform, translating complex business requirements into technical roadmaps. * Architected and deployed a **RESTful API** for a high-traffic **PWA** reservation system, ensuring seamless data synchronization and integration with the Angular frontend. * **Oversaw the frontend development strategy**, facilitating the adoption of **Angular frameworks** to enhance user experience and modernize the application's user interface."
+    },
+    {
+      "position": ".NET Developer",
+      "name": "Nikan Exir Vista Rayan",
+      "startDate": "2018-07",
+      "endDate": "2019-10",
+      "location": {
+        "city": "Shiraz",
+        "region": "Fars",
+        "country": "Iran"
+      },
+      "summary": "* **Developed and maintained RESTful APIs**\u00A0using\u00A0**ASP.NET Core**, serving as the backend backbone for a beauty salon reservation and appointment management system. * **Collaborated closely with the frontend team**\u00A0to integrate the Progressive Web Application (PWA) with backend services, ensuring efficient data transmission. * **Designed and implemented database schemas**\u00A0using\u00A0**SQL Server**\u00A0and\u00A0**Entity Framework**, optimizing data storage for user appointments and schedules."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate of Completion: Professional ASP.NET Core & MVC",
+      "date": "2018",
+      "issuer": "Islamic Azad University"
+    },
+    {
+      "name": "Mobile Application Development with Xamarin.Android",
+      "date": "2016",
+      "issuer": "Industrial Management Institute"
+    },
+    {
+      "name": "Web Development with PHP & CodeIgniter Framework",
+      "date": "2014",
+      "issuer": "Industrial Management Institute"
+    },
+    {
+      "name": "Object-Oriented Programming (OOP) & C# Fundamentals",
+      "date": "2013",
+      "issuer": "Industrial Management Institute"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages: C#, Python, JavaScript, SQL, HTML, CSS, MQL4/MQL5",
+      "level": "Basic Knowledge"
+    },
+    {
+      "name": ".NET Ecosystem & Frameworks: .NET 8/9, ASP.NET Core, Blazor (WASM/Server), .NET MAUI, Entity Framework Core, SignalR, LINQ",
+      "level": "Basic Knowledge"
+    },
+    {
+      "name": "Frontend & UI Libraries: Vue.js, React.js, Angular, Bootstrap, MudBlazor, DevExpress, Telerik, Syncfusion",
+      "level": "Basic Knowledge"
+    },
+    {
+      "name": "Databases: Microsoft SQL Server, PostgreSQL, MySQL, SQLite, Redis",
+      "level": "Basic Knowledge"
+    },
+    {
+      "name": "Architecture & Concepts: Microservices, Clean Architecture, Domain-Driven Design (DDD), CQRS, SOLID Principles, Design Patterns, RESTful APIs, OpenAPI/Swagger",
+      "level": "Basic Knowledge"
+    },
+    {
+      "name": "DevOps, Cloud & Tools: Docker, Kubernetes, Git, Azure DevOps, CI/CD Pipelines, RabbitMQ, Visual Studio",
+      "level": "Basic Knowledge"
+    },
+    {
+      "name": "Testing: xUnit, NUnit, Moq, TDD",
+      "level": "Basic Knowledge"
+    },
+    {
+      "name": "Emerging Tech & Automation: Blockchain Development, Smart Contracts, AI/ML Integration (Python), Algorithmic Trading, n8n (Workflow Automation)",
+      "level": "Basic Knowledge"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Persian",
+      "fluency": "Proficient"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ]
+}
