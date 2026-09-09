@@ -8,7 +8,7 @@ alwaysApply: true
 
 هنگامی که کاربر درباره فعالیت‌ها، دستاوردها یا چالش‌های خود در یک سابقه کاری (مانند باهم‌شاپ، پارسیا افزار و…) توضیحاتی — حتی عامیانه یا پراکنده — می‌دهد، به‌عنوان معمار سیستم و استراتژیست شغلی مراحل زیر را اجرا کن. این قانون را حتی اگر فایل `career-hub` باز نباشد اعمال کن؛ سپس فایل هدف را باز و بنویس.
 
-**مسیریابی پرونده:** دوره‌ها / سازمان مدیریت صنعتی / آموزش / سربازی / self-study → `career-hub/education/00-training-path.md` · نیکان / Nikan → `01-nikan-exir.md` · رستا / Rasta → `02-rasta-tejarat.md` · پارسیا / ParsiaAfzar → `03-parsia-afzar.md` · فریلنس / مشاوره / کار مستقل / ترید / MQL / بلاکچین (دی ۱۴۰۱–آذر ۱۴۰۳) → `04-freelance-consultant.md` · باهم‌شاپ / BahamShop → `05-baham-shop.md` · پژوهان / Ertebatat (تمام‌وقت) → `06-ertebatat-pazhouhan.md` · عیار / عیار پلاس / Ayar Plus (مهر ۱۴۰۴ – شهریور ۱۴۰۵؛ پیمانکار دات‌نت و مشاور فنی دورکار / .NET Contractor & Remote Technical Consultant؛ هم‌پوشان با پژوهان) → `07-ayar-plus.md`. نام فارسی شرکت همیشه «عیار پلاس» است؛ اسلاگ فایل انگلیسی عوض نشود. اگر شرکت جدید بود، فایل بعدی را با پیشوند عددی بساز و جدول README را به‌روز کن.
+**مسیریابی پرونده:** دوره‌ها / سازمان مدیریت صنعتی / آموزش / سربازی / self-study → `career-hub/education/00-training-path.md` · نیکان / Nikan → `01-nikan-exir.md` · رستا / Rasta → `02-rasta-tejarat.md` · پارسیا / ParsiaAfzar → `03-parsia-afzar.md` · فریلنس / مشاوره / کار مستقل / ترید / MQL / بلاکچین (دی ۱۴۰۱–آذر ۱۴۰۳) → `04-freelance-consultant.md` · باهم‌شاپ / BahamShop → `05-baham-shop.md` · پژوهان / Ertebatat (اشتغال رسمی تمام‌وقت On-site/Hybrid؛ تیر ۱۴۰۴ – پایان تیر ۱۴۰۵؛ نقش: توسعه‌دهنده فول‌استک تمام‌وقت) → `06-ertebatat-pazhouhan.md` · عیار / عیار پلاس / Ayar Plus (مهر ۱۴۰۴ – شهریور ۱۴۰۵؛ پیمانکار دات‌نت و مشاور فنی دورکار پاره‌وقت / Part-time / Remote Technical Contractor؛ `employment_type: Part-time / Remote Contractor`؛ ساعات خارج از تعهد سازمانی پژوهان؛ بدون تضاد منافع با قرارداد تمام‌وقت) → `07-ayar-plus.md`. نام فارسی شرکت همیشه «عیار پلاس» است؛ اسلاگ فایل انگلیسی عوض نشود. اگر شرکت جدید بود، فایل بعدی را با پیشوند عددی بساز و جدول README را به‌روز کن. هرگز ۰۶ و ۰۷ را دو شغل تمام‌وقت ننویس.
 
 حقیقت را از حرف کاربر بگیر. عدد، کارفرما، مدرک یا استک نساز. با `career-engine.mdc` هم‌خوان بمان.
 
@@ -21,7 +21,7 @@ alwaysApply: true
 - عنوان باید حوزه عملکرد، نقش فنی و دامنه تخصصی را بگوید:
   * به‌جای "Senior Full-Stack Developer" → "Full-Stack .NET Developer" یا "Software Engineer (.NET & Systems)"
   * به‌جای "Senior Software Architect" → "Software Architect / Systems Developer"
-  * به‌جای "Senior Contractor" / «پیمانکار ارشد» → ".NET Contractor & Technical Consultant" / «پیمانکار دات‌نت و مشاور فنی دورکار»
+  * به‌جای "Senior Contractor" / «پیمانکار ارشد» → "Part-time / Remote Technical Contractor" / «پیمانکار دات‌نت و مشاور فنی دورکار پاره‌وقت»
 - عنوان عملکردی که کار واقعی را توصیف می‌کند مجاز است: توسعه‌دهنده .NET، معمار نرم‌افزار، مشاور فنی، راهبر فنی (فقط جایی که خزانه هماهنگی تیم را به‌عنوان کار ثبت کرده، مثل باهم‌شاپ). راهبر / Lead را روی تیتر عمومی پروفایل به‌عنوان نشان ارشدیت نگذار.
 
 عنوان پیش‌فرض عمومی: توسعه‌دهنده فول‌استک .NET و معمار نرم‌افزار / Full-Stack .NET Developer & Software Architect.
@@ -110,6 +110,7 @@ alwaysApply: true
 - فایل مربوطه (مثلاً `03-parsia-afzar.md`) را باز کن.
 - Frontmatter را آپدیت کن: `core_skills`، ابزارها، `related_certificates`، و در صورت وجود عدد واقعی از کاربر فیلد `metrics` (لیست رشته‌های X-Y-Z).
 - `role_fa` / `role_en` را عملکردی بنویس. ارشد / Senior / Lead رتبه‌ای نگذار مگر عنوان قراردادی همان شغل باشد.
+- برای پژوهان: `employment_type: Full-time / On-site-Hybrid` و تصریح اشتغال رسمی تمام‌وقت اصلی. برای عیار پلاس: `employment_type: Part-time / Remote Contractor` و تصریح پروژه پاره‌وقت خارج از ساعات پژوهان، بدون تضاد منافع.
 - بخش فارسی (🇮🇷) و انگلیسی (🇬🇧) را موازی بنویس؛ همان مسئله، همان راهکار، همان معیار.
 
 ## ۴. همگام‌سازی با فهرست روت (`README.md`)

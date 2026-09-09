@@ -22,9 +22,9 @@ Full-Stack .NET Developer & Software Architect
 
 توسعه‌دهنده فول‌استک .NET و معمار نرم‌افزار، متمرکز روی .NET 9/10، Clean Architecture، DDD، CQRS و Microservices. هوش مصنوعی کاربردی و بینایی ماشین در تولید با ALPR، Python و FastAPI؛ مهندسی پرامپت و ایجنت در حلقه توسعه. اتوماسیون داده و فرایند: پایپ‌لاین n8n، Redis، SignalR، RabbitMQ و سیستم‌های الگوریتمی MQL5.
 
-مسیر از API نوبت‌دهی و بازنویسی اتوماسیون توزیع برق تا کار مستقل روی بک‌تست MQL و پایپ‌لاین n8n، بعد موتور جستجوی کالا (درآمد از ماه اول)، پلتفرم سرویس مدارس (در بعضی شهرها بیش از ۲۰۰ هزار کاربر)، و پیمانکاری پاره‌وقت ERP طلا برای بازار کویت در عیار پلاس.
+مسیر از API نوبت‌دهی و بازنویسی اتوماسیون توزیع برق تا کار مستقل روی بک‌تست MQL و پایپ‌لاین n8n، بعد موتور جستجوی کالا (درآمد از ماه اول)، اشتغال رسمی تمام‌وقت روی پلتفرم سرویس مدارس پژوهان (در بعضی شهرها بیش از ۲۰۰ هزار کاربر)، و پیمانکاری پاره‌وقت دورکار ERP طلا برای بازار کویت در عیار پلاس (خارج از ساعات تعهد سازمانی پژوهان).
 
-Full-stack .NET developer and software architect. Applied AI and computer vision in production (ALPR on Python and FastAPI). Data and process automation with n8n, Redis, SignalR, RabbitMQ, and MQL5. Path includes electricity-distribution Microservices, first-month revenue at a product-search startup, a school-transport platform (200k+ users in some cities), and a part-time remote engagement on a Kuwait gold ERP at Ayar Plus.
+Full-stack .NET developer and software architect. Applied AI and computer vision in production (ALPR on Python and FastAPI). Data and process automation with n8n, Redis, SignalR, RabbitMQ, and MQL5. Path includes electricity-distribution Microservices, first-month revenue at a product-search startup, official full-time work on a school-transport platform (200k+ users in some cities), and a part-time remote contracting engagement on a Kuwait gold ERP at Ayar Plus, outside Pazhoohan working hours.
 
 **تماس:** [mohammadrezav.ir](https://mohammadrezav.ir) · [LinkedIn](https://www.linkedin.com/in/sirtype/) · [GitHub](https://github.com/SirTypeOfficial) · [mv6468@gmail.com](mailto:mv6468@gmail.com) · +98 933 229 7757
 
@@ -62,8 +62,10 @@ Full-stack .NET developer and software architect. Applied AI and computer vision
 | 03 | پارسیا افزار فرااندیشان نوین · [ParsiaAfzar FaraAndishanNovin](career-hub/experiences/03-parsia-afzar.md) | پشتیبانی و توسعه اتوماسیون توزیع برق؛ بازنویسی Microservices / CQRS / RabbitMQ / DDD | مهر ۱۳۹۹ – دی ۱۴۰۱ · Oct 2020 – Jan 2023 | [03-parsia-afzar.md](career-hub/experiences/03-parsia-afzar.md) |
 | 04 | کار مستقل · [Independent](career-hub/experiences/04-freelance-consultant.md) | مهندس مستقل · بک‌تست MQL5، پایپ‌لاین n8n، تحقیق معماری (Onion، Docker، Blazor Hybrid / MAUI) | دی ۱۴۰۱ – آذر ۱۴۰۳ · Jan 2023 – Dec 2024 | [04-freelance-consultant.md](career-hub/experiences/04-freelance-consultant.md) |
 | 05 | استارتاپ باهم‌شاپ · [BahamShop](career-hub/experiences/05-baham-shop.md) | راهبر فنی و مهندس اتوماسیون داده و معماری بک‌اند · ASP.NET Core 9، n8n، Clean Architecture؛ درآمد از ماه اول | دی ۱۴۰۳ – تیر ۱۴۰۴ · Dec 2024 – Jun 2025 | [05-baham-shop.md](career-hub/experiences/05-baham-shop.md) |
-| 06 | ارتباطات پژوهان متین · [Ertebatat Pazhoohan Matin](career-hub/experiences/06-ertebatat-pazhouhan.md) | توسعه‌دهنده تمام‌وقت پلتفرم سرویس مدارس · .NET 10، ALPR / FastAPI، Kotlin، SignalR، Redis | تیر ۱۴۰۴ – پایان تیر ۱۴۰۵ · Jun 2025 – Jul 2026 | [06-ertebatat-pazhouhan.md](career-hub/experiences/06-ertebatat-pazhouhan.md) |
-| 07 | عیار پلاس · [Ayar Plus](career-hub/experiences/07-ayar-plus.md) | پیمانکار دات‌نت و مشاور فنی دورکار (.NET Contractor & Remote Technical Consultant، Part-time) · ERP طلا، کویت، .NET 10 / MAUI / Bit Platform | مهر ۱۴۰۴ – شهریور ۱۴۰۵ · Sep 2025 – Sep 2026 | [07-ayar-plus.md](career-hub/experiences/07-ayar-plus.md) |
+| 06 | ارتباطات پژوهان متین · [Ertebatat Pazhoohan Matin](career-hub/experiences/06-ertebatat-pazhouhan.md) | توسعه‌دهنده فول‌استک تمام‌وقت (Full-time On-site/Hybrid) · اشتغال رسمی و نقش اصلی · .NET 10، ALPR / FastAPI، Kotlin، SignalR، Redis | تیر ۱۴۰۴ – پایان تیر ۱۴۰۵ · Jun 2025 – Jul 2026 | [06-ertebatat-pazhouhan.md](career-hub/experiences/06-ertebatat-pazhouhan.md) |
+| 07 | عیار پلاس · [Ayar Plus](career-hub/experiences/07-ayar-plus.md) | پیمانکار دات‌نت و مشاور فنی دورکار پاره‌وقت (Part-time / Remote Technical Contractor) · خارج از ساعات پژوهان · ERP طلا، کویت، .NET 10 / MAUI / Bit Platform | مهر ۱۴۰۴ – شهریور ۱۴۰۵ · Sep 2025 – Sep 2026 | [07-ayar-plus.md](career-hub/experiences/07-ayar-plus.md) |
+
+هم‌پوشانی بازه ۰۶ و ۰۷ دو شغل تمام‌وقت نیست. پژوهان اشتغال رسمی تمام‌وقت On-site/Hybrid (تیر ۱۴۰۴ تا پایان تیر ۱۴۰۵) است. عیار پلاس پروژه پیمانکاری پاره‌وقت دورکار در ساعات خارج از تعهد سازمانی پژوهان است؛ تضاد منافع، رقابت تجاری یا منع قانونی با قرارداد تمام‌وقت ثبت نشده.
 
 ---
 
@@ -100,7 +102,8 @@ career-hub/
 .cursor/rules/
 ├── career-engine.mdc
 ├── experience-manager.mdc
-└── career-hub-rule.mdc
+├── career-hub-rule.mdc
+└── job-tailor.mdc          # تولید رزومه ATS از روی JD
 ```
 
 ---
@@ -115,13 +118,13 @@ career-hub/
 
 ## تولید رزومه ATS با Cursor
 
-وقتی متن آگهی (JD) را در چت می‌گذارید، ایجنت باید از خزانه استفاده کند — نه از بازنویسی آزاد.
+وقتی متن آگهی (JD) را در چت می‌گذارید، ایجنت باید از خزانه استفاده کند — نه از بازنویسی آزاد. موتور تولید: [`.cursor/rules/job-tailor.mdc`](.cursor/rules/job-tailor.mdc). دکترین لحن و Show Don't Tell: [`.cursor/rules/career-engine.mdc`](.cursor/rules/career-engine.mdc).
 
 1. آگهی را کامل پیست کنید و زبان خروجی را بگویید (`fa` یا `en`).
-2. مهارت `tailor-ats-resume` و قانون `.cursor/rules/career-engine.mdc` اعمال می‌شود.
-3. ایجنت سوابق ۰۱–۰۷ و مدارک را می‌خواند، نقش‌های هم‌پوشان با استک JD را بالا می‌آورد، و گلوله‌ها را با فرمول **Google X-Y-Z** می‌نویسد (انجام X، با معیار Y، از طریق Z).
-4. خروجی تک‌ستونه ATS است: خلاصه، شایستگی‌ها، تجربه، پروژه‌های شاخص، مدارک — بدون جدول و آیکون داخل خود رزومه.
-5. فایل در `career-hub/tailored-resumes/` ذخیره می‌شود؛ نسخه‌های قبلی به `archive/` می‌روند.
+2. قانون `job-tailor.mdc` کلمات کلیدی، استک و دغدغه تجاری JD را استخراج می‌کند، بعد سوابق `career-hub/experiences/`، آموزش و مدارک را می‌خواند.
+3. حدود ۷۰٪ وزن روی سوابق اخیر است (عیار پلاس، پژوهان، باهم‌شاپ). پژوهان تمام‌وقت On-site/Hybrid و عیار پلاس پیمانکار پاره‌وقت دورکار برچسب می‌خورند تا ATS دو شغل تمام‌وقت نخواند.
+4. گلوله‌ها با فرمول **Google X-Y-Z** بازنویسی می‌شوند (انجام X، با معیار Y، از طریق Z). عدد جعلی ساخته نمی‌شود.
+5. دو فایل تک‌ستونه در `career-hub/tailored-resumes/` ذخیره می‌شود: `[Company]-[Role]-[Lang].md` و `[Company]-[Role]-[Lang].html` (A4، Inter برای انگلیسی، Vazirmatn برای فارسی). نسخه‌های قبلی همان سه‌گانه به `archive/` می‌روند.
 
 **نمونه درخواست:**
 

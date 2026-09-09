@@ -1,0 +1,159 @@
+---
+description: Engine for analyzing JDs and generating single-column tailored ATS resumes
+globs: career-hub/tailored-resumes/**/*
+alwaysApply: true
+---
+
+# Job Tailor — ATS resume engine
+
+When the user pastes a job description (JD), asks to tailor a resume, or asks for an ATS Markdown/HTML pack, generate the resume immediately from the vault. Do not wait for extra confirmation unless the vault is missing.
+
+Default public title (header, unless the user supplies a contractual title from the vault): **توسعه‌دهنده فول‌استک .NET و معمار نرم‌افزار | Full-Stack .NET Developer & Software Architect**.
+
+Follow `.cursor/rules/career-engine.mdc` (۸ اصل طلایی، Show Don't Tell، X-Y-Z) and `.cursor/skills/generate-ats-pdf/print-template.html` for print CSS. Tone: `.cursor/skills/humanizer/SKILL.md`. Persian: professional engineer register, not bookish AI.
+
+## Trigger
+
+Apply when any of these happen:
+
+- A JD is pasted in chat (English or Persian).
+- The user asks for a tailored / ATS / printable resume.
+- Files under `career-hub/tailored-resumes/` are being created or rewritten for a target role.
+
+## Employment-status integrity (ATS / background check)
+
+Never present overlapping roles as two full-time jobs.
+
+| Role file | Label on every tailored resume |
+| --- | --- |
+| `06-ertebatat-pazhouhan.md` | Primary official full-time, On-site/Hybrid, Tir 1404 – end of Tir 1405 |
+| `07-ayar-plus.md` | Part-time / Remote Contractor; hours outside Pazhoohan commitments; no conflict of interest, no commercial competition, no contractual bar |
+
+Do not copy Senior, Junior, Mid-level, Lead-as-rank, ارشد, or لید onto the header. BahamShop may keep `راهبر فنی` / Technical Lead only as the vault functional role for that job, never as the profile headline.
+
+## Pipeline
+
+### 1. Analyze the JD
+
+Extract and keep a short internal list (do not dump it into the resume):
+
+- Stack and tools (languages, frameworks, cloud, messaging, mobile).
+- Architecture words (Clean Architecture, DDD, CQRS, Microservices, Onion).
+- Domain (transport, gold/ERP, electricity, search, automation, AI/CV).
+- Commercial concerns (scale, uptime, settlement, offline operations, delivery speed).
+- Requested rank: note it to understand the brief; do not copy it onto the resume title.
+
+### 2. Read the vault (required)
+
+Read every file under:
+
+- `career-hub/experiences/`
+- `career-hub/education/`
+- `career-hub/certificates/` (`certificates.md` and `assets/`)
+
+Contact defaults if the vault omits them: Shiraz, Iran · +98 933 229 7757 · mv6468@gmail.com · mohammadrezav.ir · linkedin.com/in/sirtype · github.com/SirTypeOfficial.
+
+If `career-hub/` is empty, stop. Do not invent a resume from `index.html` or site JSON.
+
+### 3. Match experiences (no invention)
+
+Select duties, stack, dates, employers, and metrics only from the vault. If the JD asks for Kubernetes, Pine Script as a headline skill, or any stack not in the vault, omit it. Do not fabricate employers, dates, certificates, or numbers.
+
+### 4. Recency Effect (70%)
+
+About 70% of resume length and emphasis stays on the last three to four years:
+
+1. Ayar Plus (`07`)
+2. Ertebatat Pazhoohan Matin (`06`)
+3. BahamShop (`05`)
+
+Nikan (`01`) and Rasta (`02`) stay short foundation lines. ParsiaAfzar (`03`) and independent work (`04`) appear only when they overlap the JD (Microservices, CQRS, RabbitMQ, n8n, MQL5). Drop off-stack roles instead of padding. Rank 01–07 by overlap, then still weight 05–07 more heavily.
+
+### 5. Rewrite bullets as Google X-Y-Z
+
+Each bullet: accomplished **X**, measured by **Y**, by doing **Z**. Architectural verbs: Architected, Engineered, Optimized, Containerized, Designed, Shipped. No passive adjacent verbs («همکاری در», "helped the team"). No invented metrics. No banned filler (spearheaded, cutting-edge, game-changer, synergy, robust-as-fluff, and the career-engine Persian list).
+
+Mirror JD keywords only when they are true in the vault.
+
+Language: user request wins; else match the JD (`en` or `fa`). Keep the same facts in both languages if two packs are requested.
+
+### 6. Write two clean files
+
+Slug `[Company]` and `[Role]` to ASCII kebab-case. `[Lang]` is `en` or `fa`. Do not put Senior in a filename unless it is the vault contractual title.
+
+```text
+career-hub/tailored-resumes/[Company]-[Role]-[Lang].md
+career-hub/tailored-resumes/[Company]-[Role]-[Lang].html
+```
+
+Examples: `Snapp-FullStack-NET-en.md`, `AyarPlus-MAUI-Contractor-fa.html`.
+
+Move superseded drafts of the same company-role-lang triple to `career-hub/tailored-resumes/archive/`.
+
+## Markdown (ATS)
+
+Single column. No tables, icons, badges, columns, or text-in-images. One to two pages.
+
+```markdown
+# Mohammad Reza Vazifeh
+[Functional title tailored to the JD — never a self-proclaimed seniority rank]
+Shiraz, Iran | +98 933 229 7757 | mv6468@gmail.com | mohammadrezav.ir | linkedin.com/in/sirtype | github.com/SirTypeOfficial
+
+## Professional Summary
+[3–4 lines. Functional title + JD-matched stack. One vault-backed proof.]
+
+## Core Competencies
+**Languages:** …
+**Backend:** …
+**Architecture:** …
+**Data / Messaging:** …
+**Frontend / Mobile:** …
+**Cloud / DevOps:** …
+
+## Key Technical Experience
+### [Role] | [Company]
+[City, Country] | [Mon YYYY – Mon YYYY]
+- [X-Y-Z]
+- [X-Y-Z]
+
+## Flagship Projects
+### [Project]
+- [X-Y-Z tied to the JD]
+
+## Certifications
+- [Name] | [Issuer] | [Year]
+
+## Education
+- [Item], [Institute] | [Year]
+```
+
+Persian section order (same facts): مشخصات، خلاصه حرفه‌ای، شایستگی‌های اصلی، تجربه فنی کلیدی، پروژه‌های شاخص، مدارک، تحصیلات.
+
+On overlapping 06/07 rows, put employment type in the role line or the first meta line (`Full-time / On-site-Hybrid` vs `Part-time / Remote Contractor`).
+
+Certifications only from `certificates.md`. Education only from `career-hub/education/00-training-path.md`.
+
+## HTML (printable A4, ATS-safe)
+
+Create a standalone HTML file next to the Markdown. Same content, same section order.
+
+- `<html lang="en" dir="ltr">` or `<html lang="fa" dir="rtl">`.
+- Isolated A4: `@page { size: A4; margin: 14mm 16mm; }`. Single column. Ink on white.
+- English font: `Inter, Arial, "Helvetica Neue", Helvetica, sans-serif`.
+- Persian font: `Vazirmatn, Tahoma, "Segoe UI", sans-serif`.
+- Load fonts with a Google Fonts `<link>` (Inter and/or Vazirmatn). No icon fonts.
+- No cards, logos, photos, colored boxes, two-column layouts, SVG charts, or background graphics. One 1px hairline under `h2` is the only decoration.
+- Real text nodes only (selectable PDF after Print).
+- Start from `.cursor/skills/generate-ats-pdf/print-template.html`, then switch `body` font-family to Vazirmatn when `dir="rtl"`.
+
+After writing both files, tell the user to open the HTML in a browser: Print → Save as PDF (A4, headers/footers off).
+
+## Checklist (do not skip)
+
+- [ ] JD keywords extracted (stack, domain, commercial concern)
+- [ ] Experiences, education, and certificates read
+- [ ] Roles ranked by overlap; recency 70% on 05–07
+- [ ] 06 labeled full-time primary; 07 labeled part-time remote contractor
+- [ ] Header title functional (Show, Don't Tell)
+- [ ] `[Company]-[Role]-[Lang].md` and `.html` written
+- [ ] No invented metrics, employers, or certs

@@ -2,12 +2,13 @@
 id: 06-ertebatat-pazhouhan
 company_fa: شرکت ارتباطات پژوهان متین
 company_en: Ertebatat Pazhoohan Matin
-role_fa: توسعه‌دهنده تمام‌وقت پلتفرم سرویس مدارس
-role_en: Full-time developer, school-transport platform
+role_fa: توسعه‌دهنده فول‌استک تمام‌وقت (On-site/Hybrid)
+role_en: Full-time Full-Stack Developer (On-site/Hybrid)
 period_fa: تیر ۱۴۰۴ – پایان تیر ۱۴۰۵
 period_en: Jun 2025 – Jul 2026
 location: Shiraz, Fars, Iran
-employment_type: Full-time
+employment_type: Full-time / On-site-Hybrid
+primary_employment: true
 core_skills:
   - .NET 10
   - FastAPI
@@ -37,7 +38,7 @@ tools:
   - C#
   - Cursor
 parallel_work:
-  - "Ayar Plus (عیار پلاس): part-time remote technical contractor (Mehr 1404 – Shahrivar 1405); see 07-ayar-plus.md"
+  - "Ayar Plus (عیار پلاس): part-time remote contractor outside Pazhoohan hours (Mehr 1404 – Shahrivar 1405); no conflict of interest with this full-time contract; see 07-ayar-plus.md"
 metrics:
   - "در بعضی شهرها بیش از ۲۰۰ هزار کاربر"
   - "حسابداری و درگاه پرداخت بین ناوگان، سرویس، راننده، دانش‌آموز و ولی"
@@ -52,13 +53,13 @@ related_certificates:
 
 # ارتباطات پژوهان متین | Ertebatat Pazhoohan Matin
 
-**نقش:** توسعه‌دهنده تمام‌وقت پلتفرم سرویس مدارس / Full-time developer, school-transport platform  
+**نقش:** توسعه‌دهنده فول‌استک تمام‌وقت (Full-time On-site/Hybrid)  
 **بازه:** تیر ۱۴۰۴ – پایان تیر ۱۴۰۵ · Jun 2025 – Jul 2026  
 **محل:** شیراز، فارس، ایران  
-**نوع همکاری:** تمام‌وقت  
+**نوع همکاری:** اشتغال رسمی تمام‌وقت · On-site/Hybrid (نقش اصلی در این بازه)  
 **محصول:** پلتفرم سازمانی سرویس مدارس برای شهرداری‌ها (شیراز، اصفهان، قزوین)
 
-شغل قبلی: [05-baham-shop.md](05-baham-shop.md) · پیمانکار پاره‌وقت موازی از مهر ۱۴۰۴: [07-ayar-plus.md](07-ayar-plus.md)
+شغل قبلی: [05-baham-shop.md](05-baham-shop.md) · پروژه پیمانکاری پاره‌وقت، خارج از ساعات تعهد سازمانی، از مهر ۱۴۰۴: [07-ayar-plus.md](07-ayar-plus.md)
 
 ## مدارک مرتبط | Related certificates
 
@@ -74,7 +75,7 @@ related_certificates:
 
 ### مسئله و چالش معماری
 
-تیر ۱۴۰۴، بعد از باهم‌شاپ، وارد ارتباطات پژوهان متین شدم و تا پایان تیر ۱۴۰۵ آنجا بودم. نقش تمام‌وقت بود. پلتفرم سازمانی سرویس مدارس بود و به شهرداری‌ها ارائه می‌شد. در کلان‌شهرهایی مثل شیراز، اصفهان و قزوین استفاده می‌شد. استک پلتفرم C# با معماری پیاز (Onion Architecture) بود. کار من توسعه سامانه، گزارش‌ها، بهبود کوئری و بالا بردن سرعت سیستم بود.
+تیر ۱۴۰۴، بعد از باهم‌شاپ، وارد ارتباطات پژوهان متین شدم و تا پایان تیر ۱۴۰۵ آنجا بودم. این سابقه اشتغال رسمی و تمام‌وقت اصلی من در همان بازه است. محل کار On-site/Hybrid در شیراز بود. پلتفرم سازمانی سرویس مدارس بود و به شهرداری‌ها ارائه می‌شد. در کلان‌شهرهایی مثل شیراز، اصفهان و قزوین استفاده می‌شد. استک پلتفرم C# با معماری پیاز (Onion Architecture) بود. کار من توسعه سامانه، گزارش‌ها، بهبود کوئری و بالا بردن سرعت سیستم بود.
 
 بار مالی روی همین پلتفرم بود. در بعضی شهرها بیش از ۲۰۰ هزار کاربر داشت. مدیریت منابع مالی و حساب‌وکتاب، درگاه پرداخت، و تسویه بین شرکت‌های ناوگان حمل‌ونقل، سرویس‌ها، راننده‌ها، دانش‌آموزان و اولیا باید درست کار می‌کرد. نقش‌ها متنوع بود، از جمله بازرس. پیچیدگی حسابداری بالا بود.
 
@@ -88,7 +89,7 @@ related_certificates:
 
 بیشتر توسعه را با Cursor پیش بردم. قوانین و مهارت‌ها را به مدل‌هایی که استفاده می‌کردم اضافه کردم، کد را ریویو کردم، و MVP سریع تحویل دادم. یکی از آن‌ها اپ مشابه اسنپ بود با .NET 10، PostgreSQL، Polygon روی Postgres، SignalR و Redis: درخواست سفر برای راننده می‌رفت، قبول یا رد می‌کرد، داشبورد داشت، و با SignalR ناوگان در پنل ادمین دیده می‌شد. شرکت می‌خواست این MVP را به مشتری‌هایش بدهد.
 
-از مهر ۱۴۰۴، بیرون از این نقش تمام‌وقت، به‌صورت پیمانکار دات‌نت و مشاور فنی دورکار (پاره‌وقت) روی عیار پلاس کار کردم. جزئیات در [07-ayar-plus.md](07-ayar-plus.md).
+از مهر ۱۴۰۴، در ساعات خارج از تعهد سازمانی پژوهان، به‌صورت پیمانکار دات‌نت و مشاور فنی دورکار پاره‌وقت روی عیار پلاس کار کردم. آن پروژه با این قرارداد تمام‌وقت تضاد منافع، رقابت تجاری یا منع قانونی نداشت. جزئیات در [07-ayar-plus.md](07-ayar-plus.md).
 
 بازه را با پایان دوره قرارداد، پایان تیر ۱۴۰۵، بستیم.
 
@@ -112,7 +113,7 @@ MVP سفر مشابه اسنپ را برای ارائه به مشتری شرکت
 
 ### Problem and architectural challenge
 
-I joined Ertebatat Pazhoohan Matin in Jun 2025 (Tir 1404), after BahamShop, and stayed through the end of Jul 2026 (Tir 1405). The role was full-time. The product was an enterprise school-transport platform sold to municipalities. It ran in metros such as Shiraz, Isfahan, and Qazvin. The stack was C# with Onion Architecture. The work was features, reports, query work, and making the system faster.
+I joined Ertebatat Pazhoohan Matin in Jun 2025 (Tir 1404), after BahamShop, and stayed through the end of Jul 2026 (Tir 1405). This tenure was my primary, official full-time employment for that period. Work mode was on-site/hybrid in Shiraz. The product was an enterprise school-transport platform sold to municipalities. It ran in metros such as Shiraz, Isfahan, and Qazvin. The stack was C# with Onion Architecture. The work was features, reports, query work, and making the system faster.
 
 Finance sat on the same platform. Some cities had more than 200,000 users. Money, books, the payment gateway, and settlement between fleet companies, services, drivers, students, and parents had to stay correct. Roles were many, including inspector. The accounting was hard.
 
@@ -126,7 +127,7 @@ For the inspector role I started wiring in AI and computer vision. I built an au
 
 I did much of the development in Cursor. I added rules and skills to the models I used, reviewed code, and shipped MVPs quickly. One of those was a Snapp-like ride app on .NET 10, PostgreSQL, Postgres Polygon, SignalR, and Redis: a trip request went to the driver, who accepted or rejected it, there was a dashboard, and SignalR showed the fleet in the admin panel. The company wanted that MVP for its own customers.
 
-From Sep 2025 (Mehr 1404), outside this full-time role, I also worked as a .NET contractor and remote technical consultant (part-time) on Ayar Plus (عیار پلاس). Details are in [07-ayar-plus.md](07-ayar-plus.md).
+From Sep 2025 (Mehr 1404), outside Pazhoohan working hours, I also worked as a part-time remote .NET technical contractor on Ayar Plus (عیار پلاس). That project did not conflict with this full-time contract: no conflict of interest, no commercial competition, and no contractual prohibition. Details are in [07-ayar-plus.md](07-ayar-plus.md).
 
 The contract term ended at the close of Jul 2026 (Tir 1405).
 
@@ -148,4 +149,4 @@ Raised delivery speed with Cursor by adding rules and skills to the models and r
 
 ## ATS Keywords
 
-`.NET 10` `FastAPI` `ALPR` `computer vision` `Kotlin` `Redis` `SignalR` `Python` `PostgreSQL` `Polygon` `Onion Architecture` `C#` `Android` `Safir Mehr` `Cursor` `MVP` `fleet management` `school transport` `payment gateway` `accounting` `prompt engineering`
+`.NET 10` `FastAPI` `ALPR` `computer vision` `Kotlin` `Redis` `SignalR` `Python` `PostgreSQL` `Polygon` `Onion Architecture` `C#` `Android` `Safir Mehr` `Cursor` `MVP` `fleet management` `school transport` `payment gateway` `accounting` `prompt engineering` `full-time` `on-site` `hybrid`

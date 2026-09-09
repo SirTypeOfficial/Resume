@@ -6,13 +6,13 @@ Paste each block into the matching LinkedIn Experience Description. Keep the tit
 
 ## 07 · Ayar Plus (عیار پلاس)
 
-**Title:** .NET Contractor & Remote Technical Consultant (Part-time)  
+**Title:** Part-time / Remote Technical Contractor (.NET)  
 **Company:** Ayar Plus  
 **Dates:** Sep 2025 – Sep 2026  
 **Location:** Remote (Iran); Kuwait market  
-**Type:** Contract · Part-time
+**Type:** Contract · Part-time · Remote
 
-Part-time remote .NET contractor alongside a full-time role at Ertebatat Pazhoohan Matin. Custom gold ERP for the Kuwait market. Frontend on .NET MAUI and .NET 10, talking to a PHP backend.
+Part-time remote .NET contractor. Work sat outside hours of the primary full-time On-site/Hybrid role at Ertebatat Pazhoohan Matin. No conflict of interest, commercial competition, or contractual bar with that full-time contract. Custom gold ERP for the Kuwait market. Frontend on .NET MAUI and .NET 10, talking to a PHP backend.
 
 - Engineered the gold ERP frontend (inventory, gold math, accounting) on multilingual XAML.
 - Architected online and offline invoicing with a request queue and Windows-to-Android LAN discovery.
@@ -30,13 +30,13 @@ Part-time remote .NET contractor alongside a full-time role at Ertebatat Pazhooh
 
 ## 06 · Ertebatat Pazhoohan Matin
 
-**Title:** Full-time Developer, School-Transport Platform  
+**Title:** Full-time Full-Stack Developer (On-site/Hybrid)  
 **Company:** Ertebatat Pazhoohan Matin  
 **Dates:** Jun 2025 – Jul 2026  
 **Location:** Shiraz, Iran  
-**Type:** Full-time
+**Type:** Full-time · On-site/Hybrid
 
-Enterprise school-transport platform sold to municipalities (Shiraz, Isfahan, Qazvin) on C# and Onion Architecture. Some cities had more than 200,000 users. Accounting and the payment gateway sat on the same platform.
+Primary official full-time employment for this period. Enterprise school-transport platform sold to municipalities (Shiraz, Isfahan, Qazvin) on C# and Onion Architecture. Some cities had more than 200,000 users. Accounting and the payment gateway sat on the same platform.
 
 - Optimized reports and queries on the C# / Onion core.
 - Engineered Safir Mehr, a native Kotlin Android fleet-management app.
@@ -44,7 +44,7 @@ Enterprise school-transport platform sold to municipalities (Shiraz, Isfahan, Qa
 - Architected a Snapp-like trip MVP on .NET 10, PostgreSQL Polygon, SignalR, and Redis.
 - Raised delivery speed with Cursor by adding rules and skills to the models.
 
-Overlapping part-time contractor role at Ayar Plus (عیار پلاس) from Sep 2025.
+Overlapping part-time remote contractor role at Ayar Plus (عیار پلاس) from Sep 2025, outside Pazhoohan working hours.
 
 **Media suggestions**
 

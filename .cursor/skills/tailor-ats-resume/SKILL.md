@@ -5,18 +5,21 @@ description: Generates a tailored ATS-friendly resume in Persian or English base
 
 # Tailor ATS Resume
 
+When invoked with a Job Description, follow `.cursor/rules/job-tailor.mdc` as the production engine. This skill is the section template companion.
+
 When invoked with a Job Description:
 1. Scan all files in `career-hub/experiences/`, `career-hub/education/`, and `career-hub/certificates/`.
-2. Filter and rank experiences that match the required stack and responsibilities of the target JD.
-3. Output a clean, ATS-compliant Markdown resume in the requested language (English or Persian).
-4. Strictly apply the humanized engineering tone (No AI buzzwords, clear quantifiable metrics).
+2. Filter and rank experiences that match the required stack and responsibilities of the target JD. Weight 05–07 at about 70% (Recency Effect). Label 06 as primary full-time On-site/Hybrid and 07 as Part-time / Remote Contractor.
+3. Output a clean, ATS-compliant Markdown resume in the requested language (English or Persian), plus the matching HTML from job-tailor.
+4. Strictly apply the humanized engineering tone (No AI buzzwords, clear quantifiable metrics, Show Don't Tell).
 5. Output format: Standard single-column ATS format with sections: Professional Summary, Core Competencies, Key Technical Experience, Flagship Projects, Certifications, Education.
+6. Save `career-hub/tailored-resumes/[Company]-[Role]-[Lang].md` and `[Company]-[Role]-[Lang].html`.
 
 ## Source of truth
 
 - Read every file under `career-hub/experiences/`, `career-hub/certificates/` (including `assets/` and `related_certificates` in frontmatter), and `career-hub/education/` before writing. Parse dual `fa`/`en` frontmatter and skill arrays.
 - Use only facts from those files. Do not invent employers, dates, metrics, certs, or stack items.
-- Apply `.cursor/rules/career-engine.mdc`, `.cursor/rules/experience-manager.mdc`, and `.cursor/rules/career-hub-rule.mdc` for tone, X-Y-Z bullets, cert links, and Persian/English integrity.
+- Apply `.cursor/rules/career-engine.mdc`, `.cursor/rules/job-tailor.mdc`, `.cursor/rules/experience-manager.mdc`, and `.cursor/rules/career-hub-rule.mdc` for tone, X-Y-Z bullets, cert links, and Persian/English integrity.
 - If `career-hub/` is missing or empty, stop and ask to populate it. Do not fall back to `index.html` or rewrite site JSON as the resume.
 
 ## Language and targeting

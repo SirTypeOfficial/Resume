@@ -11,7 +11,10 @@ When invoked with a Job Description (JD):
 
 ۲. فایل‌های سوابق کاری در `career-hub/experiences/` را بخوان. سوابقی که بیشترین هم‌پوشانی را با آگهی دارند در اولویت قرار بده.
 
-۳. رزومه را به فرمت استاندارد ATS در یک فایل با نام `career-hub/tailored-resumes/[Company]-[Role].md` بساز که شامل بخش‌های زیر باشد:
+۳. رزومه را به فرمت استاندارد ATS در دو فایل بساز:
+   - `career-hub/tailored-resumes/[Company]-[Role]-[Lang].md`
+   - `career-hub/tailored-resumes/[Company]-[Role]-[Lang].html`
+   که شامل بخش‌های زیر باشد:
    - Header (نام، شهر/کشور، ایمیل، شماره، لینکدین، گیت‌هاب، وب‌سایت)
    - Professional Summary (۳ تا ۴ خط عمیق و متناسب با نیازمندی آگهی)
    - Core Competencies (دسته‌بندی مهارت‌های متناسب با JD)
@@ -25,7 +28,7 @@ When invoked with a Job Description (JD):
 
 - Read every file under `career-hub/experiences/`, `career-hub/education/`, and `career-hub/certificates/certificates.md` before writing.
 - Use only vault facts. Do not invent employers, dates, metrics, certs, or stack. If the JD asks for something not in the vault, omit it.
-- Apply `.cursor/rules/career-engine.mdc` and `.cursor/skills/humanizer/SKILL.md` for tone. No banned AI filler.
+- Apply `.cursor/rules/career-engine.mdc`, `.cursor/rules/job-tailor.mdc`, and `.cursor/skills/humanizer/SKILL.md` for tone. No banned AI filler.
 - If `career-hub/` is missing or empty, stop. Do not invent a resume from `index.html` or site JSON.
 
 ## Targeting
@@ -51,11 +54,11 @@ Use these unless the vault or user supplies a newer value:
 
 ## File names
 
-Slug `[Company]` and `[Role]` to ASCII kebab-case. Examples: `Snapp-NET-Architect.md`, `AyarPlus-MAUI-Contractor.md`. Do not put Senior in a filename unless it is the vault contractual title.
+Slug `[Company]` and `[Role]` to ASCII kebab-case. `[Lang]` is `en` or `fa`. Examples: `Snapp-NET-Architect-en.md`, `AyarPlus-MAUI-Contractor-fa.html`. Do not put Senior in a filename unless it is the vault contractual title.
 
 ```text
-career-hub/tailored-resumes/[Company]-[Role].md
-career-hub/tailored-resumes/[Company]-[Role].html
+career-hub/tailored-resumes/[Company]-[Role]-[Lang].md
+career-hub/tailored-resumes/[Company]-[Role]-[Lang].html
 ```
 
 Move superseded drafts of the same company-role pair to `career-hub/tailored-resumes/archive/`.
@@ -100,11 +103,11 @@ Certifications come only from `career-hub/certificates/certificates.md` (name + 
 
 1. Copy [print-template.html](print-template.html).
 2. Write the filled file next to the Markdown. Same content, same section order.
-3. Set `<html lang="en" dir="ltr">` or `<html lang="fa" dir="rtl">`. For FA, keep Inter/Arial; do not add decorative fonts.
+3. Set `<html lang="en" dir="ltr">` or `<html lang="fa" dir="rtl">`. English body font: `Inter, Arial, "Helvetica Neue", Helvetica, sans-serif`. Persian body font: `Vazirmatn, Tahoma, "Segoe UI", sans-serif`. Load Inter and/or Vazirmatn via Google Fonts or jsDelivr. No decorative icon fonts.
 4. Replace every placeholder (`SUMMARY_PARAGRAPH`, sample job, sample cert). Real text nodes only — never rasterize the resume.
 5. CSS constraints (already in the template; do not loosen them):
    - `@page { size: A4; margin: 14mm 16mm; }`
-   - Single column, system stack `Inter, Arial, "Helvetica Neue", Helvetica, sans-serif`
+   - Single column. English: `Inter, Arial, "Helvetica Neue", Helvetica, sans-serif`. Persian: `Vazirmatn, Tahoma, "Segoe UI", sans-serif`.
    - Ink on white. No cards, icons, logos, colored boxes, columns, or background graphics
    - One 1px hairline under `h2` is the only rule allowed
 6. After writing both files, tell the user to open the HTML in a browser and Print → Save as PDF (A4, headers/footers off) so the PDF stays selectable.
@@ -114,7 +117,7 @@ Certifications come only from `career-hub/certificates/certificates.md` (name + 
 - [ ] JD keywords extracted (stack, soft skills, architecture)
 - [ ] All experience, education, and certificate files read
 - [ ] Roles ranked by overlap; off-stack work dropped
-- [ ] `[Company]-[Role].md` written with the six sections above
-- [ ] `[Company]-[Role].html` filled from `print-template.html`
+- [ ] `[Company]-[Role]-[Lang].md` written with the six sections above
+- [ ] `[Company]-[Role]-[Lang].html` filled from `print-template.html` (Inter for EN, Vazirmatn for FA)
 - [ ] No invented metrics, employers, or certs
 - [ ] User told how to Print to selectable PDF

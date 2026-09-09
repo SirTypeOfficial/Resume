@@ -3,7 +3,7 @@ Full-Stack .NET Developer & Software Architect
 Shiraz, Iran | +98 933 229 7757 | mv6468@gmail.com | mohammadrezav.ir | linkedin.com/in/sirtype | github.com/SirTypeOfficial
 
 ## Executive Summary
-Software developer with more than 8 years of commercial production in the .NET ecosystem, focused on distributed systems, Clean Architecture, and process automation. The .NET path starts with OOP and C# in 2013. Day-to-day work is .NET 9/10, DDD, CQRS, and Microservices. Applied AI and computer vision in production through ALPR on Python and FastAPI, plus prompt and agent work in the development loop. Automation through n8n pipelines, Redis, SignalR, RabbitMQ, and MQL5 trading systems. In 2025-2026 that meant a school-transport platform with more than 200,000 users in some cities, plus a part-time MAUI gold ERP for the Kuwait market at Ayar Plus.
+Software developer with more than 8 years of commercial production in the .NET ecosystem, focused on distributed systems, Clean Architecture, and process automation. The .NET path starts with OOP and C# in 2013. Day-to-day work is .NET 9/10, DDD, CQRS, and Microservices. Applied AI and computer vision in production through ALPR on Python and FastAPI, plus prompt and agent work in the development loop. Automation through n8n pipelines, Redis, SignalR, RabbitMQ, and MQL5 trading systems. In 2025-2026 that meant official full-time work on a school-transport platform with more than 200,000 users in some cities, plus a part-time remote MAUI gold ERP for the Kuwait market at Ayar Plus, outside Pazhoohan working hours.
 
 ## Core Technical Skills
 **Architecture:** Microservices, Clean Architecture, Onion Architecture, DDD, CQRS, Event-Driven
@@ -13,7 +13,7 @@ Software developer with more than 8 years of commercial production in the .NET e
 
 ## Professional Experience
 
-### .NET Contractor & Remote Technical Consultant | Ayar Plus
+### Part-time / Remote Technical Contractor | Ayar Plus
 Remote (Iran); Kuwait market | Sep 2025 - Sep 2026
 - Engineered the gold ERP frontend on .NET MAUI and .NET 10, covering gold inventory, gold math, and accounting on a multilingual XAML client talking to a PHP backend.
 - Architected online and offline invoicing with queued requests until the app came online and Windows-to-Android discovery on the LAN.
@@ -21,7 +21,7 @@ Remote (Iran); Kuwait market | Sep 2025 - Sep 2026
 - Engineered Civil ID scanning into the Kuwait gold-shop flow, storing card photos on ImageKit for the Android app, by connecting shop card readers.
 - Started a Bit Platform rewrite, migrating legacy data and adding PDF print for receipts and invoices.
 
-### Full-time Developer, School-Transport Platform | Ertebatat Pazhoohan Matin
+### Full-time Full-Stack Developer (On-site/Hybrid) | Ertebatat Pazhoohan Matin
 Shiraz, Iran | Jun 2025 - Jul 2026
 - Optimized the school-transport platform on C# and Onion Architecture (features, reports, faster queries) for municipalities in Shiraz, Isfahan, and Qazvin.
 - Kept multi-role accounting and the payment gateway running for more than 200,000 users in some cities, with settlement among fleets, services, drivers, students, and parents.

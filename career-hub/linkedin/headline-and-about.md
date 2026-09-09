@@ -58,7 +58,7 @@ Most of the work sits on ASP.NET Core, Clean Architecture, DDD, CQRS, and Micros
 
 Automation is the other half. I use n8n for data pipelines. At BahamShop that path, plus an ASP.NET Core 9 backend with Clean Architecture and caching, took the site to revenue in the first month. Redis and SignalR carry live fleet state. MQL5 covers trading-system backtests from an independent stretch in 2023-2024.
 
-Alongside the Pazhoohan role I was a part-time remote .NET contractor at Ayar Plus (عیار پلاس), on a Kuwait gold ERP in .NET MAUI, with offline invoicing and store CI/CD.
+Alongside the Pazhoohan full-time On-site/Hybrid role I was a part-time remote .NET contractor at Ayar Plus (عیار پلاس), on a Kuwait gold ERP in .NET MAUI, with offline invoicing and store CI/CD. That work sat outside Pazhoohan hours and did not conflict with the full-time contract.
 
 Open to .NET architecture work, applied AI on existing products, and automation-heavy backends.
 
@@ -74,7 +74,7 @@ Shiraz, Iran · mohammadrezav.ir · mv6468@gmail.com · +98 933 229 7757
 
 نیمهٔ دیگر کار اتوماسیون است. پایپ‌لاین داده را با n8n می‌چینم. در باهم‌شاپ همین مسیر، به‌علاوه بک‌اند ASP.NET Core 9 با Clean Architecture و کش، سایت را در ماه اول به درآمد رساند. Redis و SignalR وضعیت زندهٔ ناوگان را نگه می‌دارند. MQL5 بک‌تست سیستم معاملاتی را از بازهٔ مستقل ۱۴۰۱ تا ۱۴۰۳ پوشش می‌دهد.
 
-هم‌زمان با پژوهان، پیمانکار پاره‌وقت دات‌نت در عیار پلاس بودم: ERP طلای بازار کویت روی .NET MAUI، با صدور فاکتور آفلاین و CI/CD فروشگاهی.
+هم‌زمان با اشتغال تمام‌وقت On-site/Hybrid در پژوهان، پیمانکار پاره‌وقت دات‌نت در عیار پلاس بودم: ERP طلای بازار کویت روی .NET MAUI، با صدور فاکتور آفلاین و CI/CD فروشگاهی. آن کار در ساعات خارج از تعهد سازمانی پژوهان بود و با قرارداد تمام‌وقت تضاد منافع نداشت.
 
 برای کار روی معماری دات‌نت، هوش مصنوعی کاربردی روی محصول موجود، و بک‌اند اتوماسیون‌محور آماده‌ام.
 

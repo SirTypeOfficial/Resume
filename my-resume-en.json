@@ -6,7 +6,7 @@
     "image": "https://liara.cvbuilder.me/Files/User_Photo/48c86b1f-44d1-47b1-87fe-a257d90e8c9e/05L0SINpn0KaSb1-KGcUsQ-706.jpg",
     "email": "mv6468@gmail.com",
     "phone": "9332297757",
-    "summary": "Software developer with more than 8 years of commercial production in the .NET ecosystem, focused on distributed systems, Clean Architecture, and process automation. The .NET path starts with OOP and C# in 2013. Day-to-day work is .NET 9/10, DDD, CQRS, and Microservices. Applied AI and computer vision in production through ALPR on Python and FastAPI, plus prompt and agent work in the development loop. Automation through n8n pipelines, Redis, SignalR, RabbitMQ, and MQL5 trading systems. Recent work includes a municipal school-transport platform with more than 200,000 users in some cities, and a part-time .NET MAUI gold ERP for the Kuwait market at Ayar Plus.",
+    "summary": "Software developer with more than 8 years of commercial production in the .NET ecosystem, focused on distributed systems, Clean Architecture, and process automation. The .NET path starts with OOP and C# in 2013. Day-to-day work is .NET 9/10, DDD, CQRS, and Microservices. Applied AI and computer vision in production through ALPR on Python and FastAPI, plus prompt and agent work in the development loop. Automation through n8n pipelines, Redis, SignalR, RabbitMQ, and MQL5 trading systems. Recent work includes official full-time employment on a municipal school-transport platform with more than 200,000 users in some cities, and a part-time remote contracting engagement on a .NET MAUI gold ERP for the Kuwait market at Ayar Plus, outside Pazhoohan working hours.",
     "url": "MohammadRezaV.ir",
     "location": {
       "city": "Shiraz",
@@ -30,7 +30,7 @@
   },
   "work": [
     {
-      "position": ".NET Contractor & Remote Technical Consultant (Part-time)",
+      "position": "Part-time / Remote Technical Contractor",
       "name": "Ayar Plus",
       "startDate": "2025-09",
       "endDate": "2026-09",
@@ -39,10 +39,10 @@
         "region": "Kuwait market",
         "country": "Iran"
       },
-      "summary": "* Part-time remote technical contractor alongside the full-time Pazhoohan role. Custom accounting software for the Kuwait market; employer Iranian, based in Kuwait. .NET MAUI frontend: XAML, multilingual UI, gold ERP (inventory, gold math, gold accounting) on .NET 10 integrated with a PHP backend. * Online and offline invoicing; Windows client discovered the Android client on the LAN and queued requests until the app was online. * App on Google Play; CI/CD published Android and iOS to Google Play and the App Store so customers were not disrupted. * Card readers in Kuwait gold shops for Civil ID scans; card photos stored on ImageKit and used in the Android app. * For a stretch also project coordination: remote weekly sprints, daily and weekly meetings; MAUI colleague in Mashhad, backend in Qom, bridge to the Product Owner. * Started a full cross-platform rewrite on Bit Platform with migration of old data; packages for PDF and printing receipts and invoices."
+      "summary": "* Part-time remote technical contractor. Work sat outside hours of the primary official full-time On-site/Hybrid role at Ertebatat Pazhoohan Matin; no conflict of interest, commercial competition, or contractual bar with that contract. Custom accounting software for the Kuwait market; employer Iranian, based in Kuwait. .NET MAUI frontend: XAML, multilingual UI, gold ERP (inventory, gold math, gold accounting) on .NET 10 integrated with a PHP backend. * Online and offline invoicing; Windows client discovered the Android client on the LAN and queued requests until the app was online. * App on Google Play; CI/CD published Android and iOS to Google Play and the App Store so customers were not disrupted. * Card readers in Kuwait gold shops for Civil ID scans; card photos stored on ImageKit and used in the Android app. * For a stretch also project coordination: remote weekly sprints, daily and weekly meetings; MAUI colleague in Mashhad, backend in Qom, bridge to the Product Owner. * Started a full cross-platform rewrite on Bit Platform with migration of old data; packages for PDF and printing receipts and invoices."
     },
     {
-      "position": "Full-time developer, school-transport platform",
+      "position": "Full-time Full-Stack Developer (On-site/Hybrid)",
       "name": "Ertebatat Pazhoohan Matin",
       "startDate": "2025-06",
       "endDate": "2026-07",
@@ -51,7 +51,7 @@
         "region": "Fars",
         "country": "Iran"
       },
-      "summary": "* Full-time role after BahamShop. Enterprise school-transport platform for municipalities (Shiraz, Isfahan, Qazvin) on C# and Onion Architecture. Features, reports, query work, speed. * Some cities had more than 200,000 users; accounting and the payment gateway sat on the same platform among fleets, services, drivers, students, and parents, including an inspector role. * At the start designed Safir Mehr, a native Kotlin Android fleet app for customers. * ALPR for inspectors with Python and FastAPI: photo in, plate text out, check against the company fleet. * Much of the work in Cursor: rules and skills on the models, code review, fast MVPs. One MVP was a Snapp-like trip app on .NET 10, PostgreSQL Polygon, SignalR, and Redis (request, driver accept/reject, dashboard, fleet in admin). * Contract term ended Jul 2026. Overlapping part-time remote contractor role at Ayar Plus from Sep 2025 through Sep 2026."
+      "summary": "* Primary official full-time On-site/Hybrid employment after BahamShop. Enterprise school-transport platform for municipalities (Shiraz, Isfahan, Qazvin) on C# and Onion Architecture. Features, reports, query work, speed. * Some cities had more than 200,000 users; accounting and the payment gateway sat on the same platform among fleets, services, drivers, students, and parents, including an inspector role. * At the start designed Safir Mehr, a native Kotlin Android fleet app for customers. * ALPR for inspectors with Python and FastAPI: photo in, plate text out, check against the company fleet. * Much of the work in Cursor: rules and skills on the models, code review, fast MVPs. One MVP was a Snapp-like trip app on .NET 10, PostgreSQL Polygon, SignalR, and Redis (request, driver accept/reject, dashboard, fleet in admin). * Contract term ended Jul 2026. Overlapping part-time remote contractor role at Ayar Plus from Sep 2025 through Sep 2026, outside Pazhoohan working hours."
     },
     {
       "position": "Technical Lead & Backend Automation Architect",

@@ -4,8 +4,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Mohammad Reza Vazifeh — Resume</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Vazirmatn:wght@400;600;700&display=swap" rel="stylesheet">
   <style>
-    /* Fill lang/dir on <html>: en + ltr, or fa + rtl. Replace all placeholder copy. */
+    /* Fill lang/dir on <html>: en + ltr, or fa + rtl. Replace all placeholder copy.
+       EN body font: Inter. FA body font: Vazirmatn. No cards, icons, or columns. */
     :root {
       --ink: #111111;
       --muted: #333333;
@@ -33,6 +37,11 @@
       margin: 0 auto;
       padding: 12mm 0;
       -webkit-font-smoothing: antialiased;
+    }
+
+    html[lang="fa"] body,
+    html[dir="rtl"] body {
+      font-family: Vazirmatn, Tahoma, "Segoe UI", sans-serif;
     }
 
     a {

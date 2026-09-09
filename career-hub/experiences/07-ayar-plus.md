@@ -2,12 +2,13 @@
 id: 07-ayar-plus
 company_fa: عیار پلاس
 company_en: Ayar Plus
-role_fa: پیمانکار دات‌نت و مشاور فنی دورکار
-role_en: .NET Contractor & Remote Technical Consultant (Part-time)
+role_fa: پیمانکار دات‌نت و مشاور فنی دورکار پاره‌وقت
+role_en: Part-time / Remote Technical Contractor
 period_fa: مهر ۱۴۰۴ – شهریور ۱۴۰۵
 period_en: Sep 2025 – Sep 2026
 location: Remote (Iran); Kuwait market
-employment_type: Part-time / Remote Technical Contractor
+employment_type: Part-time / Remote Contractor
+primary_employment: false
 core_skills:
   - .NET 10
   - .NET MAUI
@@ -32,7 +33,7 @@ tools:
   - PHP (backend integration)
   - ImageKit
 parallel_with:
-  - 06-ertebatat-pazhouhan.md (full-time; Mehr 1404 through end of Tir 1405)
+  - 06-ertebatat-pazhouhan.md (primary full-time On-site/Hybrid; Mehr 1404 through end of Tir 1405). This Ayar Plus engagement ran outside Pazhoohan working hours and did not conflict with that contract.
 metrics:
   - "فرانت MAUI روی ERP طلا (موجودی، محاسبات طلا، حسابداری) متصل به بک‌اند PHP"
   - "صدور فاکتور آنلاین و آفلاین؛ صف درخواست تا آنلاین شدن"
@@ -49,14 +50,14 @@ related_certificates:
 
 # عیار پلاس | Ayar Plus
 
-**نقش:** پیمانکار دات‌نت و مشاور فنی دورکار / .NET Contractor & Remote Technical Consultant (Part-time)  
+**نقش:** پیمانکار دات‌نت و مشاور فنی دورکار پاره‌وقت (Part-time / Remote Technical Contractor)  
 **بازه:** مهر ۱۴۰۴ – شهریور ۱۴۰۵ · Sep 2025 – Sep 2026  
-**نوع همکاری:** پاره‌وقت · دورکار · پیمانکار فنی  
+**نوع همکاری:** پاره‌وقت · دورکار · پیمانکار فنی (`employment_type: Part-time / Remote Contractor`)  
 **محل کار:** دورکاری از ایران  
 **بازار:** حسابداری اختصاصی بازار کویت (کارفرما ایرانی ساکن کویت)  
 **محصول:** ERP طلا روی .NET MAUI / .NET 10، بک‌اند PHP
 
-این نقش تمام‌وقت نبود. از مهر ۱۴۰۴ تا پایان تیر ۱۴۰۵ هم‌پوشان با نقش تمام‌وقت در [06-ertebatat-pazhouhan.md](06-ertebatat-pazhouhan.md) است.
+این نقش تمام‌وقت نبود و اشتغال اصلی محسوب نمی‌شود. از مهر ۱۴۰۴ تا پایان تیر ۱۴۰۵ با نقش تمام‌وقت On-site/Hybrid در [06-ertebatat-pazhouhan.md](06-ertebatat-pazhouhan.md) هم‌پوشان است: پروژه پیمانکاری پاره‌وقت، در ساعات خارج از تعهدات سازمانی پژوهان.
 
 ## مدارک مرتبط | Related certificates
 
@@ -74,7 +75,9 @@ related_certificates:
 
 ### مسئله و چالش معماری
 
-مهر ۱۴۰۴ به‌عنوان پیمانکار دات‌نت و مشاور فنی دورکار (پاره‌وقت) وارد عیار پلاس شدم و تا شهریور ۱۴۰۵ در همین قالب ماندم. کارفرما ایرانی ساکن کویت بود. نرم‌افزار حسابداری اختصاصی برای بازار کویت را آماده کرده بود و هنوز توسعه می‌داد. کار من فرانت .NET MAUI بود: فایل‌های XAML، چندزبانگی، و ERP کامل طلا (موجودی طلا، محاسبات طلا، محاسبات حسابداری طلا) که به بک‌اند PHP وصل می‌شد.
+مهر ۱۴۰۴ به‌عنوان پیمانکار دات‌نت و مشاور فنی دورکار پاره‌وقت وارد عیار پلاس شدم و تا شهریور ۱۴۰۵ در همین قالب ماندم. همکاری پروژه پیمانکاری پاره‌وقت بود و در ساعات خارج از تعهدات سازمانی پژوهان انجام شد. با قرارداد تمام‌وقت پژوهان تضاد منافع، رقابت تجاری یا منع قانونی نداشت.
+
+کارفرما ایرانی ساکن کویت بود. نرم‌افزار حسابداری اختصاصی برای بازار کویت را آماده کرده بود و هنوز توسعه می‌داد. کار من فرانت .NET MAUI بود: فایل‌های XAML، چندزبانگی، و ERP کامل طلا (موجودی طلا، محاسبات طلا، محاسبات حسابداری طلا) که به بک‌اند PHP وصل می‌شد.
 
 اپ روی Google Play بود. مشتری باید بدون اختلال کار می‌کرد. فاکتور هم آنلاین صادر می‌شد هم آفلاین. کلاینت ویندوزی در شبکه کلاینت اندروید را پیدا می‌کرد و درخواست‌ها را صف می‌کرد تا وقتی برنامه آنلاین شد به سرور بروند.
 
@@ -112,7 +115,9 @@ related_certificates:
 
 ### Problem and architectural challenge
 
-I engaged with Ayar Plus (عیار پلاس) in Sep 2025 (Mehr 1404) as a .NET contractor and remote technical consultant (part-time) and stayed in that capacity through Sep 2026 (Shahrivar 1405). The employer was Iranian, based in Kuwait. He had built custom accounting software for the Kuwait market and was still developing it. My work was the .NET MAUI frontend: XAML, multilingual UI, and a full gold ERP (gold inventory, gold calculations, gold accounting) integrated with a PHP backend.
+I engaged with Ayar Plus (عیار پلاس) in Sep 2025 (Mehr 1404) as a part-time remote .NET technical contractor and stayed in that capacity through Sep 2026 (Shahrivar 1405). The engagement was a part-time contracting project, done outside Pazhoohan working hours. It did not create a conflict of interest with the full-time Pazhoohan contract, did not compete with Pazhoohan commercially, and was not barred by that contract.
+
+The employer was Iranian, based in Kuwait. He had built custom accounting software for the Kuwait market and was still developing it. My work was the .NET MAUI frontend: XAML, multilingual UI, and a full gold ERP (gold inventory, gold calculations, gold accounting) integrated with a PHP backend.
 
 The app was already on Google Play. Store releases could not interrupt live customers. Invoices could be issued online and offline. A Windows client on the LAN could discover the Android client, queue requests, and send them to the server when the app came online.
 
