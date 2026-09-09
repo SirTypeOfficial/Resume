@@ -1,81 +1,152 @@
-# LinkedIn headline and About
+# LinkedIn headline and About (EN primary / FA secondary)
 
-Copy one headline into the profile Headline field. Paste the matching About block into About. Character counts sit under each headline (LinkedIn limit is 220).
+Set the profile language to **English**. Add **Persian** as a second profile language (`Add profile in another language`) and paste the 🇮🇷 About (and a matching headline) there.
+
+Do not put Senior, Junior, Lead-as-rank, ارشد, or لید in a headline. `Technical Lead` exists only as the BahamShop job title in Experiences, not here.
+
+## Platform limits
+
+| Field | Limit |
+| --- | ---: |
+| Headline | 220 |
+| Headline clip on mobile feed | first 45–60 characters |
+| About | 2,600 |
+| About before "...see more" (hook zone) | ~250 characters / ~3 lines |
+
+Put expensive keywords in the first 45–60 characters of the headline: `.NET 10`, `Distributed Systems`, `Microservices`, `200K+ Users`, `Applied AI`, `ALPR`. The live headline should be English.
+
+---
 
 ## Headlines
 
-Do not put Senior, Junior, Lead, or ارشد in a headline. Attract search with stack, domain, and outcomes.
+Copy one line into Headline. Counts include spaces and punctuation.
 
-### 1. Full-stack + scale + applied AI (default)
+### 1. Default (scale + AI)
 
-Full-Stack .NET Developer | Microservices, .NET 10, Blazor & MAUI | Scaled Municipal Transit to 200K+ Users | Applied AI & Vision
+```
+.NET 10 | Microservices | 200K+ Users | Applied AI · ALPR | Full-Stack .NET Developer
+```
 
-`129 characters`
+`85 / 220` characters
 
-Recruiter search: Full-Stack, .NET Developer, Microservices, .NET 10, Blazor, MAUI, 200K, Applied AI.
+First 60: `.NET 10 | Microservices | 200K+ Users | Applied AI · ALPR | `
 
-### 2. Architecture keywords
+In the mobile clip: .NET 10, Microservices, 200K+ Users, Applied AI, ALPR.
 
-.NET Software Architect | Microservices · CQRS · DDD | Clean Architecture
+Search: Full-Stack, .NET Developer.
 
-`73 characters`
+### 2. Architecture / distributed systems
 
-Recruiter search: .NET, Software Architect, Microservices, CQRS, DDD, Clean Architecture.
+```
+.NET 10 | Distributed Systems | Microservices · CQRS · DDD | Software Architect
+```
 
-### 3. Applied AI lane
+`79 / 220` characters
 
-Applied AI Engineer | Computer Vision · ALPR · FastAPI | .NET 10 Platforms
+First 60: `.NET 10 | Distributed Systems | Microservices · CQRS · DDD |`
 
-`74 characters`
+In the mobile clip: .NET 10, Distributed Systems, Microservices, CQRS, DDD.
 
-Recruiter search: Applied AI, Computer Vision, ALPR, FastAPI, .NET 10.
+Search: Software Architect.
 
-### 4. Automation lane
+### 3. Applied AI / computer vision
 
-Full-Stack .NET Developer | n8n Automation · Redis · SignalR · RabbitMQ · MQL5
+```
+.NET 10 | Applied AI · ALPR · FastAPI | Computer Vision | Full-Stack .NET
+```
 
-`78 characters`
+`73 / 220` characters
 
-Recruiter search: Full-Stack, .NET Developer, n8n, Redis, SignalR, RabbitMQ, MQL5.
+First 60: `.NET 10 | Applied AI · ALPR · FastAPI | Computer Vision | Fu`
 
-### 5. Clients + scale
+In the mobile clip: .NET 10, Applied AI, ALPR, FastAPI, Computer Vision.
 
-Full-Stack .NET Developer | .NET 10 · MAUI · Blazor Hybrid | School-Transport Scale
+Search: Full-Stack .NET.
 
-`83 characters`
+### 4. Realtime and automation
 
-Recruiter search: Full-Stack, .NET Developer, .NET 10, MAUI, Blazor Hybrid.
+```
+.NET 10 | Redis · SignalR · RabbitMQ | n8n | Full-Stack .NET Developer
+```
 
-Recommended default: headline 1. Pin headline 2 if the target role is architecture-heavy .NET. Pin headline 3 if the JD is AI/CV.
+`70 / 220` characters
+
+First 60: `.NET 10 | Redis · SignalR · RabbitMQ | n8n | Full-Stack .NET`
+
+In the mobile clip: .NET 10, Redis, SignalR, RabbitMQ, n8n.
+
+### 5. Clients + municipal scale
+
+```
+.NET 10 | 200K+ Users | Distributed Systems | MAUI · Blazor Hybrid
+```
+
+`66 / 220` characters
+
+First 60: `.NET 10 | 200K+ Users | Distributed Systems | MAUI · Blazor `
+
+In the mobile clip: .NET 10, 200K+ Users, Distributed Systems, MAUI, Blazor.
+
+Use headline 1 on the live profile. Switch to 2 for architecture-heavy roles, 3 for AI/CV, 4 for messaging/automation, 5 for MAUI/Blazor client work.
+
+### Optional Persian headline (secondary language profile)
+
+```
+.NET 10 | Microservices | ۲۰۰ هزار کاربر | ALPR | توسعه‌دهنده فول‌استک .NET و معمار نرم‌افزار
+```
+
+`93 / 220` characters
+
+First 60 lands on .NET 10, Microservices, ۲۰۰ هزار کاربر, ALPR. Keep English stack tokens. Do not add ارشد.
 
 ---
 
-## About (English)
+## About (English) — paste
 
-I design distributed .NET systems and ship them. Commercial production started in 2018. The .NET path started earlier, with OOP and C# at the Industrial Management Institute, South Unit, in 2013.
+Hook zone = first paragraph only. Contact is email, site, and GitHub (phone is extra and optional).
 
-Most of the work sits on ASP.NET Core, Clean Architecture, DDD, CQRS, and Microservices, on .NET 9 and .NET 10. At ParsiaAfzar I took electricity-distribution automation that lived as separate MVC codebases and unified it onto Microservices with RabbitMQ and CQRS. At Ertebatat Pazhoohan Matin I worked a municipal school-transport platform that, in some cities, had more than 200,000 users. Accounting and the payment gateway sat on the same core. I also built an ALPR service in Python and FastAPI for inspectors, a native Kotlin fleet app, and a trip MVP on .NET 10 with PostgreSQL Polygon, SignalR, and Redis.
+```
+I build distributed .NET 10 systems: municipal school transport at 200K+ users, Kuwait gold ERP with offline invoicing, and electricity-distribution microservices. Applied AI (ALPR on FastAPI) and n8n automation run in the same production loop.
 
-Automation is the other half. I use n8n for data pipelines. At BahamShop that path, plus an ASP.NET Core 9 backend with Clean Architecture and caching, took the site to revenue in the first month. Redis and SignalR carry live fleet state. MQL5 covers trading-system backtests from an independent stretch in 2023-2024.
+Production work runs on ASP.NET Core, Clean Architecture, DDD, CQRS, and Microservices, on .NET 9 and .NET 10. Redis and SignalR carry live fleet state. RabbitMQ isolates heavy write load on electricity-distribution services; the cost is keeping the read and write models consistent.
 
-Alongside the Pazhoohan full-time On-site/Hybrid role I was a part-time remote .NET contractor at Ayar Plus (عیار پلاس), on a Kuwait gold ERP in .NET MAUI, with offline invoicing and store CI/CD. That work sat outside Pazhoohan hours and did not conflict with the full-time contract.
+At Ertebatat Pazhoohan Matin I held the primary official full-time On-site/Hybrid role on a school-transport platform sold to municipalities (Shiraz, Isfahan, Qazvin). Some cities had more than 200,000 users. Accounting and the payment gateway sat on the same core. I engineered an ALPR service in Python and FastAPI for inspectors, a native Kotlin fleet app (Safir Mehr), and a trip MVP on .NET 10 with PostgreSQL Polygon, SignalR, and Redis.
 
-Open to .NET architecture work, applied AI on existing products, and automation-heavy backends.
+Alongside that full-time role I was a part-time remote .NET contractor at Ayar Plus (عیار پلاس) on a Kuwait gold ERP in .NET MAUI: online and offline invoicing, Civil ID scanning, and store CI/CD. That work sat outside Pazhoohan hours and did not conflict with the full-time contract.
 
-Shiraz, Iran · mohammadrezav.ir · mv6468@gmail.com · +98 933 229 7757
+At ParsiaAfzar I took electricity-distribution automation that lived as separate MVC codebases and unified it onto Microservices with RabbitMQ, CQRS, and DDD. At BahamShop an ASP.NET Core 9 backend with Clean Architecture, caching, and n8n pipelines took the site to click-SEO revenue in the first month.
+
+Commercial production started in 2018. The .NET path started in 2013 with OOP and C# at the Industrial Management Institute, South Unit. An independent stretch in 2023-2024 covered MQL5 trading-system backtests, n8n client pipelines, and Onion / MAUI research.
+
+mv6468@gmail.com · mohammadrezav.ir · github.com/SirTypeOfficial
+Shiraz, Iran · +98 933 229 7757
+```
+
+About length: `1,926 / 2,600` characters
+
+Hook (first paragraph): `244 / ~250` characters
 
 ---
 
-## درباره (فارسی)
+## درباره (فارسی) — پیست در پروفایل زبان دوم
 
-سیستم‌های توزیع‌شدهٔ دات‌نت طراحی می‌کنم و به تولید می‌رسانم. کار پروداکشن تجاری از ۱۳۹۷ شروع شد. مسیر دات‌نت زودتر شروع شد: OOP و C# در سازمان مدیریت صنعتی واحد جنوب، سال ۱۳۹۲.
+```
+سیستم‌های توزیع‌شده .NET 10 می‌سازم: سرویس مدارس شهرداری با بیش از ۲۰۰ هزار کاربر، ERP طلای کویت با فاکتور آفلاین، و میکروسرویس توزیع برق. ALPR با FastAPI، Redis و SignalR، و پایپ‌لاین n8n داخل همان حلقه تولید هستند. کار از ۱۳۹۷ در تولید است.
 
-بیشتر کار روی ASP.NET Core، Clean Architecture، DDD، CQRS و Microservices است، روی .NET 9 و .NET 10. در پارسیا افزار اتوماسیون توزیع برق را که روی چند کدبیس جداگانه MVC مانده بود، با RabbitMQ و CQRS به یک سامانه Microservices بردیم. در ارتباطات پژوهان متین روی پلتفرم سرویس مدارس شهرداری کار کردم که در بعضی شهرها بیش از ۲۰۰ هزار کاربر داشت. حسابداری و درگاه پرداخت روی همان هسته بود. برای بازرس یک سرویس ALPR با Python و FastAPI ساختم، اپ نیتیو سفیر مهر را با Kotlin تحویل دادم، و یک MVP سفر روی .NET 10 با PostgreSQL Polygon، SignalR و Redis آماده کردم.
+کار تولید روی ASP.NET Core، Clean Architecture، DDD، CQRS و Microservices است، روی .NET 9 و .NET 10. Redis و SignalR وضعیت زنده ناوگان را نگه می‌دارند. RabbitMQ بار نوشتن سنگین توزیع برق را جدا می‌کند؛ هزینهٔ آن حفظ تطابق مدل خواندن و نوشتن است.
 
-نیمهٔ دیگر کار اتوماسیون است. پایپ‌لاین داده را با n8n می‌چینم. در باهم‌شاپ همین مسیر، به‌علاوه بک‌اند ASP.NET Core 9 با Clean Architecture و کش، سایت را در ماه اول به درآمد رساند. Redis و SignalR وضعیت زندهٔ ناوگان را نگه می‌دارند. MQL5 بک‌تست سیستم معاملاتی را از بازهٔ مستقل ۱۴۰۱ تا ۱۴۰۳ پوشش می‌دهد.
+در ارتباطات پژوهان متین اشتغال رسمی تمام‌وقت On-site/Hybrid من روی پلتفرم سرویس مدارس شهرداری‌ها (شیراز، اصفهان، قزوین) بود. در بعضی شهرها بیش از ۲۰۰ هزار کاربر داشت. حسابداری و درگاه پرداخت روی همان هسته بود. برای بازرس سرویس ALPR را با Python و FastAPI ساختم، اپ نیتیو سفیر مهر را با Kotlin تحویل دادم، و MVP سفر را روی .NET 10 با PostgreSQL Polygon، SignalR و Redis آماده کردم.
 
-هم‌زمان با اشتغال تمام‌وقت On-site/Hybrid در پژوهان، پیمانکار پاره‌وقت دات‌نت در عیار پلاس بودم: ERP طلای بازار کویت روی .NET MAUI، با صدور فاکتور آفلاین و CI/CD فروشگاهی. آن کار در ساعات خارج از تعهد سازمانی پژوهان بود و با قرارداد تمام‌وقت تضاد منافع نداشت.
+هم‌زمان با آن نقش تمام‌وقت، پیمانکار پاره‌وقت دورکار دات‌نت در عیار پلاس بودم: ERP طلای بازار کویت روی .NET MAUI، صدور فاکتور آنلاین و آفلاین، اسکن Civil ID، و CI/CD فروشگاهی. آن کار در ساعات خارج از تعهد پژوهان بود و با قرارداد تمام‌وقت تضاد منافع نداشت.
 
-برای کار روی معماری دات‌نت، هوش مصنوعی کاربردی روی محصول موجود، و بک‌اند اتوماسیون‌محور آماده‌ام.
+در پارسیا افزار اتوماسیون توزیع برق را که روی چند کدبیس جداگانه MVC مانده بود، با RabbitMQ، CQRS و DDD به یک سامانه Microservices بردم. در باهم‌شاپ بک‌اند ASP.NET Core 9 با Clean Architecture، کش و پایپ‌لاین n8n سایت را در ماه اول به درآمد کلیک سئو رساند.
 
-شیراز، ایران · mohammadrezav.ir · mv6468@gmail.com · +98 933 229 7757
+مسیر دات‌نت از ۱۳۹۲ با OOP و C# در سازمان مدیریت صنعتی واحد جنوب شروع شد. بازه مستقل ۱۴۰۱ تا ۱۴۰۳ بک‌تست سیستم معاملاتی MQL5، پایپ‌لاین n8n برای مشتری، و تحقیق Onion و MAUI بود.
+
+mv6468@gmail.com · mohammadrezav.ir · github.com/SirTypeOfficial
+شیراز، ایران · +98 933 229 7757
+```
+
+طول About: `1,662 / 2,600` characters
+
+هوک (پاراگراف اول): `242 / ~250` characters

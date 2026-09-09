@@ -1,97 +1,116 @@
 # LinkedIn skills matrix
 
-Add skills from the top of the list first. LinkedIn lets you pin five. Endorse requests should start with the Top 5.
+Add skills from the top of the list first. LinkedIn lets you pin five. Ask for endorsements on the Top 5 first.
 
-Do not add Kubernetes, Digital Marketing, MBA, or DBA as profile skills. Those sit in `awareness_only` on the independent period and are not claimed.
+Do not add Kubernetes, Digital Marketing, MBA, DBA, or Pine Script as profile skills. Those sit in `awareness_only` (or practice-only) on the independent period and are not claimed.
+
+If LinkedIn has no exact name (`.NET 10`, `n8n`, `CQRS`, `Onion Architecture`), add it as a custom skill. Keep the vault wording in About even if the skill picker uses a close alias.
+
+---
 
 ## Top 5 pinned skills
+
+These match the public triad (distributed .NET architecture, applied AI/vision, realtime/automation) and the flagship systems (municipal transport, offline gold ERP, electricity-distribution microservices, BahamShop n8n).
 
 1. Software Architecture
 2. .NET
 3. Microservices
-4. Artificial Intelligence (AI)
-5. ASP.NET Core
+4. Computer Vision
+5. SignalR
 
-These match the public triad: distributed .NET architecture, the .NET stack, and applied AI. If a target JD is automation-heavy, swap Artificial Intelligence (AI) for n8n or Redis.
+| Pin | Why it is in the Top 5 |
+| --- | --- |
+| Software Architecture | Public function: Clean Architecture, DDD, CQRS, Onion, system design of the shipped platforms |
+| .NET | Production stack and recruiter search; .NET 9/10 work lives under this name plus the custom `.NET 10` skill below |
+| Microservices | ParsiaAfzar rewrite (CQRS, RabbitMQ, DDD) and the distributed-systems keyword |
+| Computer Vision | Pazhoohan ALPR in production (Python, FastAPI); more specific than a generic AI pin |
+| SignalR | Realtime dispatch MVP (live fleet in admin) on the 200K+ municipal platform |
+
+Swap rules for a targeted role (still only five pins):
+
+- Automation / n8n JD → unpin SignalR, pin **n8n**
+- Cache / data JD → unpin SignalR, pin **Redis**
+- Python / API JD → unpin SignalR, pin **FastAPI**
+- Generic AI search volume → unpin Computer Vision, pin **Artificial Intelligence (AI)** (weaker fit; prefer Computer Vision when the work is ALPR)
 
 ---
 
-## Full list (expensive to cheap)
+## Full list (add order)
 
-LinkedIn skill names. Rank is for add-order and endorsement priority, not a claim that every skill is equally deep.
+Rank is add-order and endorsement priority. Depth still follows the T-shaped split in `career-engine.mdc`: core production, applied, explored.
 
-### Architecture and distributed systems
+### Edge and triad (add immediately after the pins)
 
-1. Software Architecture
-2. Microservices
-3. Domain-Driven Design (DDD)
-4. CQRS
-5. Clean Architecture
-6. Distributed Systems
-7. Event-Driven Architecture
-8. System Design
-9. Onion Architecture
-10. Backend Development
+6. .NET 10
+7. Distributed Systems
+8. Redis
+9. FastAPI
+10. n8n
+11. Artificial Intelligence (AI)
+12. RabbitMQ
+13. Clean Architecture
+14. CQRS
+15. Domain-Driven Design (DDD)
 
-### .NET stack
+`.NET 10`, SignalR, Redis, FastAPI, n8n, and Computer Vision sit in the Top 5 or in this block on purpose. Do not bury them under MVC or HTML.
 
-11. .NET
-12. ASP.NET Core
-13. C#
-14. .NET MAUI
-15. Blazor
-16. SignalR
-17. ASP.NET MVC
-18. XAML
-19. REST APIs
-20. Object-Oriented Programming (OOP)
+### .NET stack and clients
 
-### Applied AI and computer vision
+16. ASP.NET Core
+17. C#
+18. .NET MAUI
+19. Blazor
+20. ASP.NET MVC
+21. XAML
+22. REST APIs
+23. Object-Oriented Programming (OOP)
+24. Onion Architecture
+25. Event-Driven Architecture
+26. System Design
+27. Backend Development
 
-21. Artificial Intelligence (AI)
-22. Computer Vision
-23. FastAPI
-24. Python
-25. Prompt Engineering
-26. Kotlin
-27. Android Development
+### Applied AI, mobile, languages
 
-### Automation, messaging, and delivery
+28. Python
+29. Kotlin
+30. Android Development
+31. Prompt Engineering
 
-28. RabbitMQ
-29. Redis
-30. n8n
-31. Workflow Automation
-32. Algorithmic Trading
-33. Docker
-34. CI/CD
-35. Git
-36. DevOps
-37. Agile Methodologies
-38. Scrum
+### Delivery, data, messaging (already listed above if expensive)
 
-### Data, clients, and supporting tools
+32. Docker
+33. CI/CD
+34. Git
+35. DevOps
+36. Workflow Automation
+37. Algorithmic Trading
+38. Agile Methodologies
+39. Scrum
 
-39. PostgreSQL
-40. Microsoft SQL Server
-41. Vue.js
-42. Angular
-43. PHP
-44. Progressive Web Apps (PWA)
-45. Project Management
-46. Search Engine Optimization (SEO)
-47. Figma
-48. Cross-platform Development
-49. Software Development
-50. HTML
+### Data, extra clients, supporting
 
-SEO and Figma stay at the bottom on purpose. They appear in the BahamShop vault as supporting work, not as the front of the profile.
+40. PostgreSQL
+41. Microsoft SQL Server
+42. Vue.js
+43. Angular
+44. PHP
+45. Progressive Web Apps (PWA)
+46. Project Management
+47. Cross-platform Development
+48. Software Development
+49. Search Engine Optimization (SEO)
+50. Figma
+51. HTML
+
+SEO and Figma stay at the bottom. They appear in the BahamShop vault as supporting work, not as the front of the profile.
 
 ---
 
 ## How to use this on LinkedIn
 
 1. Pin the Top 5.
-2. Add items 1-38 next. Stop before 39 if the profile is already crowded.
-3. Ask for endorsements on the Top 5 first, then RabbitMQ, Redis, n8n, FastAPI, and .NET MAUI.
-4. If LinkedIn does not offer an exact name (Onion Architecture, n8n, CQRS), add it as a custom skill or pick the closest listed alias and keep the vault wording in About.
+2. Add items 6–15 next (this is the expensive block: `.NET 10`, Distributed Systems, Redis, FastAPI, n8n, AI, RabbitMQ, Clean Architecture, CQRS, DDD).
+3. Add 16–39 if the profile is not already at LinkedIn's skill cap.
+4. Stop before 40 if the list is crowded. Items 49–51 are last on purpose.
+5. Ask for endorsements on the Top 5, then `.NET 10`, Redis, FastAPI, n8n, and .NET MAUI.
+6. After adding, open About and Experiences and confirm the same tokens appear in prose (LinkedIn search reads both).

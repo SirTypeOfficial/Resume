@@ -6,7 +6,7 @@
     "image": "https://liara.cvbuilder.me/Files/User_Photo/48c86b1f-44d1-47b1-87fe-a257d90e8c9e/BeovoYH_50261l_JuWL1PQ-864.jpg",
     "email": "mv6468@gmail.com",
     "phone": "9332297757",
-    "summary": "توسعه‌دهنده نرم‌افزار با بیش از ۸ سال سابقه پروداکشن تجاری در اکوسیستم دات‌نت، متمرکز بر سیستم‌های توزیع‌شده، معماری تمیز و اتوماسیون فرایندها. مسیر دات‌نت از دوره OOP و C# در ۱۳۹۲ است. کار روزمره روی .NET 9/10، DDD، CQRS و Microservices است. هوش مصنوعی کاربردی و بینایی ماشین را در تولید با ALPR روی Python و FastAPI جلو بردم، به‌علاوه مهندسی پرامپت و ایجنت در حلقه توسعه. اتوماسیون داده و فرایند با پایپ‌لاین n8n، Redis، SignalR، RabbitMQ و سیستم‌های الگوریتمی MQL5. کار اخیر شامل اشتغال رسمی تمام‌وقت روی پلتفرم سرویس مدارس شهرداری با بیش از ۲۰۰ هزار کاربر در بعضی شهرها، و پیمانکاری پاره‌وقت دورکار ERP طلا روی .NET MAUI برای بازار کویت در عیار پلاس، در ساعات خارج از تعهد سازمانی پژوهان.",
+    "summary": "توسعه‌دهنده فول‌استک .NET و معمار نرم‌افزار. مسیر دات‌نت از دوره OOP و C# در ۱۳۹۲ است؛ پروداکشن تجاری از ۱۳۹۷. کار روی سه محور است: معماری .NET مدرن (.NET 9/10، Clean Architecture، DDD، CQRS، Microservices)، هوش مصنوعی و بینایی ماشین کاربردی (ALPR با Python و FastAPI)، و اتوماسیون فرایند و سیستم‌های بلادرنگ (n8n، RabbitMQ، Redis، SignalR، MQL5). کار اخیر شامل اشتغال رسمی تمام‌وقت On-site/Hybrid روی پلتفرم سرویس مدارس شهرداری با بیش از ۲۰۰ هزار کاربر در بعضی شهرها، و پیمانکاری پاره‌وقت دورکار ERP طلا روی .NET MAUI برای بازار کویت در عیار پلاس، در ساعات خارج از تعهد سازمانی پژوهان.",
     "url": "MohammadRezaV.ir",
     "location": {
       "city": "شیراز",
@@ -34,6 +34,7 @@
       "name": "عیار پلاس",
       "startDate": "1404-07",
       "endDate": "1405-06",
+      "employment_type": "Part-time / Remote Contractor",
       "location": {
         "city": "دورکاری",
         "region": "بازار کویت",
@@ -46,6 +47,7 @@
       "name": "شرکت ارتباطات پژوهان متین",
       "startDate": "1404-04",
       "endDate": "1405-04",
+      "employment_type": "Full-time / On-site-Hybrid",
       "location": {
         "city": "شیراز",
         "region": "فارس",
@@ -63,7 +65,7 @@
         "region": "فارس",
         "country": "ایران"
       },
-      "summary": "* موتور جستجوی کالا با scraper و سئو برای درآمد از کلیک. تا ورود من سایت درآمد نداشت؛ در ماه اول به درآمد رسید. * نقش: راهبر فنی و مهندس اتوماسیون داده و معماری بک‌اند. * بک‌اند جستجو با ASP.NET Core 9، Clean Architecture و کش. * پایپ‌لاین n8n برای محتوای سئو تگ محصول و دسته‌بندی؛ تیم سئو ویرایش و درج می‌کرد و سرعت ایندکس بالا رفت. * Figma فقط ابزار جانبی طرح رابط بود. * بازه تا تیر ۱۴۰۴ تمام شد و به نقش بعدی رفتم."
+      "summary": "* موتور جستجوی کالا با scraper و درآمد از کلیک. تا ورود من سایت درآمد نداشت؛ در ماه اول به درآمد رسید. * نقش: راهبر فنی و مهندس اتوماسیون داده و معماری بک‌اند. * بک‌اند جستجو با ASP.NET Core 9، Clean Architecture و کش. * پایپ‌لاین n8n برای پردازش داده و محتوای تگ محصول و دسته‌بندی؛ تیم سئو ویرایش و درج می‌کرد و سرعت ایندکس بالا رفت. * Figma فقط ابزار جانبی طرح رابط بود. * بازه تا تیر ۱۴۰۴ تمام شد و به نقش بعدی رفتم."
     },
     {
       "position": "مهندس مستقل؛ سیستم‌های معاملاتی، اتوماسیون و تحقیق معماری",
@@ -79,7 +81,7 @@
     },
     {
       "position": "پشتیبانی و توسعه اتوماسیون توزیع برق؛ بازنویسی میکروسرویس",
-      "name": "پارسیا افزار فرا اندیشان نوین",
+      "name": "پارسیا افزار فرااندیشان نوین",
       "startDate": "1399-07",
       "endDate": "1401-10",
       "location": {
@@ -90,8 +92,8 @@
       "summary": "* پشتیبانی و توسعه اتوماسیون MVC توزیع برق (بوشهر، مازندران، تهران بزرگ، اراک و شهرهای دیگر) از مسیر تیکت، توسعه و رفع اشکال. * پیشنهاد و پیاده‌سازی بازنویسی یکپارچه با Microservices، CQRS، RabbitMQ، DDD، Vue.js، Monitoring و .NET Core. * CMS اختصاصی سایت شرکت با ASP.NET Core MVC. * دی ۱۴۰۱ تمرکز را به سیستم‌های معاملاتی و تحقیق مستقل منتقل کردم."
     },
     {
-      "position": "مدیر پروژه و توسعه‌دهنده .NET",
-      "name": "شرکت رستا تجارت بین الملل رستاک",
+      "position": "توسعه‌دهنده .NET و پیگیری پروژه‌ها",
+      "name": "شرکت رستا تجارت بین‌الملل رستاک",
       "startDate": "1398-07",
       "endDate": "1399-05",
       "location": {
@@ -117,7 +119,7 @@
   "certificates": [
     {
       "name": "دوره حرفه‌ای ASP.NET Core & MVC",
-      "date": "1397",
+      "date": "1398",
       "issuer": "دانشگاه آزاد اسلامی"
     },
     {
@@ -138,32 +140,28 @@
   ],
   "skills": [
     {
-      "name": "زبان‌های برنامه‌نویسی : C#, Python, Kotlin, JavaScript, SQL, MQL4/5",
-      "level": "دانش پایه"
+      "name": "هسته پروداکشن (.NET): C#, .NET 9/10, ASP.NET Core, Clean Architecture, Onion Architecture, DDD, CQRS, Microservices, SQL Server, RabbitMQ",
+      "level": "هسته پروداکشن"
     },
     {
-      "name": "تکنولوژی‌های دات‌نت : .NET 9/10, ASP.NET Core, Blazor (WASM/Server/Hybrid), .NET MAUI, EF Core, SignalR, LINQ",
-      "level": "دانش پایه"
+      "name": "هوش مصنوعی و بینایی ماشین کاربردی: Python, FastAPI, ALPR, Computer Vision, Kotlin",
+      "level": "پیاده‌شده"
     },
     {
-      "name": "معماری و الگوها : Microservices, Clean Architecture, DDD, CQRS, SOLID, Design Patterns",
-      "level": "دانش پایه"
+      "name": "اتوماسیون فرایند و سیستم‌های بلادرنگ: n8n, Redis, SignalR, MQL4/MQL5, Docker, CI/CD",
+      "level": "پیاده‌شده"
     },
     {
-      "name": "توسعه فرانت اند: Vue.js, Blazor, Bootstrap, MudBlazor, HTML/CSS",
-      "level": "دانش پایه"
+      "name": "کلاینت و فرانت: .NET MAUI, Bit Platform, XAML, Blazor Hybrid, Vue.js, Angular, HTML/CSS, JavaScript",
+      "level": "پیاده‌شده"
     },
     {
-      "name": "پایگاه داده : SQL Server, PostgreSQL, Redis, SQLite",
-      "level": "دانش پایه"
+      "name": "داده: SQL Server, PostgreSQL, Redis, SQLite",
+      "level": "هسته پروداکشن"
     },
     {
-      "name": "تکنولوژی‌های نوظهور : AI/LLM Integration, Blockchain/Smart Contracts, Workflow Automation (n8n), Algorithmic Trading",
-      "level": "دانش پایه"
-    },
-    {
-      "name": "DevOps و ابزارها: Docker, Kubernetes, Git, CI/CD Pipelines (Azure DevOps), RabbitMQ",
-      "level": "دانش پایه"
+      "name": "تحویل و ابزار: Git, DevOps, Agile/Scrum, Docker, CI/CD",
+      "level": "پیاده‌شده"
     }
   ],
   "languages": [

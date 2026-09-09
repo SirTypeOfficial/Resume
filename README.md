@@ -41,7 +41,8 @@ Full-stack .NET developer and software architect. Applied AI and computer vision
 
 - [عنوان و About](career-hub/linkedin/headline-and-about.md)
 - [متن سوابق ۰۱ تا ۰۷](career-hub/linkedin/experiences-copy.md)
-- [ماتریس ۵۰ مهارت و Top 5](career-hub/linkedin/skills-matrix.md)
+- [ویترین Featured](career-hub/linkedin/featured-section.md)
+- [ماتریس مهارت و Top 5](career-hub/linkedin/skills-matrix.md)
 
 ---
 
@@ -96,7 +97,7 @@ career-hub/
 │   ├── certificates.md   # جدول و لنگر slug
 │   └── assets/           # تصویر / PDF مدارک
 ├── projects/             # پروژه‌های شاخص (در حال تکمیل)
-├── linkedin/             # عنوان، About، سوابق کپی‌پیست، ماتریس مهارت
+├── linkedin/             # عنوان، About، سوابق کپی‌پیست، Featured، ماتریس مهارت
 └── tailored-resumes/     # رزومه مستر MD/HTML و رزومه‌های سفارشی ATS
     └── archive/
 .cursor/rules/

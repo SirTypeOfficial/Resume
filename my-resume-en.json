@@ -6,7 +6,7 @@
     "image": "https://liara.cvbuilder.me/Files/User_Photo/48c86b1f-44d1-47b1-87fe-a257d90e8c9e/05L0SINpn0KaSb1-KGcUsQ-706.jpg",
     "email": "mv6468@gmail.com",
     "phone": "9332297757",
-    "summary": "Software developer with more than 8 years of commercial production in the .NET ecosystem, focused on distributed systems, Clean Architecture, and process automation. The .NET path starts with OOP and C# in 2013. Day-to-day work is .NET 9/10, DDD, CQRS, and Microservices. Applied AI and computer vision in production through ALPR on Python and FastAPI, plus prompt and agent work in the development loop. Automation through n8n pipelines, Redis, SignalR, RabbitMQ, and MQL5 trading systems. Recent work includes official full-time employment on a municipal school-transport platform with more than 200,000 users in some cities, and a part-time remote contracting engagement on a .NET MAUI gold ERP for the Kuwait market at Ayar Plus, outside Pazhoohan working hours.",
+    "summary": "Full-Stack .NET Developer & Software Architect. The .NET path starts with OOP and C# in 2013; commercial production starts in 2018. Work sits on three tracks: modern .NET architecture (.NET 9/10, Clean Architecture, DDD, CQRS, Microservices), applied AI and computer vision (ALPR on Python and FastAPI), and process automation plus realtime systems (n8n, RabbitMQ, Redis, SignalR, MQL5). Recent work includes official full-time On-site/Hybrid employment on a municipal school-transport platform with more than 200,000 users in some cities, and a part-time remote contracting engagement on a .NET MAUI gold ERP for the Kuwait market at Ayar Plus (عیار پلاس), outside Pazhoohan working hours.",
     "url": "MohammadRezaV.ir",
     "location": {
       "city": "Shiraz",
@@ -34,6 +34,7 @@
       "name": "Ayar Plus",
       "startDate": "2025-09",
       "endDate": "2026-09",
+      "employment_type": "Part-time / Remote Contractor",
       "location": {
         "city": "Remote",
         "region": "Kuwait market",
@@ -46,6 +47,7 @@
       "name": "Ertebatat Pazhoohan Matin",
       "startDate": "2025-06",
       "endDate": "2026-07",
+      "employment_type": "Full-time / On-site-Hybrid",
       "location": {
         "city": "Shiraz",
         "region": "Fars",
@@ -63,7 +65,7 @@
         "region": "Fars",
         "country": "Iran"
       },
-      "summary": "* Product search engine with a scraper and SEO for click revenue. Site had no revenue until I joined; it reached income in the first month. * Role: Technical Lead and Backend Automation Architect. * Architected the search backend on ASP.NET Core 9 with Clean Architecture and caching. * Engineered n8n pipelines that prepared SEO copy per product tag and category; the SEO team edited and inserted it, which raised product indexing speed. * Figma was a side tool for UI drafts. * Tenure closed Jun 2025; moved to the next role."
+      "summary": "* Product search engine with a scraper and click revenue. Site had no revenue until I joined; it reached income in the first month. * Role: Technical Lead and Backend Automation Architect. * Architected the search backend on ASP.NET Core 9 with Clean Architecture and caching. * Engineered n8n pipelines that prepared copy per product tag and category; the SEO team edited and inserted it, which raised product indexing speed. * Figma was a side tool for UI drafts. * Tenure closed Jun 2025; moved to the next role."
     },
     {
       "position": "Independent engineer; trading systems, automation, and architecture R&D",
@@ -90,8 +92,8 @@
       "summary": "* Supported and developed an existing MVC electricity-distribution automation system (Bushehr, Mazandaran, Greater Tehran, Arak, and other cities) via tickets, development, and bug fixes. * Proposed and implemented a unified rewrite with Microservices, CQRS, RabbitMQ, DDD, Vue.js, monitoring, and .NET Core. * Built a custom ASP.NET Core MVC CMS for the company site. * In Jan 2023 shifted focus to trading systems and independent research."
     },
     {
-      "position": "Project Manager / .NET Developer",
-      "name": "Rasta International Finance",
+      "position": ".NET Developer; project follow-up in late tenure",
+      "name": "Rasta Tejarat Beinolmelal Rastak",
       "startDate": "2019-10",
       "endDate": "2020-08",
       "location": {
@@ -117,7 +119,7 @@
   "certificates": [
     {
       "name": "Certificate of Completion: Professional ASP.NET Core & MVC",
-      "date": "2018",
+      "date": "2020",
       "issuer": "Islamic Azad University"
     },
     {
@@ -138,36 +140,28 @@
   ],
   "skills": [
     {
-      "name": "Programming Languages: C#, Python, JavaScript, SQL, HTML, CSS, MQL4/MQL5",
-      "level": "Basic Knowledge"
+      "name": "Core production (.NET): C#, .NET 9/10, ASP.NET Core, Clean Architecture, Onion Architecture, DDD, CQRS, Microservices, SQL Server, RabbitMQ",
+      "level": "Core"
     },
     {
-      "name": ".NET Ecosystem & Frameworks: .NET 8/9, ASP.NET Core, Blazor (WASM/Server), .NET MAUI, Entity Framework Core, SignalR, LINQ",
-      "level": "Basic Knowledge"
+      "name": "Applied AI and computer vision: Python, FastAPI, ALPR, Computer Vision, Kotlin",
+      "level": "Applied"
     },
     {
-      "name": "Frontend & UI Libraries: Vue.js, React.js, Angular, Bootstrap, MudBlazor, DevExpress, Telerik, Syncfusion",
-      "level": "Basic Knowledge"
+      "name": "Process automation and realtime: n8n, Redis, SignalR, MQL4/MQL5, Docker, CI/CD",
+      "level": "Applied"
     },
     {
-      "name": "Databases: Microsoft SQL Server, PostgreSQL, MySQL, SQLite, Redis",
-      "level": "Basic Knowledge"
+      "name": "Clients and frontend: .NET MAUI, Bit Platform, XAML, Blazor Hybrid, Vue.js, Angular, HTML/CSS, JavaScript",
+      "level": "Applied"
     },
     {
-      "name": "Architecture & Concepts: Microservices, Clean Architecture, Domain-Driven Design (DDD), CQRS, SOLID Principles, Design Patterns, RESTful APIs, OpenAPI/Swagger",
-      "level": "Basic Knowledge"
+      "name": "Data: SQL Server, PostgreSQL, Redis, SQLite",
+      "level": "Core"
     },
     {
-      "name": "DevOps, Cloud & Tools: Docker, Kubernetes, Git, Azure DevOps, CI/CD Pipelines, RabbitMQ, Visual Studio",
-      "level": "Basic Knowledge"
-    },
-    {
-      "name": "Testing: xUnit, NUnit, Moq, TDD",
-      "level": "Basic Knowledge"
-    },
-    {
-      "name": "Emerging Tech & Automation: Blockchain Development, Smart Contracts, AI/ML Integration (Python), Algorithmic Trading, n8n (Workflow Automation)",
-      "level": "Basic Knowledge"
+      "name": "Delivery: Git, DevOps, Agile/Scrum, Docker, CI/CD",
+      "level": "Applied"
     }
   ],
   "languages": [
