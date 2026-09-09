@@ -21,9 +21,9 @@ Senior Full-Stack .NET Architect · Blazor · MAUI · Microservices
 
 ## معرفی
 
-معمار و توسعه‌دهنده ارشد با بیش از یک دهه کار روی بک‌اند .NET، کلاینت‌های Blazor/MAUI، و معماری میکروسرویس. مسیر از API نوبت‌دهی و اتوماسیون توزیع برق تا کار مستقل روی ربات معامله‌گر و n8n، بعد موتور جستجوی کالا و سامانه‌های ناوگان مدرسه.
+معمار و توسعه‌دهنده ارشد با بیش از یک دهه کار روی بک‌اند .NET، کلاینت‌های Blazor/MAUI، و معماری میکروسرویس. مسیر از API نوبت‌دهی و اتوماسیون توزیع برق تا کار مستقل روی ربات معامله‌گر و n8n، بعد موتور جستجوی کالا، پلتفرم سرویس مدارس (در بعضی شهرها بیش از ۲۰۰ هزار کاربر)، و ERP طلا برای بازار کویت در ایار پلاس.
 
-Senior architect and full-stack engineer focused on .NET, Clean Architecture, CQRS, and cross-platform clients. Path includes electricity-distribution automation, independent work on MQL trading bots and n8n, then later product-search and school-fleet platforms.
+Senior architect and full-stack engineer focused on .NET, Clean Architecture, CQRS, and cross-platform clients. Path includes electricity-distribution automation, independent work on MQL trading bots and n8n, then later product-search, a school-transport platform (200k+ users in some cities), and a Kuwait gold ERP at Ayar Plus.
 
 **تماس:** [mohammadrezav.ir](https://mohammadrezav.ir) · [LinkedIn](https://www.linkedin.com/in/sirtype/) · [GitHub](https://github.com/SirTypeOfficial) · [mv6468@gmail.com](mailto:mv6468@gmail.com) · +98 933 229 7757
 
@@ -45,10 +45,9 @@ Senior architect and full-stack engineer focused on .NET, Clean Architecture, CQ
 | 02 | رستا تجارت بین‌الملل رستاک · [Rasta Tejarat Beinolmelal Rastak](career-hub/experiences/02-rasta-tejarat.md) | توسعه‌دهنده .NET؛ اواخر دوره مدیریت پروژه · Git، Agile/Scrum، Angular، CRM | مهر ۱۳۹۸ – مرداد ۱۳۹۹ · Oct 2019 – Aug 2020 | [02-rasta-tejarat.md](career-hub/experiences/02-rasta-tejarat.md) |
 | 03 | پارسیا افزار فرااندیشان نوین · [ParsiaAfzar FaraAndishanNovin](career-hub/experiences/03-parsia-afzar.md) | پشتیبانی و توسعه اتوماسیون توزیع برق؛ بازنویسی Microservices / CQRS / RabbitMQ / DDD | مهر ۱۳۹۹ – دی ۱۴۰۱ · Oct 2020 – Jan 2023 | [03-parsia-afzar.md](career-hub/experiences/03-parsia-afzar.md) |
 | 04 | کار مستقل · [Independent](career-hub/experiences/04-freelance-consultant.md) | توسعه‌دهنده مستقل؛ مشاوره و اتوماسیون پاره‌وقت · MQL4/MQL5، بلاکچین، Blazor Hybrid / MAUI، n8n، Git/DevOps، Docker، Onion، Python | دی ۱۴۰۱ – آذر ۱۴۰۳ · Jan 2023 – Dec 2024 | [04-freelance-consultant.md](career-hub/experiences/04-freelance-consultant.md) |
-| 05 | استارتاپ باهم‌شاپ · [BahamShop](career-hub/experiences/05-baham-shop.md) | رهبر فنی و مدیر پروژه | دی ۱۴۰۳ – تیر ۱۴۰۴ · Dec 2024 – Jun 2025 | [05-baham-shop.md](career-hub/experiences/05-baham-shop.md) |
-| 06 | ارتباطات پژوهان متین · [Ertebatat Pazhoohan Matin](career-hub/experiences/06-ertebatat-pazhouhan.md) | ارشد فول‌استک | تیر ۱۴۰۴ – اکنون · Jun 2025 – Present | [06-ertebatat-pazhouhan.md](career-hub/experiences/06-ertebatat-pazhouhan.md) |
-
-ردیف‌های ۰۵ و ۰۶ هنوز روایت این گفتگو را ندارند؛ متن‌شان از استخراج اولیه JSON است.
+| 05 | استارتاپ باهم‌شاپ · [BahamShop](career-hub/experiences/05-baham-shop.md) | مدیر پروژه؛ رهبر تیم سئو و طراح Figma · ASP.NET Core 9، n8n، سئو؛ درآمد از ماه اول | دی ۱۴۰۳ – تیر ۱۴۰۴ · Dec 2024 – Jun 2025 | [05-baham-shop.md](career-hub/experiences/05-baham-shop.md) |
+| 06 | ارتباطات پژوهان متین · [Ertebatat Pazhoohan Matin](career-hub/experiences/06-ertebatat-pazhouhan.md) | توسعه‌دهنده پلتفرم سرویس مدارس · C# / Onion، سفیر مهر (Kotlin)، ALPR، MVP سفر (SignalR، Redis) | تیر ۱۴۰۴ – پایان تیر ۱۴۰۵ · Jun 2025 – Jul 2026 | [06-ertebatat-pazhouhan.md](career-hub/experiences/06-ertebatat-pazhouhan.md) |
+| 07 | ایار پلاس · [Ayar Plus](career-hub/experiences/07-ayar-plus.md) | توسعه‌دهنده .NET MAUI؛ مدتی مدیر پروژه · ERP طلا، کویت، Bit Platform | مهر ۱۴۰۴ – شهریور ۱۴۰۵ · Sep 2025 – Sep 2026 | [07-ayar-plus.md](career-hub/experiences/07-ayar-plus.md) |
 
 ---
 
@@ -74,7 +73,7 @@ PDF دوره PHP/CodeIgniter هنوز در `assets/` نیست.
 ```text
 career-hub/
 ├── education/            # مسیر آموزشی پیش از اولین شغل
-├── experiences/          # سوابق ۰۱ تا ۰۶ (قدیم → جدید) + لینک مدرک
+├── experiences/          # سوابق ۰۱ تا ۰۷ (قدیم → جدید) + لینک مدرک
 ├── certificates/
 │   ├── certificates.md   # جدول و لنگر slug
 │   └── assets/           # تصویر / PDF مدارک
@@ -104,7 +103,7 @@ career-hub/
 
 1. آگهی را کامل پیست کنید و زبان خروجی را بگویید (`fa` یا `en`).
 2. مهارت `tailor-ats-resume` و قانون `.cursor/rules/career-engine.mdc` اعمال می‌شود.
-3. ایجنت سوابق ۰۱–۰۶ و مدارک را می‌خواند، نقش‌های هم‌پوشان با استک JD را بالا می‌آورد، و گلوله‌ها را با فرمول **Google X-Y-Z** می‌نویسد (انجام X، با معیار Y، از طریق Z).
+3. ایجنت سوابق ۰۱–۰۷ و مدارک را می‌خواند، نقش‌های هم‌پوشان با استک JD را بالا می‌آورد، و گلوله‌ها را با فرمول **Google X-Y-Z** می‌نویسد (انجام X، با معیار Y، از طریق Z).
 4. خروجی تک‌ستونه ATS است: خلاصه، شایستگی‌ها، تجربه، پروژه‌های شاخص، مدارک — بدون جدول و آیکون داخل خود رزومه.
 5. فایل در `career-hub/tailored-resumes/` ذخیره می‌شود؛ نسخه‌های قبلی به `archive/` می‌روند.
 

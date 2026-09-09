@@ -2,85 +2,105 @@
 id: 05-baham-shop
 company_fa: استارتاپ باهم‌شاپ
 company_en: BahamShop
-role_fa: رهبر فنی و مدیر پروژه
-role_en: Lead Full-Stack Developer & Project Manager
+role_fa: مدیر پروژه؛ رهبر تیم سئو و طراح Figma
+role_en: Project manager; SEO lead and Figma designer
 period_fa: دی ۱۴۰۳ – تیر ۱۴۰۴
 period_en: Dec 2024 – Jun 2025
 location: Shiraz, Fars, Iran
 core_skills:
-  - C#
+  - Project Management
+  - SEO
+  - Figma
+  - n8n
   - ASP.NET Core 9
   - Clean Architecture
-  - CQRS
-  - RabbitMQ
-  - .NET MAUI
-  - Blazor Hybrid
+  - Caching
+  - C#
+tools:
   - n8n
-  - SEO
-  - Product Search Engine
-  - Cross-Platform
-  - Project Management
-  - OOP
-  - Android
+  - Figma
+  - ASP.NET Core 9
+unfinished:
+  - cross-platform client (started, not shipped)
 metrics:
-  - "حذف ۱۰۰٪ ورود دستی داده کالا از طریق گردش‌کار n8n برای SEO و ایندکس"
-  - "اشتراک حدود ۹۰٪ کد بین وب، اندروید و iOS با MAUI و Blazor Hybrid"
-  - "پاسخ کوئری جستجوی فیلتردار در حد زیر میلی‌ثانیه با ASP.NET Core 9"
+  - "سایت تا ورود درآمد نداشت؛ در ماه اول ورود به درآمد رسید"
+  - "اتوماسیون n8n برای محتوای سئو تگ محصول و دسته‌بندی؛ تیم سئو ویرایش و درج می‌کرد"
+  - "افزایش سرعت ایندکس محصولات"
+  - "افزایش سرعت پیشرفت پروژه؛ سیستم کراس‌پلتفرم تمام نشد"
 related_certificates:
   - aspnet-core-mvc
-  - xamarin-android
   - oop-csharp
 ---
 
 # باهم‌شاپ | BahamShop
 
-**نقش:** رهبر فنی و مدیر پروژه / Lead Full-Stack Developer & Project Manager  
+**نقش:** مدیر پروژه؛ رهبر تیم سئو و طراح Figma / Project manager; SEO lead and Figma designer  
 **بازه:** دی ۱۴۰۳ – تیر ۱۴۰۴ · Dec 2024 – Jun 2025  
-**محل:** شیراز، ایران  
-**محصول:** موتور جستجوی کالا
+**محل:** شیراز، فارس، ایران  
+**محصول:** موتور جستجوی کالا با scraper و درآمد از کلیک سئو
+
+شغل قبلی: [04-freelance-consultant.md](04-freelance-consultant.md) · شغل بعدی: [06-ertebatat-pazhouhan.md](06-ertebatat-pazhouhan.md)
 
 ## مدارک مرتبط | Related certificates
 
-> 🏆 **مدرک تخصصی مرتبط:** [مشاهده گواهینامه دوره حرفه‌ای ASP.NET Core & MVC](../certificates/certificates.md#aspnet-core-mvc)
+> 🏆 **مدرک تخصصی مرتبط:** دوره حرفه‌ای MVC و ASP.NET Core (۱۳۹۸): [ASP.NET MVC](../certificates/assets/ASP.Net%20MVC-Islamic%20Azad%20University-January-2020-Bahman-98.pdf) · [ASP.NET Core 2](../certificates/assets/ASP.Net%20Core%202-Islamic%20Azad%20University-January-2020-Bahman-98.pdf) · [شرح](../certificates/certificates.md#aspnet-core-mvc)
 
-> 🏆 **مدرک تخصصی مرتبط:** [مشاهده گواهینامه توسعه اپلیکیشن موبایل با Xamarin.Android](../certificates/certificates.md#xamarin-android)
-
-> 🏆 **مدرک تخصصی مرتبط:** [مشاهده گواهینامه برنامه‌نویسی شی‌گرا (OOP) و مبانی C#](../certificates/certificates.md#oop-csharp)
+> 🏆 **مدرک تخصصی مرتبط:** [گواهینامه برنامه‌نویسی شی‌گرا (۱۳۹۲)](../certificates/assets/Principles%20and%20methods%20of%20object-oriented%20programming-Industrial%20Management%20Institute-August-2013-Shahrivar-92.pdf) · [شرح](../certificates/certificates.md#oop-csharp)
 
 ---
 
 ## 🇮🇷 فارسی
 
-چرخه کامل محصول باهم‌شاپ را با تیم کوچک چندتخصصی پیش بردم و موتور جستجو را زودتر از تاریخ توافق‌شده به محیط قابل استفاده رساندم.
+### مسئله و چالش معماری
 
-گردش‌کار SEO و محتوا را با n8n خودکار کردم؛ ورود دستی اطلاعات کالا حذف شد (۱۰۰٪) و ایندکس محصول در موتورهای جستجو سریع‌تر شد.
+دی ۱۴۰۳ مدیر استارتاپ باهم‌شاپ تماس گرفت. باهم‌شاپ موتور جستجوی کالا بود. کالاها را با موتور scraper وارد سایت می‌کرد و روی هر محصول با سئوی حرفه‌ای سعی می‌کرد از کلیک درآمد بگیرد. تا وقتی وارد شدم سایت درآمدی نداشت و استارتاپ هنوز به کسب درآمد نرسیده بود.
 
-داده کالا را از چند منبع در یک کاتالوگ جمع کردم تا کاربر قیمت را در بازار ایران در یک جستجو مقایسه کند، نه با رفتن به چند فروشگاه جدا.
+### راهکار و Trade-off
 
-بک‌اند جستجو را با ASP.NET Core 9 و Clean Architecture نوشتم تا کوئری‌های فیلتردار در حد زیر میلی‌ثانیه جواب بدهند.
+ماه اول را روی رساندن سایت به درآمد گذاشتم. نقش من رهبر تیم سئو، طراح Figma و مدیر پروژه بود؛ کارهای سئو را هم مدیریت می‌کردم. بک‌اند را با ASP.NET Core 9 پیش بردم که تازه آمده بود، با Clean Architecture و سیستم کش برای پاسخگویی سریع.
 
-حدود ۹۰٪ کد را بین وب، اندروید و iOS با .NET MAUI و Blazor Hybrid مشترک گذاشتم تا سه کلاینت از یک مدل دامنه و یک API تغذیه شوند.
+برای سئو یک automation با n8n ساختم. برای هر تگ محصول و هر دسته‌بندی، n8n محتوای مناسب سئو آماده می‌کرد. ورود دستی اطلاعات راحت‌تر شد؛ کار همکاران تیم سئو بیشتر ویرایش و درج همان محتوا بود. همان درج باعث شد سرعت ایندکس محصولات بالا برود.
 
-ورود داده و پاسخ جستجو را با CQRS و RabbitMQ از هم جدا کردم تا وقتی کرالرها اوج می‌گیرند، مسیر کوئری کاربر قطع نشود.
+یک سیستم کراس‌پلتفرم هم برایشان شروع کردم. تمام نشد. مشکلات مالی دوباره پیش آمد، شروع جنگ بین من و مدیر استارتاپ اختلاف انداخت، از حقوق دریافتی راضی نبودم و موقعیت شغلی بهتری داشتم. تا تیر ۱۴۰۴ آنجا بودم.
+
+### دستاورد (X-Y-Z)
+
+سایت را در ماه اول به درآمد رساندم، با سنجش رسیدن به کسب درآمد در حالی که قبل از ورود درآمدی نبود، از طریق مدیریت سئو، گردش n8n و کار روی بک‌اند.
+
+ورود دستی اطلاعات سئو را سبک کردم، با سنجش ویرایش و درج محتوای آماده توسط تیم سئو، از طریق گردش n8n روی تگ‌ها و دسته‌بندی‌ها. همان مسیر سرعت ایندکس محصولات را بالا برد.
+
+بک‌اند جستجو را با ASP.NET Core 9 جلو بردم، با سنجش پاسخگویی سریع از مسیر Clean Architecture و کش، از طریق همان استک که تازه منتشر شده بود.
+
+کارهایی که انجام شد سرعت پیشرفت پروژه را بالا برد. سیستم کراس‌پلتفرم تمام نشد.
 
 ---
 
 ## 🇬🇧 English
 
-Ran BahamShop end to end with a small cross-functional team and put the search engine in users' hands before the original ship date.
+### Problem and architectural challenge
 
-Built an n8n SEO and content pipeline that removed 100% of manual product data entry and shortened the time to search-engine indexing.
+The BahamShop startup manager called in Dey 1403 / Dec 2024. BahamShop was a product search engine. A scraper pulled products into the site, and professional SEO on each product was how they meant to earn from clicks. When I joined, the site had no income yet. The startup had not reached revenue.
 
-Aggregated product feeds into one catalog so a shopper could compare prices across the Iranian market in a single query instead of hopping storefronts.
+### Solution and trade-off
 
-Implemented the search backend on ASP.NET Core 9 and Clean Architecture so filtered queries stayed in the sub-millisecond range.
+I spent the first month getting the site to revenue. My roles were SEO team lead, Figma designer, and project manager; I also ran the SEO work. I pushed the backend on ASP.NET Core 9, which had just shipped, with Clean Architecture and caching for faster responses.
 
-Shared about 90% of the codebase across Web, Android, and iOS with .NET MAUI and Blazor Hybrid, so three clients used one domain model and one API.
+For SEO I built an n8n automation. For each product tag and each category, n8n prepared SEO-ready content. Manual data entry got easier; the SEO team mostly edited and inserted that copy. That ingest raised product indexing speed.
 
-Split ingestion from query handling with CQRS and RabbitMQ so crawler spikes did not stall user search.
+I also started a cross-platform system for them. It did not ship. Money problems showed up again, the start of the war caused a disagreement with the startup manager, I was unhappy with pay, and I had better roles elsewhere. I stayed through Tir 1404 / Jun 2025.
+
+### Achievement (X-Y-Z)
+
+Got the site to revenue in the first month, measured by first income after a stretch with none, by running SEO, the n8n pipeline, and backend work.
+
+Cut the cost of manual SEO entry, measured by the SEO team editing and inserting generated copy, by n8n workflows on tags and categories. That same path raised product indexing speed.
+
+Moved the search backend onto ASP.NET Core 9, measured by faster response through Clean Architecture and caching, by building on that newly released stack.
+
+The work raised how fast the project moved. The cross-platform system was not finished.
 
 ---
 
 ## ATS Keywords
 
-`Lead Full-Stack` `Project Manager` `ASP.NET Core 9` `Clean Architecture` `CQRS` `RabbitMQ` `.NET MAUI` `Blazor Hybrid` `n8n` `SEO automation` `product search engine` `price comparison` `cross-platform` `startup`
+`Project Manager` `SEO` `SEO automation` `Figma` `n8n` `ASP.NET Core 9` `Clean Architecture` `caching` `product search engine` `scraper` `startup`

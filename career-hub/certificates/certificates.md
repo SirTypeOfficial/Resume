@@ -20,7 +20,7 @@
 
 **فایل:** [PDF](assets/Principles%20and%20methods%20of%20object-oriented%20programming-Industrial%20Management%20Institute-August-2013-Shahrivar-92.pdf)
 
-سوابق مرتبط: [مسیر آموزشی](../education/00-training-path.md) · [01 نیکان](../experiences/01-nikan-exir.md) · [02 رستا](../experiences/02-rasta-tejarat.md) · [03 پارسیا افزار](../experiences/03-parsia-afzar.md) · [04 کار مستقل](../experiences/04-freelance-consultant.md)
+سوابق مرتبط: [مسیر آموزشی](../education/00-training-path.md) · [01 نیکان](../experiences/01-nikan-exir.md) · [02 رستا](../experiences/02-rasta-tejarat.md) · [03 پارسیا افزار](../experiences/03-parsia-afzar.md) · [04 کار مستقل](../experiences/04-freelance-consultant.md) · [05 باهم‌شاپ](../experiences/05-baham-shop.md) · [06 پژوهان](../experiences/06-ertebatat-pazhouhan.md) · [07 ایار پلاس](../experiences/07-ayar-plus.md)
 
 ## php-codeigniter
 
@@ -29,7 +29,7 @@
 **صادرکننده:** سازمان مدیریت صنعتی واحد جنوب / Industrial Management Institute, South Unit  
 **تاریخ:** ۱۳۹۳ / 2014
 
-PDF هنوز در `assets/` نیست. روایت: [مسیر آموزشی](../education/00-training-path.md). به استک تولید نیکان، رستا یا پارسیا وصل نشده.
+PDF هنوز در `assets/` نیست. روایت: [مسیر آموزشی](../education/00-training-path.md). بک‌اند محصول [07 ایار پلاس](../experiences/07-ayar-plus.md) PHP بود (اتصال از کلاینت MAUI؛ CodeIgniter در آن نقش ذکر نشده). به استک تولید نیکان، رستا یا پارسیا وصل نشده.
 
 ## xamarin-android
 
@@ -40,7 +40,7 @@ PDF هنوز در `assets/` نیست. روایت: [مسیر آموزشی](../edu
 
 **فایل:** [PDF](assets/Xamarin-Android-Industrial%20Management%20Institute-January-2017-Bahman-95.pdf)
 
-سوابق مرتبط: [مسیر آموزشی](../education/00-training-path.md) · [04 کار مستقل](../experiences/04-freelance-consultant.md) (مسیر موبایل به .NET MAUI / Blazor Hybrid). در نیکان، رستا و پارسیا به‌عنوان استک تولید ذکر نشده.
+سوابق مرتبط: [مسیر آموزشی](../education/00-training-path.md) · [04 کار مستقل](../experiences/04-freelance-consultant.md) (مسیر موبایل به .NET MAUI / Blazor Hybrid) · [06 پژوهان](../experiences/06-ertebatat-pazhouhan.md) (اپ نیتیو اندروید سفیر مهر با Kotlin) · [07 ایار پلاس](../experiences/07-ayar-plus.md) (.NET MAUI، Android و iOS). در نیکان، رستا و پارسیا به‌عنوان استک تولید ذکر نشده.
 
 ## aspnet-core-mvc
 
@@ -53,7 +53,7 @@ PDF هنوز در `assets/` نیست. روایت: [مسیر آموزشی](../edu
 
 صدور بهمن ۱۳۹۸ داخل بازه رستا است (مهر ۱۳۹۸ – مرداد ۱۳۹۹)، بعد از خروج از نیکان در مهر ۱۳۹۸. آمادگی قبل از نیکان: self-study دوره بیش از ۱۲۰ ساعته ASP.NET Core آرزو ابراهیمی و کتاب‌های MVC 5 ([مسیر آموزشی](../education/00-training-path.md)).
 
-سوابق مرتبط: [مسیر آموزشی](../education/00-training-path.md) · [01 نیکان](../experiences/01-nikan-exir.md) · [02 رستا](../experiences/02-rasta-tejarat.md) · [03 پارسیا افزار](../experiences/03-parsia-afzar.md) · [04 کار مستقل](../experiences/04-freelance-consultant.md)
+سوابق مرتبط: [مسیر آموزشی](../education/00-training-path.md) · [01 نیکان](../experiences/01-nikan-exir.md) · [02 رستا](../experiences/02-rasta-tejarat.md) · [03 پارسیا افزار](../experiences/03-parsia-afzar.md) · [04 کار مستقل](../experiences/04-freelance-consultant.md) · [05 باهم‌شاپ](../experiences/05-baham-shop.md) · [06 پژوهان](../experiences/06-ertebatat-pazhouhan.md) · [07 ایار پلاس](../experiences/07-ayar-plus.md)
 
 لنگرهای `aspnet-mvc` و `aspnet-core-2` به همین بخش اشاره دارند.
 

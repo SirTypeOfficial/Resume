@@ -30,18 +30,31 @@
   },
   "work": [
     {
-      "position": "Senior Full-Stack Developer",
+      "position": ".NET MAUI developer; project manager for a stretch",
+      "name": "Ayar Plus",
+      "startDate": "2025-09",
+      "endDate": "2026-09",
+      "location": {
+        "city": "Remote",
+        "region": "Kuwait market",
+        "country": "Iran"
+      },
+      "summary": "* Custom accounting software for the Kuwait market; employer Iranian, based in Kuwait. Joined as .NET MAUI developer: XAML, multilingual UI, gold ERP (inventory, gold math, gold accounting) on .NET 10 talking to a PHP backend. * Online and offline invoicing; Windows client found the Android client on the LAN and queued requests until the app was online. * App on Google Play; CI/CD published Android and iOS to Google Play and the App Store so customers were not disrupted. * Card readers in Kuwait gold shops for Civil ID scans; card photos stored on ImageKit and used in the Android app. * For a stretch also project manager: remote coordination, weekly sprints, daily and weekly meetings; MAUI colleague in Mashhad, backend in Qom, bridge to the Product Owner. * Started a full cross-platform rewrite on Bit Platform with migration of old data; packages for PDF and printing receipts and invoices."
+    },
+    {
+      "position": "Developer, school-transport platform",
       "name": "Ertebatat Pazhoohan Matin",
       "startDate": "2025-06",
+      "endDate": "2026-07",
       "location": {
         "city": "Shiraz",
         "region": "Fars",
         "country": "Iran"
       },
-      "summary": "* **Architected and maintained enterprise-grade** platforms\u00A0for School Service Management across major cities (Shiraz, Isfahan, Qazvin), utilizing\u00A0**C#**\u00A0and\u00A0**Onion Architecture\u00A0**to ensure high scalability and maintainability. * Developed \"Safir Mehr,\" a **native Android application\u00A0using\u00A0Kotlin**, providing a seamless mobile experience for fleet management and user interaction. * **Engineered \"Automatic license plate recognition\" an AI-powered system**\u00A0using\u00A0**Python**, integrating intelligent processing capabilities (**AI/Computer Vision**) into the company's product ecosystem. * **Accelerated product development cycles**\u00A0by pioneering the use of AI-native IDEs (like\u00A0Cursor), significantly boosting coding velocity and efficiency. * **Delivered multiple functional MVPs within one-week sprints**, leveraging bleeding-edge technologies such as\u00A0**.NET 10**\u00A0and\u00A0**PostgreSQL\u00A0**to rapidly validate business concepts."
+      "summary": "* Joined right after BahamShop. Enterprise school-transport platform for municipalities (Shiraz, Isfahan, Qazvin) on C# and Onion Architecture. Developer: features, reports, query work, speed. * Some cities had more than 200,000 users; accounting and the payment gateway sat on the same platform among fleets, services, drivers, students, and parents, including an inspector role. * At the start designed Safir Mehr, a native Kotlin Android fleet app for customers. * ALPR for inspectors with Python and FastAPI: photo in, plate text out, check against the company fleet. * Much of the work in Cursor: rules and skills on the models, code review, fast MVPs. One MVP was a Snapp-like trip app on .NET 10, PostgreSQL Polygon, SignalR, and Redis (request, driver accept/reject, dashboard, fleet in admin). * Left at the end of Tir 1405 / Jul 2026 after the war started and the contract ended. Parallel outside project Ayar Plus from Mehr 1404 through Shahrivar 1405."
     },
     {
-      "position": "Lead Full-Stack Developer & Project Manager",
+      "position": "Project manager; SEO lead and Figma designer",
       "name": "BahamShop (Product Search Engine Startup)",
       "startDate": "2024-12",
       "endDate": "2025-06",
@@ -50,7 +63,7 @@
         "region": "Fars",
         "country": "Iran"
       },
-      "summary": "* Spearheaded the end-to-end development of \"BahamShop,\" leading a cross-functional team to deliver a next-gen search engine ahead of schedule. * **Designed an\u00A0Automated SEO & Content Workflow\u00A0using\u00A0n8n**, **reducing manual data entry by\u00A0100%\u00A0and significantly improving product indexing speed on search engines**. * Orchestrated the aggregation of product data from multiple sources, creating a centralized database that allows users to compare prices across the entire Iranian market instantly. * Architected a high-performance**\u00A0Product Search Engine\u00A0utilizing\u00A0ASP.NET Core 9\u00A0and\u00A0Clean Architecture**, ensuring sub-millisecond response times for complex queries. * Developed a unified cross-platform experience using\u00A0**.NET MAUI\u00A0and\u00A0Blazor Hybrid**, sharing 90% of the codebase between Web, Android, and iOS to accelerate time-to-market. * Implemented\u00A0**CQRS\u00A0**and\u00A0**RabbitMQ\u00A0**to decouple data ingestion from search query processing, improving system scalability and fault tolerance."
+      "summary": "* Product search engine with a scraper and professional SEO meant to earn from clicks. Site had no revenue until I joined; it reached income in the first month. * Roles: SEO team lead, Figma designer, project manager. * n8n automation prepared SEO content per product tag and category; the SEO team edited and inserted it, which raised product indexing speed. * Backend on ASP.NET Core 9 with Clean Architecture and caching for faster responses. * Started a cross-platform system; it did not ship. Left in Jun 2025 over money problems, disagreement after the war started, pay, and better roles elsewhere."
     },
     {
       "position": "Independent developer; occasional consulting and automation",

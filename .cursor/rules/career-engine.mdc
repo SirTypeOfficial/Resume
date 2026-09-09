@@ -28,13 +28,13 @@ Persian filler to avoid: تحول‌آفرین، پیشگامانه (به‌جا
 
 ## Google X-Y-Z
 
-Every duty bullet: accomplished **X**, measured by **Y**, by doing **Z**. Prefer numbers already in the vault (90% shared code, 100% less manual entry, one-week MVPs, sub-millisecond search). Do not fabricate new metrics.
+Every duty bullet: accomplished **X**, measured by **Y**, by doing **Z**. Prefer numbers already in the vault (BahamShop first-month revenue; Pazhouhan 200k+ users in some cities). Do not fabricate new metrics.
 
 ## Tailored ATS resume from a JD
 
 1. Read every file under `career-hub/experiences/`, `career-hub/education/`, and `career-hub/certificates/certificates.md`.
 2. Extract JD stack, domain, seniority, and must-have keywords.
-3. Rank roles 01–06 by overlap; lead with the strongest match; drop off-stack work instead of padding.
+3. Rank roles 01–07 by overlap; lead with the strongest match; drop off-stack work instead of padding.
 4. Mirror JD keywords only when they are true in the vault.
 5. Rewrite selected bullets in X-Y-Z. Language: user request wins; else match the JD (FA or EN).
 6. Output single-column ATS Markdown (no tables, icons, or multi-column): Summary, Core Competencies, Key Technical Experience, Flagship Projects, Certifications, Education.
