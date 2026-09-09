@@ -1,7 +1,7 @@
 # محمدرضا وظیفه | Mohammad Reza Vazifeh
 
-**معمار ارشد سیستم‌های توزیع‌شده و سرپرست فنی .NET**  
-Senior Architect of Distributed .NET Systems · Applied AI · Data Automation
+**معمار نرم‌افزار و توسعه‌دهنده فول‌استک .NET**  
+Full-Stack .NET Developer & Software Architect
 
 شیراز، ایران · ۸+ سال پروداکشن تجاری · مسیر دات‌نت از ۱۳۹۲ / 2013
 
@@ -20,11 +20,11 @@ Senior Architect of Distributed .NET Systems · Applied AI · Data Automation
 
 ## معرفی
 
-معمار ارشد سیستم‌های توزیع‌شده و سرپرست فنی .NET با تمرکز روی .NET 9/10، Clean Architecture، DDD، CQRS و Microservices. متخصص هوش مصنوعی کاربردی و بینایی ماشین (ALPR، Python، FastAPI، مهندسی پرامپت و ایجنت در حلقه توسعه). مهندس اتوماسیون داده و فرایند: پایپ‌لاین n8n، Redis، SignalR، RabbitMQ و سیستم‌های الگوریتمی MQL5.
+توسعه‌دهنده فول‌استک .NET و معمار نرم‌افزار، متمرکز روی .NET 9/10، Clean Architecture، DDD، CQRS و Microservices. هوش مصنوعی کاربردی و بینایی ماشین در تولید با ALPR، Python و FastAPI؛ مهندسی پرامپت و ایجنت در حلقه توسعه. اتوماسیون داده و فرایند: پایپ‌لاین n8n، Redis، SignalR، RabbitMQ و سیستم‌های الگوریتمی MQL5.
 
 مسیر از API نوبت‌دهی و بازنویسی اتوماسیون توزیع برق تا کار مستقل روی بک‌تست MQL و پایپ‌لاین n8n، بعد موتور جستجوی کالا (درآمد از ماه اول)، پلتفرم سرویس مدارس (در بعضی شهرها بیش از ۲۰۰ هزار کاربر)، و پیمانکاری پاره‌وقت ERP طلا برای بازار کویت در عیار پلاس.
 
-Senior architect of distributed .NET systems and technical lead. Applied AI and computer vision in production (ALPR on Python and FastAPI). Data and process automation with n8n, Redis, SignalR, RabbitMQ, and MQL5. Path includes electricity-distribution Microservices, first-month revenue at a product-search startup, a school-transport platform (200k+ users in some cities), and a part-time remote engagement on a Kuwait gold ERP at Ayar Plus.
+Full-stack .NET developer and software architect. Applied AI and computer vision in production (ALPR on Python and FastAPI). Data and process automation with n8n, Redis, SignalR, RabbitMQ, and MQL5. Path includes electricity-distribution Microservices, first-month revenue at a product-search startup, a school-transport platform (200k+ users in some cities), and a part-time remote engagement on a Kuwait gold ERP at Ayar Plus.
 
 **تماس:** [mohammadrezav.ir](https://mohammadrezav.ir) · [LinkedIn](https://www.linkedin.com/in/sirtype/) · [GitHub](https://github.com/SirTypeOfficial) · [mv6468@gmail.com](mailto:mv6468@gmail.com) · +98 933 229 7757
 
@@ -63,7 +63,7 @@ Senior architect of distributed .NET systems and technical lead. Applied AI and 
 | 04 | کار مستقل · [Independent](career-hub/experiences/04-freelance-consultant.md) | مهندس مستقل · بک‌تست MQL5، پایپ‌لاین n8n، تحقیق معماری (Onion، Docker، Blazor Hybrid / MAUI) | دی ۱۴۰۱ – آذر ۱۴۰۳ · Jan 2023 – Dec 2024 | [04-freelance-consultant.md](career-hub/experiences/04-freelance-consultant.md) |
 | 05 | استارتاپ باهم‌شاپ · [BahamShop](career-hub/experiences/05-baham-shop.md) | راهبر فنی و مهندس اتوماسیون داده و معماری بک‌اند · ASP.NET Core 9، n8n، Clean Architecture؛ درآمد از ماه اول | دی ۱۴۰۳ – تیر ۱۴۰۴ · Dec 2024 – Jun 2025 | [05-baham-shop.md](career-hub/experiences/05-baham-shop.md) |
 | 06 | ارتباطات پژوهان متین · [Ertebatat Pazhoohan Matin](career-hub/experiences/06-ertebatat-pazhouhan.md) | توسعه‌دهنده تمام‌وقت پلتفرم سرویس مدارس · .NET 10، ALPR / FastAPI، Kotlin، SignalR، Redis | تیر ۱۴۰۴ – پایان تیر ۱۴۰۵ · Jun 2025 – Jul 2026 | [06-ertebatat-pazhouhan.md](career-hub/experiences/06-ertebatat-pazhouhan.md) |
-| 07 | عیار پلاس · [Ayar Plus](career-hub/experiences/07-ayar-plus.md) | پیمانکار ارشد دات‌نت و مشاور فنی دورکار (Part-time) · ERP طلا، کویت، .NET 10 / MAUI / Bit Platform | مهر ۱۴۰۴ – شهریور ۱۴۰۵ · Sep 2025 – Sep 2026 | [07-ayar-plus.md](career-hub/experiences/07-ayar-plus.md) |
+| 07 | عیار پلاس · [Ayar Plus](career-hub/experiences/07-ayar-plus.md) | پیمانکار دات‌نت و مشاور فنی دورکار (.NET Contractor & Remote Technical Consultant، Part-time) · ERP طلا، کویت، .NET 10 / MAUI / Bit Platform | مهر ۱۴۰۴ – شهریور ۱۴۰۵ · Sep 2025 – Sep 2026 | [07-ayar-plus.md](career-hub/experiences/07-ayar-plus.md) |
 
 ---
 

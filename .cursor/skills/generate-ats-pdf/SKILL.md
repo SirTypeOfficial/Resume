@@ -31,7 +31,7 @@ When invoked with a Job Description (JD):
 ## Targeting
 
 - Language: user request wins. If unspecified, match the JD (EN or FA). Keep the same facts in both languages.
-- Rank roles 01–07 by overlap with JD stack, domain, and seniority. Lead with the strongest matches. Drop off-stack roles instead of padding.
+- Rank roles 01–07 by overlap with JD stack and domain. Weight recent roles (05–07) more heavily. Lead with the strongest matches. Drop off-stack roles instead of padding. Do not copy Senior / Junior / Lead from the JD onto the resume title unless that exact word is the contractual title in the vault.
 - Mirror JD keywords only when they are true in the vault.
 - Rewrite selected bullets as Google X-Y-Z: accomplished **X**, measured by **Y**, by doing **Z**. Prefer vault numbers; never fabricate metrics.
 - Dates in Professional Experience are Gregorian (`Mon YYYY – Mon YYYY` or `Mon YYYY – Present`). City and country (or Remote) on each role.
@@ -51,7 +51,7 @@ Use these unless the vault or user supplies a newer value:
 
 ## File names
 
-Slug `[Company]` and `[Role]` to ASCII kebab-case. Examples: `Snapp-Senior-NET-Architect.md`, `AyarPlus-MAUI-Contractor.md`.
+Slug `[Company]` and `[Role]` to ASCII kebab-case. Examples: `Snapp-NET-Architect.md`, `AyarPlus-MAUI-Contractor.md`. Do not put Senior in a filename unless it is the vault contractual title.
 
 ```text
 career-hub/tailored-resumes/[Company]-[Role].md
@@ -70,7 +70,7 @@ Single column. No tables, icons, badges, or multi-column layouts. For Persian, k
 Shiraz, Iran | +98 933 229 7757 | mv6468@gmail.com | mohammadrezav.ir | linkedin.com/in/sirtype | github.com/SirTypeOfficial
 
 ## Professional Summary
-[3–4 lines. Seniority + stack matched to the JD. One vault-backed proof. No fluff.]
+[3–4 lines. Functional title + stack matched to the JD. One vault-backed proof. No fluff. No self-proclaimed Senior / Junior / Lead.]
 
 ## Core Competencies
 **Languages:** …

@@ -88,7 +88,7 @@ related_certificates:
 
 بیشتر توسعه را با Cursor پیش بردم. قوانین و مهارت‌ها را به مدل‌هایی که استفاده می‌کردم اضافه کردم، کد را ریویو کردم، و MVP سریع تحویل دادم. یکی از آن‌ها اپ مشابه اسنپ بود با .NET 10، PostgreSQL، Polygon روی Postgres، SignalR و Redis: درخواست سفر برای راننده می‌رفت، قبول یا رد می‌کرد، داشبورد داشت، و با SignalR ناوگان در پنل ادمین دیده می‌شد. شرکت می‌خواست این MVP را به مشتری‌هایش بدهد.
 
-از مهر ۱۴۰۴، بیرون از این نقش تمام‌وقت، به‌صورت پیمانکار ارشد دات‌نت و مشاور فنی دورکار (پاره‌وقت) روی عیار پلاس کار کردم. جزئیات در [07-ayar-plus.md](07-ayar-plus.md).
+از مهر ۱۴۰۴، بیرون از این نقش تمام‌وقت، به‌صورت پیمانکار دات‌نت و مشاور فنی دورکار (پاره‌وقت) روی عیار پلاس کار کردم. جزئیات در [07-ayar-plus.md](07-ayar-plus.md).
 
 بازه را با پایان دوره قرارداد، پایان تیر ۱۴۰۵، بستیم.
 
@@ -126,7 +126,7 @@ For the inspector role I started wiring in AI and computer vision. I built an au
 
 I did much of the development in Cursor. I added rules and skills to the models I used, reviewed code, and shipped MVPs quickly. One of those was a Snapp-like ride app on .NET 10, PostgreSQL, Postgres Polygon, SignalR, and Redis: a trip request went to the driver, who accepted or rejected it, there was a dashboard, and SignalR showed the fleet in the admin panel. The company wanted that MVP for its own customers.
 
-From Sep 2025 (Mehr 1404), outside this full-time role, I also worked as a senior .NET contractor and remote technical consultant (part-time) on Ayar Plus (عیار پلاس). Details are in [07-ayar-plus.md](07-ayar-plus.md).
+From Sep 2025 (Mehr 1404), outside this full-time role, I also worked as a .NET contractor and remote technical consultant (part-time) on Ayar Plus (عیار پلاس). Details are in [07-ayar-plus.md](07-ayar-plus.md).
 
 The contract term ended at the close of Jul 2026 (Tir 1405).
 

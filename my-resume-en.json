@@ -2,11 +2,11 @@
   "resumeLang": "en",
   "basics": {
     "name": "MohammadReza Vazifeh",
-    "label": "Senior Architect of Distributed .NET Systems | Applied AI & Computer Vision | Data Automation",
+    "label": "Full-Stack .NET Developer & Software Architect",
     "image": "https://liara.cvbuilder.me/Files/User_Photo/48c86b1f-44d1-47b1-87fe-a257d90e8c9e/05L0SINpn0KaSb1-KGcUsQ-706.jpg",
     "email": "mv6468@gmail.com",
     "phone": "9332297757",
-    "summary": "Senior architect of distributed .NET systems and technical lead. Commercial production started in 2018; the .NET path starts with OOP and C# in 2013. Day-to-day work is .NET 9/10, Clean Architecture, DDD, CQRS, and Microservices. Applied AI and computer vision in production through ALPR on Python and FastAPI, plus prompt and agent work in the development loop. Automation through n8n pipelines, Redis, SignalR, RabbitMQ, and MQL5 trading systems. Recent work includes a municipal school-transport platform with more than 200,000 users in some cities, and a part-time .NET MAUI gold ERP for the Kuwait market at Ayar Plus.",
+    "summary": "Software developer with more than 8 years of commercial production in the .NET ecosystem, focused on distributed systems, Clean Architecture, and process automation. The .NET path starts with OOP and C# in 2013. Day-to-day work is .NET 9/10, DDD, CQRS, and Microservices. Applied AI and computer vision in production through ALPR on Python and FastAPI, plus prompt and agent work in the development loop. Automation through n8n pipelines, Redis, SignalR, RabbitMQ, and MQL5 trading systems. Recent work includes a municipal school-transport platform with more than 200,000 users in some cities, and a part-time .NET MAUI gold ERP for the Kuwait market at Ayar Plus.",
     "url": "MohammadRezaV.ir",
     "location": {
       "city": "Shiraz",
@@ -30,7 +30,7 @@
   },
   "work": [
     {
-      "position": "Senior .NET contractor and remote technical consultant (Part-time / Remote Technical Contractor)",
+      "position": ".NET Contractor & Remote Technical Consultant (Part-time)",
       "name": "Ayar Plus",
       "startDate": "2025-09",
       "endDate": "2026-09",

@@ -6,13 +6,70 @@ alwaysApply: true
 
 # Career Engine — Mohammad Reza Vazifeh
 
-You are writing as Mohammad Reza Vazifeh. Commercial production started in 2018; the .NET path itself starts with OOP and C# in 2013. Position every public document on this triad:
+You are writing as Mohammad Reza Vazifeh. Commercial production started in 2018; the .NET path itself starts with OOP and C# in 2013. Default public title: **Full-Stack .NET Developer & Software Architect** (توسعه‌دهنده فول‌استک .NET و معمار نرم‌افزار). Position every public document on this triad — by the work shipped, not by seniority labels:
 
-1. Senior architect of distributed systems and .NET technical lead, focused on .NET 9/10, Clean Architecture, DDD, CQRS, and Microservices.
+1. Software architect of distributed .NET systems, focused on .NET 9/10, Clean Architecture, DDD, CQRS, and Microservices.
 2. Applied AI and computer-vision engineer: ALPR, Python, FastAPI, and prompt/agent work inside the development loop (Cursor rules and skills).
 3. Data and process automation engineer: n8n pipelines, Redis, SignalR, RabbitMQ, and MQL5 algorithmic systems.
 
 Sound like an engineer who shipped systems, not a marketing page.
+
+## ممنوعیت استفاده از القاب خودخوانده (No Self-Proclaimed Seniority Titles)
+
+Show, don't tell. Skill level must be inferred by the reader from the depth of the challenges, the architectural decisions, the scale of the systems, and documented outcomes — not from a self-assigned rank.
+
+- Do not use Senior, Junior, Mid-level, Lead (as a rank), or Persian equivalents (ارشد، جونیور، میانی، لید) in the person's introduction, biography, headline, or default job title.
+- Exception: use that word only when it is the exact title written in that employer's contract. None of the vault roles currently have a contractual Senior / Junior / Lead title. Do not invent one.
+- Professional titles name the function, the technical role, and the domain:
+  * Instead of "Senior Full-Stack Developer" → "Full-Stack .NET Developer" or "Software Engineer (.NET & Systems)"
+  * Instead of "Senior Software Architect" → "Software Architect / Systems Developer"
+  * Instead of "Senior Contractor" → ".NET Contractor & Technical Consultant"
+- Functional role names that describe actual work are allowed: .NET Developer, Software Architect, Technical Consultant, راهبر فنی (only where the vault records team coordination as the work, e.g. BahamShop). Do not put راهبر / Lead on the public headline as a seniority badge.
+- When a JD asks for a Senior / Staff / Principal engineer, still keep the resume title functional. Match the JD with stack, scale, and X-Y-Z proof, not by copying the rank word onto the header.
+
+## Elite Engineering Doctrine (۸ اصل طلایی نگارش فنی و معمارانه)
+
+All resume output, Markdown in `career-hub/`, and LinkedIn copy must follow these eight principles.
+
+### 1. Show, Don't Tell — no self-proclaimed seniority
+
+Never default to Senior, Junior, Lead, ارشد, or لید on the person or on a title unless that exact word is in the contract. Let the evaluator read level from architecture depth (.NET 10, Onion, Microservices), user scale (200k users), and technical decisions. Default title: Full-Stack .NET Developer & Software Architect.
+
+### 2. Ownership over Proximity
+
+Avoid passive, weak, or adjacent verbs («همکاری در»، «آشنایی با»، «کمک به تیم», "helped the team", "was involved in"). State the person's share with architectural verbs: Architected, Engineered, Optimized, Containerized, Designed, Shipped.
+
+### 3. Trade-off Awareness
+
+Do not describe systems as bug-free or magical. Show what each architecture choice cost. Example: CQRS and RabbitMQ isolated heavy electricity-distribution write load, at the cost of keeping read and write models consistent.
+
+### 4. Zero Fluff (100% signal)
+
+No personality adjectives or psychological clichés (کوشا، سخت‌کوش، علاقه‌مند به کار تیمی، باانگیزه, "passionate team player"). Teamwork and coordination appear only as technical acts: code review, bridging Product Owner and the remote engineering team, running sprint meetings.
+
+### 5. T-shaped skills — depth vs familiarity
+
+Keep three explicit tiers. Do not flatten them.
+
+- Core production-grade: .NET 9/10, Clean Architecture, DDD, CQRS, SQL Server, RabbitMQ.
+- Applied / functional (shipped): Python FastAPI, Kotlin, Redis, SignalR, Docker, n8n.
+- Explored / secondary: Kubernetes, Pine Script. These stay in metadata such as `awareness_only`; they are not profile skills and not résumé headlines.
+
+### 6. Business Impact Alignment
+
+Software is built to create commercial value. Tie each achievement to a business effect already in the vault:
+
+- BahamShop: first-month revenue and automated data entry for SEO copy.
+- Pazhouhan: multi-party financial settlement among fleets, schools, and drivers.
+- Ayar Plus (عیار پلاس): gold invoices still issued when the shop network was down.
+
+### 7. Recency Effect
+
+About 70% of resume length and emphasis stays on the last three to four years: Ayar Plus, Pazhouhan, BahamShop. Nikan and Rasta remain as foundation, in the shortest form that still states the work.
+
+### 8. Defensible Metrics Only
+
+No invented statistics (300% growth, sub-millisecond latency, and the like). Use only numbers that exist in the vault and that can be defended on a whiteboard in a technical interview (200k users, four metro municipalities, twelve electricity-distribution companies — only if that count is in the vault).
 
 ## Source of truth
 
@@ -39,11 +96,11 @@ Every duty bullet: accomplished **X**, measured by **Y**, by doing **Z**. Prefer
 ## Tailored ATS resume from a JD
 
 1. Read every file under `career-hub/experiences/`, `career-hub/education/`, and `career-hub/certificates/certificates.md`.
-2. Extract JD stack, domain, seniority, and must-have keywords.
-3. Rank roles 01–07 by overlap; lead with the strongest match; drop off-stack work instead of padding.
+2. Extract JD stack, domain, and must-have keywords. Note the JD's requested rank only to understand the brief; do not copy Senior / Junior / Lead onto the resume header.
+3. Rank roles 01–07 by overlap; lead with the strongest match; drop off-stack work instead of padding. Weight recent roles (05–07) more heavily than 01–02.
 4. Mirror JD keywords only when they are true in the vault.
 5. Rewrite selected bullets in X-Y-Z. Language: user request wins; else match the JD (FA or EN).
-6. Output single-column ATS Markdown (no tables, icons, or multi-column): Summary, Core Competencies, Key Technical Experience, Flagship Projects, Certifications, Education.
+6. Output single-column ATS Markdown (no tables, icons, or multi-column): Summary, Core Competencies, Key Technical Experience, Flagship Projects, Certifications, Education. Header title stays functional (Full-Stack .NET Developer, Software Architect, .NET Contractor, …) unless the user supplies a contractual title.
 7. Save as `career-hub/tailored-resumes/<role-slug>-<en|fa>.md`. Move superseded drafts to `career-hub/tailored-resumes/archive/`.
 
 Follow `.cursor/skills/tailor-ats-resume/SKILL.md` for the exact template and header fields.

@@ -4,21 +4,23 @@ Copy one headline into the profile Headline field. Paste the matching About bloc
 
 ## Headlines
 
-### 1. Architect + scale + applied AI
+Do not put Senior, Junior, Lead, or ارشد in a headline. Attract search with stack, domain, and outcomes.
 
-Senior .NET 10 Architect | Distributed Systems · 200k+ Users | Applied AI & ALPR
+### 1. Full-stack + scale + applied AI (default)
 
-`92 characters`
+Full-Stack .NET Developer | Microservices, .NET 10, Blazor & MAUI | Scaled Municipal Transit to 200K+ Users | Applied AI & Vision
 
-Recruiter search: .NET 10, Architect, Distributed Systems, 200k, Applied AI, ALPR.
+`129 characters`
+
+Recruiter search: Full-Stack, .NET Developer, Microservices, .NET 10, Blazor, MAUI, 200K, Applied AI.
 
 ### 2. Architecture keywords
 
-.NET Architect & Technical Lead | Microservices · CQRS · DDD | Clean Architecture
+.NET Software Architect | Microservices · CQRS · DDD | Clean Architecture
 
-`81 characters`
+`73 characters`
 
-Recruiter search: .NET Architect, Technical Lead, Microservices, CQRS, DDD, Clean Architecture.
+Recruiter search: .NET, Software Architect, Microservices, CQRS, DDD, Clean Architecture.
 
 ### 3. Applied AI lane
 
@@ -30,21 +32,21 @@ Recruiter search: Applied AI, Computer Vision, ALPR, FastAPI, .NET 10.
 
 ### 4. Automation lane
 
-Senior .NET Architect | n8n Automation · Redis · SignalR · RabbitMQ · MQL5
-
-`74 characters`
-
-Recruiter search: .NET Architect, n8n, Redis, SignalR, RabbitMQ, MQL5.
-
-### 5. Full-stack + scale
-
-Full-Stack .NET 9/10 Architect | MAUI · Blazor Hybrid | School-Transport Scale
+Full-Stack .NET Developer | n8n Automation · Redis · SignalR · RabbitMQ · MQL5
 
 `78 characters`
 
-Recruiter search: Full-Stack, .NET 9, .NET 10, MAUI, Blazor Hybrid, Architect.
+Recruiter search: Full-Stack, .NET Developer, n8n, Redis, SignalR, RabbitMQ, MQL5.
 
-Recommended default: headline 1. Pin headline 2 if the target role is staff/principal .NET. Pin headline 3 if the JD is AI/CV.
+### 5. Clients + scale
+
+Full-Stack .NET Developer | .NET 10 · MAUI · Blazor Hybrid | School-Transport Scale
+
+`83 characters`
+
+Recruiter search: Full-Stack, .NET Developer, .NET 10, MAUI, Blazor Hybrid.
+
+Recommended default: headline 1. Pin headline 2 if the target role is architecture-heavy .NET. Pin headline 3 if the JD is AI/CV.
 
 ---
 
@@ -58,7 +60,7 @@ Automation is the other half. I use n8n for data pipelines. At BahamShop that pa
 
 Alongside the Pazhoohan role I was a part-time remote .NET contractor at Ayar Plus (عیار پلاس), on a Kuwait gold ERP in .NET MAUI, with offline invoicing and store CI/CD.
 
-Open to senior .NET architecture, applied AI on existing products, and automation-heavy backends.
+Open to .NET architecture work, applied AI on existing products, and automation-heavy backends.
 
 Shiraz, Iran · mohammadrezav.ir · mv6468@gmail.com · +98 933 229 7757
 
@@ -74,6 +76,6 @@ Shiraz, Iran · mohammadrezav.ir · mv6468@gmail.com · +98 933 229 7757
 
 هم‌زمان با پژوهان، پیمانکار پاره‌وقت دات‌نت در عیار پلاس بودم: ERP طلای بازار کویت روی .NET MAUI، با صدور فاکتور آفلاین و CI/CD فروشگاهی.
 
-برای نقش معماری ارشد دات‌نت، هوش مصنوعی کاربردی روی محصول موجود، و بک‌اند اتوماسیون‌محور آماده‌ام.
+برای کار روی معماری دات‌نت، هوش مصنوعی کاربردی روی محصول موجود، و بک‌اند اتوماسیون‌محور آماده‌ام.
 
 شیراز، ایران · mohammadrezav.ir · mv6468@gmail.com · +98 933 229 7757

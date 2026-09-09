@@ -6,7 +6,7 @@ Paste each block into the matching LinkedIn Experience Description. Keep the tit
 
 ## 07 · Ayar Plus (عیار پلاس)
 
-**Title:** Senior .NET Contractor and Remote Technical Consultant (Part-time)  
+**Title:** .NET Contractor & Remote Technical Consultant (Part-time)  
 **Company:** Ayar Plus  
 **Dates:** Sep 2025 – Sep 2026  
 **Location:** Remote (Iran); Kuwait market  

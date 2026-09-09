@@ -22,7 +22,7 @@ When invoked with a Job Description:
 ## Language and targeting
 
 - Language: user request wins. If unspecified, match the JD language (English or Persian).
-- Rank by overlap with JD stack, domain, and seniority. Lead with the strongest matches; drop weak or off-stack roles rather than padding.
+- Rank by overlap with JD stack and domain. Weight recent roles (05–07) more heavily. Lead with the strongest matches; drop weak or off-stack roles rather than padding. Do not copy Senior / Junior / Lead from the JD onto the resume title unless that exact word is the contractual title in the vault.
 - Mirror JD keywords only when they are true of the vault (ATS keyword match, not keyword stuffing).
 - Rewrite selected bullets into X-Y-Z. Never copy banned clichés from source files.
 
@@ -43,7 +43,7 @@ Use this structure. For Persian, keep the same section order; use natural FA hea
 [City, Country] | [Phone] | [Email] | [Site] | [LinkedIn] | [GitHub]
 
 ## Professional Summary
-[3–4 lines. Stack + seniority matched to the JD. One quantified proof. No fluff.]
+[3–4 lines. Functional title + stack matched to the JD. One quantified proof. No fluff. No self-proclaimed Senior / Junior / Lead.]
 
 ## Core Competencies
 [JD-aligned skills, comma-separated or plain bullets. Group: languages, backend, architecture, data/messaging, frontend/mobile, cloud/DevOps.]

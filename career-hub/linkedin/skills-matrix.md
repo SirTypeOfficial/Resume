@@ -31,7 +31,7 @@ LinkedIn skill names. Rank is for add-order and endorsement priority, not a clai
 7. Event-Driven Architecture
 8. System Design
 9. Onion Architecture
-10. Technical Leadership
+10. Backend Development
 
 ### .NET stack
 

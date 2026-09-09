@@ -1,9 +1,9 @@
 # Mohammad Reza Vazifeh
-Senior Architect of Distributed .NET Systems · Applied AI · Data Automation
+Full-Stack .NET Developer & Software Architect
 Shiraz, Iran | +98 933 229 7757 | mv6468@gmail.com | mohammadrezav.ir | linkedin.com/in/sirtype | github.com/SirTypeOfficial
 
 ## Executive Summary
-Senior architect of distributed .NET systems and technical lead. Commercial production started in 2018; the .NET path starts with OOP and C# in 2013. Day-to-day work is .NET 9/10, Clean Architecture, DDD, CQRS, and Microservices. Applied AI and computer vision in production through ALPR on Python and FastAPI, plus prompt and agent work in the development loop. Automation through n8n pipelines, Redis, SignalR, RabbitMQ, and MQL5 trading systems. In 2025-2026 that meant a school-transport platform with more than 200,000 users in some cities, plus a part-time MAUI gold ERP for the Kuwait market at Ayar Plus.
+Software developer with more than 8 years of commercial production in the .NET ecosystem, focused on distributed systems, Clean Architecture, and process automation. The .NET path starts with OOP and C# in 2013. Day-to-day work is .NET 9/10, DDD, CQRS, and Microservices. Applied AI and computer vision in production through ALPR on Python and FastAPI, plus prompt and agent work in the development loop. Automation through n8n pipelines, Redis, SignalR, RabbitMQ, and MQL5 trading systems. In 2025-2026 that meant a school-transport platform with more than 200,000 users in some cities, plus a part-time MAUI gold ERP for the Kuwait market at Ayar Plus.
 
 ## Core Technical Skills
 **Architecture:** Microservices, Clean Architecture, Onion Architecture, DDD, CQRS, Event-Driven
@@ -13,7 +13,7 @@ Senior architect of distributed .NET systems and technical lead. Commercial prod
 
 ## Professional Experience
 
-### Senior .NET Contractor & Remote Technical Consultant | Ayar Plus
+### .NET Contractor & Remote Technical Consultant | Ayar Plus
 Remote (Iran); Kuwait market | Sep 2025 - Sep 2026
 - Engineered the gold ERP frontend on .NET MAUI and .NET 10, covering gold inventory, gold math, and accounting on a multilingual XAML client talking to a PHP backend.
 - Architected online and offline invoicing with queued requests until the app came online and Windows-to-Android discovery on the LAN.
