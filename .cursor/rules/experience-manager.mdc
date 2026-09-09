@@ -1,0 +1,59 @@
+---
+description: Rule for updating and enriching career experiences with humanized narratives and linking certificates
+globs: career-hub/**/*,README.md
+alwaysApply: true
+---
+
+# تجربه شغلی و هوش رزومه‌نویسی محمدرضا وظیفه
+
+هنگامی که کاربر درباره فعالیت‌ها، دستاوردها یا چالش‌های خود در یک سابقه کاری (مانند باهم‌شاپ، پارسیا افزار و…) توضیحاتی — حتی عامیانه یا پراکنده — می‌دهد، به‌عنوان معمار ارشد سیستم و استراتژیست شغلی مراحل زیر را اجرا کن. این قانون را حتی اگر فایل `career-hub` باز نباشد اعمال کن؛ سپس فایل هدف را باز و بنویس.
+
+**مسیریابی پرونده:** نیکان / Nikan → `01-nikan-exir.md` · رستا / Rasta → `02-rasta-tejarat.md` · پارسیا / ParsiaAfzar → `03-parsia-afzar.md` · فریلنس / مشاوره → `04-freelance-consultant.md` · باهم‌شاپ / BahamShop → `05-baham-shop.md` · پژوهان / Ertebatat → `06-ertebatat-pazhouhan.md`. اگر شرکت جدید بود، فایل بعدی را با پیشوند عددی بساز و جدول README را به‌روز کن.
+
+حقیقت را از حرف کاربر بگیر. عدد، کارفرما، مدرک یا استک نساز. با `career-engine.mdc` هم‌خوان بمان.
+
+## ۱. اصول لحن انسانی و مهندسی (Humanized Voice Standards)
+
+- کلمات کلیشه‌ای هوش مصنوعی ممنوع است: هرگز از "spearheaded", "delved", "testament", "tapestry", "game-changer", "synergy", "cutting-edge", "پدیدآورنده تحول عظیم", "نقش بنیادین" و معادل‌های توخالی استفاده نکن.
+- روایت فنی مستند: از ساختار مهندسی واقعی در **هر دو** بخش فارسی و انگلیسی استفاده کن:
+  * صورت مسئله و چالش فنی (Problem & Architectural Challenge)
+  * راهکار پیاده‌شده و تصمیم معماری (Technical Solution & Trade-offs)
+  * دستاورد کمّی و تأثیر بیزینسی با فرمول XYZ گوگل: «دستیابی به X با سنجش Y از طریق اجرای Z».
+- اصطلاحات تخصصی در فارسی: Microservices, RabbitMQ, Clean Architecture, Refactoring, Event-Driven و مشابه همانند گفتگوی دو تک‌لید در اکوسیستم حرفه‌ای باقی بمانند.
+
+الگوی بخش داخل `## 🇮🇷 فارسی` و `## 🇬🇧 English`:
+
+```markdown
+### مسئله و چالش معماری
+…
+
+### راهکار و Trade-off
+…
+
+### دستاورد (X-Y-Z)
+…
+```
+
+## ۲. ارجاع و لینک‌دهی به سرتیفیکیت‌ها (Certificate Cross-Referencing)
+
+- پوشه `career-hub/certificates/` را بررسی کن: `certificates.md` و فایل‌های `career-hub/certificates/assets/` (تصویر/PDF).
+- اگر تکنولوژی یا زمینهٔ سابقه با مدرکی جور بود (ASP.NET Core، OOP/C#، زامارین/موبایل، PHP/CodeIgniter و…)، در فایل سابقه بخش مدارک را این‌گونه ثبت کن. اگر فایل در `assets/` بود، `href` را به همان فایل بده؛ وگرنه به لنگر جدول:
+
+```markdown
+> 🏆 **مدرک تخصصی مرتبط:** [مشاهده گواهینامه [نام مدرک]](../certificates/certificates.md#slug)
+```
+
+- تطبیق کلیدواژه → شناسه مدرک: `ASP.NET` / `MVC` / `.NET` وب → `aspnet-core-mvc` · `C#` / `OOP` → `oop-csharp` · `Xamarin` / `MAUI` / `Android` / موبایل → `xamarin-android` · `PHP` / `CodeIgniter` → `php-codeigniter`.
+- Frontmatter را با آرایه `related_certificates` (شناسه‌ها) به‌روز کن.
+- اگر مدرک در جدول `certificates.md` نبود، ردیف را با نام فارسی، انگلیسی، تاریخ و صادرکننده اضافه کن و slug بساز. فایل باینری نساز.
+
+## ۳. به‌روزرسانی فایل هدف در `career-hub/experiences/`
+
+- فایل مربوطه (مثلاً `03-parsia-afzar.md`) را باز کن.
+- Frontmatter را آپدیت کن: `core_skills`، ابزارها، `related_certificates`، و در صورت وجود عدد واقعی از کاربر فیلد `metrics` (لیست رشته‌های X-Y-Z).
+- بخش فارسی (🇮🇷) و انگلیسی (🇬🇧) را موازی بنویس؛ همان مسئله، همان راهکار، همان معیار.
+
+## ۴. همگام‌سازی با فهرست روت (`README.md`)
+
+- اگر دستاورد شاخص، پروژه مهم یا ارتقای کلیدی به آن شغل اضافه شد، خلاصه را در جدول سوابق کاری `README.md` منعکس کن (ستون نقش یا یک خط زیر جدول). تاریخ/نام شرکت را بی‌دلیل عوض نکن.
+- مدرک جدید را در جدول مدارک README هم اضافه کن.
