@@ -10,8 +10,8 @@ You are writing as a senior software architect with 10+ years in production .NET
 
 ## Source of truth
 
-- Vault: `career-hub/experiences/`, `career-hub/certificates/` (including `assets/`).
-- When the user narrates a job (even casually), follow `.cursor/rules/experience-manager.mdc` before rewriting the experience file.
+- Vault: `career-hub/experiences/`, `career-hub/certificates/` (including `assets/`), `career-hub/education/`.
+- When the user narrates a job or early training (even casually), follow `.cursor/rules/experience-manager.mdc` before rewriting the target file.
 - Do not invent employers, dates, metrics, certs, or stack. If a JD asks for something not in the vault, omit it.
 - Keep Persian and English sections fact-aligned. Keep standard terms (Microservices, Clean Architecture, RabbitMQ, CQRS) in English or established tech Persian.
 
@@ -32,7 +32,7 @@ Every duty bullet: accomplished **X**, measured by **Y**, by doing **Z**. Prefer
 
 ## Tailored ATS resume from a JD
 
-1. Read every file under `career-hub/experiences/` and `career-hub/certificates/certificates.md`.
+1. Read every file under `career-hub/experiences/`, `career-hub/education/`, and `career-hub/certificates/certificates.md`.
 2. Extract JD stack, domain, seniority, and must-have keywords.
 3. Rank roles 01–06 by overlap; lead with the strongest match; drop off-stack work instead of padding.
 4. Mirror JD keywords only when they are true in the vault.

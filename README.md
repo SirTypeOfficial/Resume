@@ -29,20 +29,26 @@ Senior architect and full-stack engineer focused on .NET 9/10, Clean Architectur
 
 ---
 
+## مسیر آموزشی | Training path
+
+سازمان مدیریت صنعتی واحد جنوب: OOP و C# (۱۳۹۲)، PHP و CodeIgniter (۱۳۹۳)، Xamarin.Android (۱۳۹۵). بعد دو سال خدمت سربازی. قبل از نیکان: self-study دوره بیش از ۱۲۰ ساعته ASP.NET Core آرزو ابراهیمی و کتاب‌های MVC 5. دوره حرفه‌ای MVC و ASP.NET Core: ۱۳۹۸. پرونده: [00-training-path.md](career-hub/education/00-training-path.md)
+
+---
+
 ## سوابق کاری | Experience
 
 مرتب از قدیمی‌ترین به جدیدترین. جزئیات دوزبانه و کلمات کلیدی ATS داخل هر فایل است.
 
 | # | شرکت / Company | نقش / Role | بازه / Period | پرونده |
 | :---: | --- | --- | --- | --- |
-| 01 | نیکان اکسیر ویستا رایان · [Nikan Exir Vista Rayan](career-hub/experiences/01-nikan-exir.md) | توسعه‌دهنده .NET | تیر ۱۳۹۷ – مهر ۱۳۹۸ · Jul 2018 – Oct 2019 | [01-nikan-exir.md](career-hub/experiences/01-nikan-exir.md) |
-| 02 | رستا تجارت بین الملل رستاک · [Rasta International Finance](career-hub/experiences/02-rasta-tejarat.md) | مدیر پروژه / .NET | مهر ۱۳۹۸ – مرداد ۱۳۹۹ · Oct 2019 – Oct 2020 | [02-rasta-tejarat.md](career-hub/experiences/02-rasta-tejarat.md) |
+| 01 | نیکان اکسیر ویستا رایان · [Nikan Exir Vista Rayan](career-hub/experiences/01-nikan-exir.md) | توسعه‌دهنده .NET · بک‌اند REST نوبت‌دهی و PWA | تیر ۱۳۹۷ – مهر ۱۳۹۸ · Jul 2018 – Oct 2019 | [01-nikan-exir.md](career-hub/experiences/01-nikan-exir.md) |
+| 02 | رستا تجارت بین‌الملل رستاک · [Rasta Tejarat Beinolmelal Rastak](career-hub/experiences/02-rasta-tejarat.md) | توسعه‌دهنده .NET؛ اواخر دوره مدیریت پروژه · Git، Agile/Scrum، Angular، CRM | مهر ۱۳۹۸ – مرداد ۱۳۹۹ · Oct 2019 – Aug 2020 | [02-rasta-tejarat.md](career-hub/experiences/02-rasta-tejarat.md) |
 | 03 | پارسیا افزار فرا اندیشان نوین · [ParsiaAfzar FaraAndishanNovin](career-hub/experiences/03-parsia-afzar.md) | ارشد فول‌استک .NET | مهر ۱۳۹۹ – دی ۱۴۰۱ · Oct 2020 – Jan 2023 | [03-parsia-afzar.md](career-hub/experiences/03-parsia-afzar.md) |
 | 04 | فعالیت مشاوره‌ای و فریلنس · [Independent Consultant](career-hub/experiences/04-freelance-consultant.md) | مشاور و فریلنس | دی ۱۴۰۱ – آذر ۱۴۰۳ · Jan 2023 – Present | [04-freelance-consultant.md](career-hub/experiences/04-freelance-consultant.md) |
 | 05 | استارتاپ باهم‌شاپ · [BahamShop](career-hub/experiences/05-baham-shop.md) | رهبر فنی و مدیر پروژه | دی ۱۴۰۳ – تیر ۱۴۰۴ · Dec 2024 – Jun 2025 | [05-baham-shop.md](career-hub/experiences/05-baham-shop.md) |
 | 06 | ارتباطات پژوهان متین · [Ertebatat Pazhoohan Matin](career-hub/experiences/06-ertebatat-pazhouhan.md) | ارشد فول‌استک | تیر ۱۴۰۴ – اکنون · Jun 2025 – Present | [06-ertebatat-pazhouhan.md](career-hub/experiences/06-ertebatat-pazhouhan.md) |
 
-نقش فعلی: **ارتباطات پژوهان متین** — سامانه‌های سرویس مدرسه، اپ اندروید سفیر مهر، و پلاک‌خوان مبتنی بر بینایی ماشین.
+نقش فعلی: **ارتباطات پژوهان متین** — روایت این شغل و ردیف‌های ۰۳ تا ۰۶ هنوز از استخراج JSON اولیه است؛ تا وقتی تعریف نشود در غنی‌سازی این گفتگو وارد جزئیات نمی‌شود.
 
 ---
 
@@ -52,10 +58,12 @@ Senior architect and full-stack engineer focused on .NET 9/10, Clean Architectur
 
 | گواهینامه | Certificate | تاریخ | صادرکننده |
 | --- | --- | --- | --- |
-| دوره حرفه‌ای ASP.NET Core & MVC | Professional ASP.NET Core & MVC | ۱۳۹۷ / 2018 | دانشگاه آزاد اسلامی |
-| توسعه موبایل با Xamarin.Android | Xamarin.Android | ۱۳۹۵ / 2016 | سازمان مدیریت صنعتی |
-| وب با PHP و CodeIgniter | PHP & CodeIgniter | ۱۳۹۳ / 2014 | سازمان مدیریت صنعتی |
-| OOP و مبانی C# | OOP & C# Fundamentals | ۱۳۹۲ / 2013 | سازمان مدیریت صنعتی |
+| OOP و مبانی C# | OOP & C# Fundamentals | ۱۳۹۲ (شهریور / Aug 2013 روی PDF) | سازمان مدیریت صنعتی واحد جنوب |
+| وب با PHP و CodeIgniter | PHP & CodeIgniter | ۱۳۹۳ / 2014 | سازمان مدیریت صنعتی واحد جنوب |
+| Xamarin.Android | Xamarin.Android | ۱۳۹۵ (بهمن / Jan 2017 روی PDF) | سازمان مدیریت صنعتی واحد جنوب |
+| دوره حرفه‌ای MVC و ASP.NET Core | Professional MVC & ASP.NET Core | ۱۳۹۸ (بهمن / Jan 2020 روی PDF) | دانشگاه آزاد اسلامی |
+
+PDF دوره PHP/CodeIgniter هنوز در `assets/` نیست.
 
 ---
 
@@ -65,6 +73,7 @@ Senior architect and full-stack engineer focused on .NET 9/10, Clean Architectur
 
 ```text
 career-hub/
+├── education/            # مسیر آموزشی پیش از اولین شغل
 ├── experiences/          # سوابق ۰۱ تا ۰۶ (قدیم → جدید) + لینک مدرک
 ├── certificates/
 │   ├── certificates.md   # جدول و لنگر slug
@@ -83,7 +92,7 @@ career-hub/
 
 ## غنی‌سازی سابقه در Cursor
 
-اگر دربارهٔ یک شغل حرف بزنید — حتی پراکنده یا عامیانه — قانون [`experience-manager.mdc`](.cursor/rules/experience-manager.mdc) فایل همان سابقه را با روایت مسئله / راهکار / X-Y-Z دوزبانه به‌روز می‌کند، مدرک مرتبط را از `certificates.md` (یا فایل داخل `assets/`) وصل می‌کند، و در صورت دستاورد شاخص جدول همین README را هم هم‌گام می‌کند.
+اگر دربارهٔ یک شغل یا دورهٔ آموزشی حرف بزنید — حتی پراکنده یا عامیانه — قانون [`experience-manager.mdc`](.cursor/rules/experience-manager.mdc) فایل همان سابقه (یا `education/00-training-path.md`) را با روایت مسئله / راهکار / X-Y-Z دوزبانه به‌روز می‌کند، مدرک مرتبط را از `certificates.md` (یا فایل داخل `assets/`) وصل می‌کند، و در صورت دستاورد شاخص جدول همین README را هم هم‌گام می‌کند.
 
 **نمونه:** «تو پارسیا BPMS مونولیت بود، با RabbitMQ جداش کردیم چون توزیع برق تحمل قطعی نداشت.»
 
