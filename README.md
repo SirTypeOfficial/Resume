@@ -1,9 +1,9 @@
 # محمدرضا وظیفه | Mohammad Reza Vazifeh
 
-**معمار نرم‌افزار و توسعه‌دهنده ارشد فول‌استک .NET**  
-Senior Full-Stack .NET Architect · Blazor · MAUI · Microservices
+**معمار ارشد سیستم‌های توزیع‌شده و سرپرست فنی .NET**  
+Senior Architect of Distributed .NET Systems · Applied AI · Data Automation
 
-شیراز، ایران · ۱۰+ سال تجربه عملی در سیستم‌های سازمانی و محصول
+شیراز، ایران · ۸+ سال پروداکشن تجاری · مسیر دات‌نت از ۱۳۹۲ / 2013
 
 [![Website](https://img.shields.io/badge/Website-MohammadRezaV.ir-0A66C2?style=for-the-badge)](https://mohammadrezav.ir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sirtype-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sirtype/)
@@ -12,20 +12,36 @@ Senior Full-Stack .NET Architect · Blazor · MAUI · Microservices
 
 ![.NET](https://img.shields.io/badge/.NET-9%2F10-512BD4?logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white)
-![MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?logo=dotnet&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-Clean_Architecture-111827)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-DDD%20%2F%20CQRS-111827)
+![ALPR](https://img.shields.io/badge/Applied_AI-ALPR%20%2F%20FastAPI-0F766E)
+![n8n](https://img.shields.io/badge/Automation-n8n%20%2F%20Redis%20%2F%20SignalR-EA4B71)
 
 ---
 
 ## معرفی
 
-معمار و توسعه‌دهنده ارشد با بیش از یک دهه کار روی بک‌اند .NET، کلاینت‌های Blazor/MAUI، و معماری میکروسرویس. مسیر از API نوبت‌دهی و اتوماسیون توزیع برق تا کار مستقل روی بک‌تست MQL و پایپ‌لاین n8n، بعد موتور جستجوی کالا، پلتفرم سرویس مدارس (در بعضی شهرها بیش از ۲۰۰ هزار کاربر)، و پیمانکاری پاره‌وقت ERP طلا برای بازار کویت در ایار پلاس.
+معمار ارشد سیستم‌های توزیع‌شده و سرپرست فنی .NET با تمرکز روی .NET 9/10، Clean Architecture، DDD، CQRS و Microservices. متخصص هوش مصنوعی کاربردی و بینایی ماشین (ALPR، Python، FastAPI، مهندسی پرامپت و ایجنت در حلقه توسعه). مهندس اتوماسیون داده و فرایند: پایپ‌لاین n8n، Redis، SignalR، RabbitMQ و سیستم‌های الگوریتمی MQL5.
 
-Senior architect and full-stack engineer focused on .NET, Clean Architecture, CQRS, and cross-platform clients. Path includes electricity-distribution automation, independent work on MQL backtests and n8n pipelines, then product search, a school-transport platform (200k+ users in some cities), and a part-time remote engagement on a Kuwait gold ERP at Ayar Plus.
+مسیر از API نوبت‌دهی و بازنویسی اتوماسیون توزیع برق تا کار مستقل روی بک‌تست MQL و پایپ‌لاین n8n، بعد موتور جستجوی کالا (درآمد از ماه اول)، پلتفرم سرویس مدارس (در بعضی شهرها بیش از ۲۰۰ هزار کاربر)، و پیمانکاری پاره‌وقت ERP طلا برای بازار کویت در عیار پلاس.
+
+Senior architect of distributed .NET systems and technical lead. Applied AI and computer vision in production (ALPR on Python and FastAPI). Data and process automation with n8n, Redis, SignalR, RabbitMQ, and MQL5. Path includes electricity-distribution Microservices, first-month revenue at a product-search startup, a school-transport platform (200k+ users in some cities), and a part-time remote engagement on a Kuwait gold ERP at Ayar Plus.
 
 **تماس:** [mohammadrezav.ir](https://mohammadrezav.ir) · [LinkedIn](https://www.linkedin.com/in/sirtype/) · [GitHub](https://github.com/SirTypeOfficial) · [mv6468@gmail.com](mailto:mv6468@gmail.com) · +98 933 229 7757
+
+---
+
+## رزومه مستر و لینکدین
+
+| بسته | Markdown | چاپ A4 / PDF قابل انتخاب |
+| --- | --- | --- |
+| رزومه مستر انگلیسی | [master-resume-en.md](career-hub/tailored-resumes/master-resume-en.md) | [master-resume-en.html](career-hub/tailored-resumes/master-resume-en.html) (Ctrl+P → Save as PDF) |
+| رزومه مستر فارسی | [master-resume-fa.md](career-hub/tailored-resumes/master-resume-fa.md) | [master-resume-fa.html](career-hub/tailored-resumes/master-resume-fa.html) (Ctrl+P → Save as PDF) |
+
+بسته لینکدین (کپی‌پیست):
+
+- [عنوان و About](career-hub/linkedin/headline-and-about.md)
+- [متن سوابق ۰۱ تا ۰۷](career-hub/linkedin/experiences-copy.md)
+- [ماتریس ۵۰ مهارت و Top 5](career-hub/linkedin/skills-matrix.md)
 
 ---
 
@@ -42,12 +58,12 @@ Senior architect and full-stack engineer focused on .NET, Clean Architecture, CQ
 | # | شرکت / Company | نقش / Role | بازه / Period | پرونده |
 | :---: | --- | --- | --- | --- |
 | 01 | نیکان اکسیر ویستا رایان · [Nikan Exir Vista Rayan](career-hub/experiences/01-nikan-exir.md) | توسعه‌دهنده .NET · بک‌اند REST نوبت‌دهی و PWA | تیر ۱۳۹۷ – مهر ۱۳۹۸ · Jul 2018 – Oct 2019 | [01-nikan-exir.md](career-hub/experiences/01-nikan-exir.md) |
-| 02 | رستا تجارت بین‌الملل رستاک · [Rasta Tejarat Beinolmelal Rastak](career-hub/experiences/02-rasta-tejarat.md) | توسعه‌دهنده .NET؛ اواخر دوره مدیریت پروژه · Git، Agile/Scrum، Angular، CRM | مهر ۱۳۹۸ – مرداد ۱۳۹۹ · Oct 2019 – Aug 2020 | [02-rasta-tejarat.md](career-hub/experiences/02-rasta-tejarat.md) |
+| 02 | رستا تجارت بین‌الملل رستاک · [Rasta Tejarat Beinolmelal Rastak](career-hub/experiences/02-rasta-tejarat.md) | توسعه‌دهنده .NET؛ اواخر دوره مدیریت پروژه · Git، Agile/Scrum، Angular، سامانه زمان‌بندی و مدیریت رزرو منابع | مهر ۱۳۹۸ – مرداد ۱۳۹۹ · Oct 2019 – Aug 2020 | [02-rasta-tejarat.md](career-hub/experiences/02-rasta-tejarat.md) |
 | 03 | پارسیا افزار فرااندیشان نوین · [ParsiaAfzar FaraAndishanNovin](career-hub/experiences/03-parsia-afzar.md) | پشتیبانی و توسعه اتوماسیون توزیع برق؛ بازنویسی Microservices / CQRS / RabbitMQ / DDD | مهر ۱۳۹۹ – دی ۱۴۰۱ · Oct 2020 – Jan 2023 | [03-parsia-afzar.md](career-hub/experiences/03-parsia-afzar.md) |
-| 04 | کار مستقل · [Independent](career-hub/experiences/04-freelance-consultant.md) | مهندس مستقل · بک‌تست MQL4/MQL5، پایپ‌لاین n8n، تحقیق معماری (Onion، Docker، Blazor Hybrid / MAUI) | دی ۱۴۰۱ – آذر ۱۴۰۳ · Jan 2023 – Dec 2024 | [04-freelance-consultant.md](career-hub/experiences/04-freelance-consultant.md) |
-| 05 | استارتاپ باهم‌شاپ · [BahamShop](career-hub/experiences/05-baham-shop.md) | مدیر پروژه؛ رهبر تیم سئو و طراح Figma · ASP.NET Core 9، n8n، سئو؛ درآمد از ماه اول | دی ۱۴۰۳ – تیر ۱۴۰۴ · Dec 2024 – Jun 2025 | [05-baham-shop.md](career-hub/experiences/05-baham-shop.md) |
-| 06 | ارتباطات پژوهان متین · [Ertebatat Pazhoohan Matin](career-hub/experiences/06-ertebatat-pazhouhan.md) | توسعه‌دهنده تمام‌وقت پلتفرم سرویس مدارس · C# / Onion، سفیر مهر (Kotlin)، ALPR، MVP سفر (SignalR، Redis) | تیر ۱۴۰۴ – پایان تیر ۱۴۰۵ · Jun 2025 – Jul 2026 | [06-ertebatat-pazhouhan.md](career-hub/experiences/06-ertebatat-pazhouhan.md) |
-| 07 | ایار پلاس · [Ayar Plus](career-hub/experiences/07-ayar-plus.md) | پیمانکار ارشد دات‌نت و مشاور فنی دورکار (Part-time) · ERP طلا، کویت، MAUI / Bit Platform | مهر ۱۴۰۴ – شهریور ۱۴۰۵ · Sep 2025 – Sep 2026 | [07-ayar-plus.md](career-hub/experiences/07-ayar-plus.md) |
+| 04 | کار مستقل · [Independent](career-hub/experiences/04-freelance-consultant.md) | مهندس مستقل · بک‌تست MQL5، پایپ‌لاین n8n، تحقیق معماری (Onion، Docker، Blazor Hybrid / MAUI) | دی ۱۴۰۱ – آذر ۱۴۰۳ · Jan 2023 – Dec 2024 | [04-freelance-consultant.md](career-hub/experiences/04-freelance-consultant.md) |
+| 05 | استارتاپ باهم‌شاپ · [BahamShop](career-hub/experiences/05-baham-shop.md) | راهبر فنی و مهندس اتوماسیون داده و معماری بک‌اند · ASP.NET Core 9، n8n، Clean Architecture؛ درآمد از ماه اول | دی ۱۴۰۳ – تیر ۱۴۰۴ · Dec 2024 – Jun 2025 | [05-baham-shop.md](career-hub/experiences/05-baham-shop.md) |
+| 06 | ارتباطات پژوهان متین · [Ertebatat Pazhoohan Matin](career-hub/experiences/06-ertebatat-pazhouhan.md) | توسعه‌دهنده تمام‌وقت پلتفرم سرویس مدارس · .NET 10، ALPR / FastAPI، Kotlin، SignalR، Redis | تیر ۱۴۰۴ – پایان تیر ۱۴۰۵ · Jun 2025 – Jul 2026 | [06-ertebatat-pazhouhan.md](career-hub/experiences/06-ertebatat-pazhouhan.md) |
+| 07 | عیار پلاس · [Ayar Plus](career-hub/experiences/07-ayar-plus.md) | پیمانکار ارشد دات‌نت و مشاور فنی دورکار (Part-time) · ERP طلا، کویت، .NET 10 / MAUI / Bit Platform | مهر ۱۴۰۴ – شهریور ۱۴۰۵ · Sep 2025 – Sep 2026 | [07-ayar-plus.md](career-hub/experiences/07-ayar-plus.md) |
 
 ---
 
@@ -78,8 +94,8 @@ career-hub/
 │   ├── certificates.md   # جدول و لنگر slug
 │   └── assets/           # تصویر / PDF مدارک
 ├── projects/             # پروژه‌های شاخص (در حال تکمیل)
-├── linkedin/             # پیش‌نویس پروفایل لینکدین
-└── tailored-resumes/     # رزومه‌های سفارشی ATS
+├── linkedin/             # عنوان، About، سوابق کپی‌پیست، ماتریس مهارت
+└── tailored-resumes/     # رزومه مستر MD/HTML و رزومه‌های سفارشی ATS
     └── archive/
 .cursor/rules/
 ├── career-engine.mdc

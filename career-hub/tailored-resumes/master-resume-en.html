@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mohammad Reza Vazifeh - Resume</title>
+  <style>
+    @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+
+    :root {
+      --ink: #111111;
+      --muted: #333333;
+      --rule: #111111;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    @page {
+      size: A4;
+      margin: 12mm 15mm;
+    }
+
+    html, body {
+      background: #fff;
+      color: var(--ink);
+    }
+
+    body {
+      font-family: Inter, Arial, "Helvetica Neue", Helvetica, sans-serif;
+      font-size: 10.5pt;
+      line-height: 1.38;
+      font-weight: 400;
+      max-width: 178mm;
+      margin: 0 auto;
+      padding: 12mm 0;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a {
+      color: var(--ink);
+      text-decoration: none;
+    }
+
+    header { margin-bottom: 10pt; }
+
+    h1 {
+      font-size: 18pt;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      line-height: 1.15;
+    }
+
+    .title {
+      font-size: 11pt;
+      font-weight: 600;
+      margin-top: 2pt;
+      color: var(--muted);
+    }
+
+    .contact {
+      font-size: 9pt;
+      margin-top: 4pt;
+      line-height: 1.45;
+      color: var(--muted);
+    }
+
+    h2 {
+      font-size: 9.5pt;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      border-bottom: 1px solid var(--rule);
+      padding-bottom: 2pt;
+      margin: 11pt 0 6pt;
+    }
+
+    p { margin: 0 0 6pt; }
+
+    .competencies { font-size: 10pt; }
+    .competencies p { margin-bottom: 3pt; }
+
+    .job { margin-bottom: 9pt; }
+
+    .job-head {
+      display: block;
+      font-weight: 700;
+      font-size: 10.5pt;
+    }
+
+    .job-meta {
+      display: block;
+      font-size: 9pt;
+      color: var(--muted);
+      margin: 1pt 0 3pt;
+    }
+
+    ul {
+      margin: 0 0 0 12pt;
+      padding: 0;
+    }
+
+    li { margin-bottom: 2.5pt; }
+
+    .certs li, .edu li { margin-bottom: 2pt; }
+
+    @media print {
+      @page {
+        size: A4;
+        margin: 12mm 15mm;
+      }
+      html, body { background: #fff; }
+      body {
+        padding: 0;
+        max-width: none;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+      }
+      a { text-decoration: none; color: var(--ink); }
+      h2 { break-after: avoid; }
+      .job { break-inside: avoid; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Mohammad Reza Vazifeh</h1>
+    <p class="title">Senior Architect of Distributed .NET Systems · Applied AI · Data Automation</p>
+    <p class="contact">
+      Shiraz, Iran
+      · <a href="mailto:mv6468@gmail.com">mv6468@gmail.com</a>
+      · +98 933 229 7757
+      · <a href="https://mohammadrezav.ir">mohammadrezav.ir</a>
+      · <a href="https://www.linkedin.com/in/sirtype/">linkedin.com/in/sirtype</a>
+      · <a href="https://github.com/SirTypeOfficial">github.com/SirTypeOfficial</a>
+    </p>
+  </header>
+
+  <section>
+    <h2>Executive Summary</h2>
+    <p>Senior architect of distributed .NET systems and technical lead. Commercial production started in 2018; the .NET path starts with OOP and C# in 2013. Day-to-day work is .NET 9/10, Clean Architecture, DDD, CQRS, and Microservices. Applied AI and computer vision in production through ALPR on Python and FastAPI, plus prompt and agent work in the development loop. Automation through n8n pipelines, Redis, SignalR, RabbitMQ, and MQL5 trading systems. In 2025-2026 that meant a school-transport platform with more than 200,000 users in some cities, plus a part-time MAUI gold ERP for the Kuwait market at Ayar Plus.</p>
+  </section>
+
+  <section>
+    <h2>Core Technical Skills</h2>
+    <div class="competencies">
+      <p><strong>Architecture:</strong> Microservices, Clean Architecture, Onion Architecture, DDD, CQRS, Event-Driven</p>
+      <p><strong>Languages &amp; Frameworks:</strong> .NET 9/10, C#, ASP.NET Core, Blazor Hybrid, .NET MAUI, XAML, Python, FastAPI, Kotlin</p>
+      <p><strong>Data / Messaging / Automation:</strong> PostgreSQL (including Polygon), Redis, RabbitMQ, SignalR, n8n, MQL5, Docker, CI/CD</p>
+      <p><strong>Clients &amp; supporting:</strong> Vue.js, Angular, SQL Server, Bit Platform, ImageKit, PHP (client integration), Figma (side tool)</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Professional Experience</h2>
+
+    <article class="job">
+      <span class="job-head">Senior .NET Contractor &amp; Remote Technical Consultant | Ayar Plus</span>
+      <span class="job-meta">Remote (Iran); Kuwait market | Sep 2025 - Sep 2026</span>
+      <ul>
+        <li>Engineered the gold ERP frontend on .NET MAUI and .NET 10, covering gold inventory, gold math, and accounting on a multilingual XAML client talking to a PHP backend.</li>
+        <li>Architected online and offline invoicing with queued requests until the app came online and Windows-to-Android discovery on the LAN.</li>
+        <li>Streamlined store releases so Android and iOS published automatically to Google Play and the App Store through CI/CD without interrupting live customers.</li>
+        <li>Engineered Civil ID scanning into the Kuwait gold-shop flow, storing card photos on ImageKit for the Android app, by connecting shop card readers.</li>
+        <li>Started a Bit Platform rewrite, migrating legacy data and adding PDF print for receipts and invoices.</li>
+      </ul>
+    </article>
+
+    <article class="job">
+      <span class="job-head">Full-time Developer, School-Transport Platform | Ertebatat Pazhoohan Matin</span>
+      <span class="job-meta">Shiraz, Iran | Jun 2025 - Jul 2026</span>
+      <ul>
+        <li>Optimized the school-transport platform on C# and Onion Architecture (features, reports, faster queries) for municipalities in Shiraz, Isfahan, and Qazvin.</li>
+        <li>Kept multi-role accounting and the payment gateway running for more than 200,000 users in some cities, with settlement among fleets, services, drivers, students, and parents.</li>
+        <li>Engineered Safir Mehr as a native Kotlin Android fleet-management app so customers had a mobile client from the start of the tenure.</li>
+        <li>Engineered ALPR into the inspector flow, returning plate text from a photo, with Python and FastAPI.</li>
+        <li>Architected a Snapp-like trip MVP on .NET 10, PostgreSQL Polygon, SignalR, and Redis covering trip request, driver accept or reject, a dashboard, and live fleet in admin.</li>
+      </ul>
+    </article>
+
+    <article class="job">
+      <span class="job-head">Technical Lead &amp; Backend Automation Architect | BahamShop</span>
+      <span class="job-meta">Shiraz, Iran | Dec 2024 - Jun 2025</span>
+      <ul>
+        <li>Architected the search backend on ASP.NET Core 9 with Clean Architecture and caching, taking the site from zero revenue to first-month click-SEO income.</li>
+        <li>Engineered n8n pipelines that generated SEO-ready copy per product tag and category; the SEO team edited and inserted that copy, which also raised product indexing speed.</li>
+        <li>Optimized search response time on that same stack through Clean Architecture boundaries and caching.</li>
+      </ul>
+    </article>
+
+    <article class="job">
+      <span class="job-head">Independent Engineer; Trading Systems, Automation, and Architecture R&amp;D | Independent</span>
+      <span class="job-meta">Shiraz, Iran | Jan 2023 - Dec 2024</span>
+      <ul>
+        <li>Engineered MQL4 and MQL5 trading bots with module-level backtests and capital-management rules.</li>
+        <li>Streamlined part-time client delivery through n8n automation pipelines and e-commerce sites.</li>
+        <li>Raised Blazor Hybrid and .NET MAUI fluency on cross-platform clients, added Docker to the toolkit, and practiced Onion Architecture, Git, and DevOps more tightly than in earlier roles.</li>
+        <li>Recorded smart-contract wiring in a few .NET sample projects by implementing the contract inside those solutions.</li>
+      </ul>
+    </article>
+
+    <article class="job">
+      <span class="job-head">Electricity-Distribution Automation Support and Development; Microservices Rewrite | ParsiaAfzar FaraAndishanNovin</span>
+      <span class="job-meta">Shiraz, Iran | Oct 2020 - Jan 2023</span>
+      <ul>
+        <li>Kept electricity-distribution automation in production for Bushehr, Mazandaran, Greater Tehran, Arak, and other cities by running ticket-driven support, defect fixes, and feature work on the existing MVC stack.</li>
+        <li>Architected the unified rewrite of those automation projects, moving separate MVC codebases onto one Microservices platform with CQRS, RabbitMQ, DDD, Vue.js, monitoring, and .NET Core.</li>
+        <li>Engineered a custom ASP.NET Core MVC CMS so site content could be updated in-house.</li>
+      </ul>
+    </article>
+
+    <article class="job">
+      <span class="job-head">.NET Developer; Project Management in Late Tenure | Rasta Tejarat Beinolmelal Rastak</span>
+      <span class="job-meta">Shiraz, Iran | Oct 2019 - Aug 2020</span>
+      <ul>
+        <li>Streamlined delivery from informal process onto Git, Agile/Scrum, and DevOps by introducing Git into the workflow with the then project manager.</li>
+        <li>Took over project follow-up in late tenure so CRM, investment-platform, and Resource Scheduling &amp; Reservation System work kept shipping after the project manager left.</li>
+        <li>Engineered Angular work on the CRM frontend by learning and applying Angular on that product.</li>
+      </ul>
+    </article>
+
+    <article class="job">
+      <span class="job-head">.NET Developer | Nikan Exir Vista Rayan</span>
+      <span class="job-meta">Shiraz, Iran | Jul 2018 - Oct 2019</span>
+      <ul>
+        <li>Engineered a REST appointment-queue backend for the team's PWA, in production from Jul 2018 to Oct 2019, on ASP.NET Core and SQL Server in the first production .NET role.</li>
+      </ul>
+    </article>
+  </section>
+
+  <section>
+    <h2>Verified Certifications</h2>
+    <ul class="certs">
+      <li>Professional MVC &amp; ASP.NET Core | Islamic Azad University | Jan 2020</li>
+      <li>Mobile Application Development with Xamarin.Android | Industrial Management Institute, South Unit | Jan 2017</li>
+      <li>Web Development with PHP &amp; CodeIgniter | Industrial Management Institute, South Unit | 2014</li>
+      <li>Object-Oriented Programming (OOP) &amp; C# Fundamentals | Industrial Management Institute, South Unit | Aug 2013</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Education &amp; Background</h2>
+    <ul class="edu">
+      <li>Professional MVC and ASP.NET Core course, Islamic Azad University | 1398 / certificates dated Jan 2020</li>
+      <li>Object-oriented programming and C# fundamentals, Industrial Management Institute, South Unit | 1392 / Aug 2013</li>
+      <li>Web development with PHP and CodeIgniter, Industrial Management Institute, South Unit | 1393 / 2014</li>
+      <li>Mobile development with Xamarin.Android, Industrial Management Institute, South Unit | 1395 / Jan 2017</li>
+      <li>Self-study before the first production role: Arezoo Ebrahimi ASP.NET Core course (120+ hours) and ASP.NET MVC 5 books</li>
+      <li>Two years of military service, completed before joining Nikan in Jul 2018</li>
+    </ul>
+  </section>
+</body>
+</html>

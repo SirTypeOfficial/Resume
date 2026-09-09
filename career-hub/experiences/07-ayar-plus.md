@@ -1,6 +1,6 @@
 ---
 id: 07-ayar-plus
-company_fa: ایار پلاس
+company_fa: عیار پلاس
 company_en: Ayar Plus
 role_fa: پیمانکار ارشد دات‌نت و مشاور فنی دورکار
 role_en: Senior .NET contractor and remote technical consultant (Part-time / Remote Technical Contractor)
@@ -9,28 +9,28 @@ period_en: Sep 2025 – Sep 2026
 location: Remote (Iran); Kuwait market
 employment_type: Part-time / Remote Technical Contractor
 core_skills:
-  - .NET MAUI
-  - XAML
   - .NET 10
+  - .NET MAUI
   - Bit Platform
-  - Multilingual
-  - Gold ERP
-  - Accounting
-  - Offline invoicing
   - CI/CD
-  - Google Play
-  - App Store
+  - XAML
+  - Offline invoicing
+  - Gold ERP
+  - Multilingual
   - ImageKit
   - Civil ID
+  - Google Play
+  - App Store
+  - Accounting
   - Project Management
 tools:
-  - .NET MAUI
-  - XAML
   - .NET 10
+  - .NET MAUI
   - Bit Platform
+  - CI/CD
+  - XAML
   - PHP (backend integration)
   - ImageKit
-  - CI/CD
 parallel_with:
   - 06-ertebatat-pazhouhan.md (full-time; Mehr 1404 through end of Tir 1405)
 metrics:
@@ -47,7 +47,7 @@ related_certificates:
   - php-codeigniter
 ---
 
-# ایار پلاس | Ayar Plus
+# عیار پلاس | Ayar Plus
 
 **نقش:** پیمانکار ارشد دات‌نت و مشاور فنی دورکار / Senior .NET contractor and remote technical consultant (Part-time / Remote Technical Contractor)  
 **بازه:** مهر ۱۴۰۴ – شهریور ۱۴۰۵ · Sep 2025 – Sep 2026  
@@ -74,7 +74,7 @@ related_certificates:
 
 ### مسئله و چالش معماری
 
-مهر ۱۴۰۴ به‌عنوان پیمانکار ارشد دات‌نت و مشاور فنی دورکار (پاره‌وقت) وارد ایار پلاس شدم و تا شهریور ۱۴۰۵ در همین قالب ماندم. کارفرما ایرانی ساکن کویت بود. نرم‌افزار حسابداری اختصاصی برای بازار کویت را آماده کرده بود و هنوز توسعه می‌داد. کار من فرانت .NET MAUI بود: فایل‌های XAML، چندزبانگی، و ERP کامل طلا (موجودی طلا، محاسبات طلا، محاسبات حسابداری طلا) که به بک‌اند PHP وصل می‌شد.
+مهر ۱۴۰۴ به‌عنوان پیمانکار ارشد دات‌نت و مشاور فنی دورکار (پاره‌وقت) وارد عیار پلاس شدم و تا شهریور ۱۴۰۵ در همین قالب ماندم. کارفرما ایرانی ساکن کویت بود. نرم‌افزار حسابداری اختصاصی برای بازار کویت را آماده کرده بود و هنوز توسعه می‌داد. کار من فرانت .NET MAUI بود: فایل‌های XAML، چندزبانگی، و ERP کامل طلا (موجودی طلا، محاسبات طلا، محاسبات حسابداری طلا) که به بک‌اند PHP وصل می‌شد.
 
 اپ روی Google Play بود. مشتری باید بدون اختلال کار می‌کرد. فاکتور هم آنلاین صادر می‌شد هم آفلاین. کلاینت ویندوزی در شبکه کلاینت اندروید را پیدا می‌کرد و درخواست‌ها را صف می‌کرد تا وقتی برنامه آنلاین شد به سرور بروند.
 
@@ -112,7 +112,7 @@ related_certificates:
 
 ### Problem and architectural challenge
 
-I engaged with Ayar Plus in Sep 2025 (Mehr 1404) as a senior .NET contractor and remote technical consultant (part-time) and stayed in that capacity through Sep 2026 (Shahrivar 1405). The employer was Iranian, based in Kuwait. He had built custom accounting software for the Kuwait market and was still developing it. My work was the .NET MAUI frontend: XAML, multilingual UI, and a full gold ERP (gold inventory, gold calculations, gold accounting) integrated with a PHP backend.
+I engaged with Ayar Plus (عیار پلاس) in Sep 2025 (Mehr 1404) as a senior .NET contractor and remote technical consultant (part-time) and stayed in that capacity through Sep 2026 (Shahrivar 1405). The employer was Iranian, based in Kuwait. He had built custom accounting software for the Kuwait market and was still developing it. My work was the .NET MAUI frontend: XAML, multilingual UI, and a full gold ERP (gold inventory, gold calculations, gold accounting) integrated with a PHP backend.
 
 The app was already on Google Play. Store releases could not interrupt live customers. Invoices could be issued online and offline. A Windows client on the LAN could discover the Android client, queue requests, and send them to the server when the app came online.
 
@@ -132,20 +132,20 @@ I closed the engagement in Sep 2026 (Shahrivar 1405).
 
 ### Achievement (X-Y-Z)
 
-Moved the gold ERP frontend forward on MAUI, with inventory, gold math, and accounting on a client talking to PHP, using XAML, multilingual UI, and .NET 10.
+Engineered the gold ERP frontend on .NET MAUI and .NET 10 so gold inventory, calculations, and accounting ran on a multilingual XAML client talking to PHP.
 
-Kept invoicing working online and offline, with queued requests until the app was online and Windows-to-Android discovery on the LAN.
+Architected online and offline invoicing with a request queue and Windows-to-Android LAN discovery so shops could issue invoices when the app was offline.
 
-Kept store releases from interrupting customers, with automatic Android and iOS publishes to Google Play and the App Store through CI/CD.
+Streamlined store releases through CI/CD so Android and iOS published to Google Play and the App Store without interrupting live customers.
 
-Wired Civil ID scanning into the Kuwait gold-shop flow, with card photos stored on ImageKit and used in the Android app, by connecting to the shop card readers.
+Engineered Civil ID scanning into the Kuwait gold-shop flow, storing card photos on ImageKit for the Android app, by connecting shop card readers.
 
-Ran remote team coordination for a stretch, with weekly sprints and daily and weekly meetings across Mashhad, Qom, and the Product Owner.
+Coordinated a remote weekly-sprint team across Mashhad, Qom, and the Product Owner for a stretch of the engagement.
 
-Started the cross-platform rewrite on Bit Platform, with migration of old data and PDF print of receipts and invoices.
+Started the Bit Platform rewrite, migrating legacy data and adding PDF print for receipts and invoices.
 
 ---
 
 ## ATS Keywords
 
-`.NET MAUI` `XAML` `.NET 10` `Bit Platform` `gold ERP` `accounting` `PHP` `offline invoicing` `CI/CD` `Google Play` `App Store` `ImageKit` `Civil ID` `Kuwait` `part-time` `remote contractor` `technical consultant` `multilingual`
+`.NET 10` `.NET MAUI` `Bit Platform` `XAML` `gold ERP` `accounting` `PHP` `offline invoicing` `CI/CD` `Google Play` `App Store` `ImageKit` `Civil ID` `Kuwait` `part-time` `remote contractor` `technical consultant` `multilingual`

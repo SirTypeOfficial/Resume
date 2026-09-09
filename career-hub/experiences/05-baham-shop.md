@@ -2,24 +2,24 @@
 id: 05-baham-shop
 company_fa: استارتاپ باهم‌شاپ
 company_en: BahamShop
-role_fa: مدیر پروژه؛ رهبر تیم سئو و طراح Figma
-role_en: Project manager; SEO lead and Figma designer
+role_fa: راهبر فنی و مهندس اتوماسیون داده و معماری بک‌اند
+role_en: Technical Lead & Backend Automation Architect
 period_fa: دی ۱۴۰۳ – تیر ۱۴۰۴
 period_en: Dec 2024 – Jun 2025
 location: Shiraz, Fars, Iran
 core_skills:
+  - ASP.NET Core 9
+  - Clean Architecture
+  - n8n
+  - Caching
+  - C#
   - Project Management
   - SEO
   - Figma
-  - n8n
-  - ASP.NET Core 9
-  - Clean Architecture
-  - Caching
-  - C#
 tools:
+  - ASP.NET Core 9
   - n8n
   - Figma
-  - ASP.NET Core 9
 metrics:
   - "سایت تا ورود درآمد نداشت؛ در ماه اول ورود به درآمد رسید"
   - "اتوماسیون n8n برای محتوای سئو تگ محصول و دسته‌بندی؛ تیم سئو ویرایش و درج می‌کرد"
@@ -31,7 +31,7 @@ related_certificates:
 
 # باهم‌شاپ | BahamShop
 
-**نقش:** مدیر پروژه؛ رهبر تیم سئو و طراح Figma / Project manager; SEO lead and Figma designer  
+**نقش:** راهبر فنی و مهندس اتوماسیون داده و معماری بک‌اند / Technical Lead & Backend Automation Architect  
 **بازه:** دی ۱۴۰۳ – تیر ۱۴۰۴ · Dec 2024 – Jun 2025  
 **محل:** شیراز، فارس، ایران  
 **محصول:** موتور جستجوی کالا با scraper و درآمد از کلیک سئو
@@ -54,15 +54,15 @@ related_certificates:
 
 ### راهکار و Trade-off
 
-ماه اول را روی رساندن سایت به درآمد گذاشتم. نقش من رهبر تیم سئو، طراح Figma و مدیر پروژه بود؛ کارهای سئو را هم مدیریت می‌کردم. بک‌اند را با ASP.NET Core 9 پیش بردم، با Clean Architecture و سیستم کش برای پاسخگویی سریع.
+ماه اول را روی رساندن سایت به درآمد گذاشتم. نقش من راهبر فنی و مهندس اتوماسیون داده و معماری بک‌اند بود: بک‌اند جستجو را با ASP.NET Core 9، Clean Architecture و کش جلو بردم و پایپ‌لاین n8n را برای پردازش داده و محتوای سئو چیدم. هماهنگی تیم و کار سئو هم با من بود. Figma را فقط به‌عنوان ابزار جانبی برای طرح رابط استفاده کردم.
 
-برای سئو یک automation با n8n ساختم. برای هر تگ محصول و هر دسته‌بندی، n8n محتوای مناسب سئو آماده می‌کرد. ورود دستی اطلاعات سبک شد؛ کار همکاران تیم سئو بیشتر ویرایش و درج همان محتوا بود. همان درج سرعت ایندکس محصولات را بالا برد.
+برای هر تگ محصول و هر دسته‌بندی، n8n محتوای مناسب سئو آماده می‌کرد. ورود دستی اطلاعات سبک شد؛ کار همکاران تیم سئو بیشتر ویرایش و درج همان محتوا بود. همان درج سرعت ایندکس محصولات را بالا برد.
 
 بازه را تا تیر ۱۴۰۴ تمام کردم و به نقش بعدی رفتم.
 
 ### دستاورد (X-Y-Z)
 
-سایت را در ماه اول به درآمد رساندم، با سنجش اولین جریان درآمد از کلیک سئو در حالی که قبل از ورود درآمدی نبود، از طریق مدیریت سئو، پایپ‌لاین n8n و کار روی بک‌اند.
+سایت را در ماه اول به درآمد رساندم، با سنجش اولین جریان درآمد از کلیک سئو در حالی که قبل از ورود درآمدی نبود، از طریق معماری بک‌اند ASP.NET Core 9 و پایپ‌لاین n8n.
 
 ورود دستی اطلاعات سئو را سبک کردم، با سنجش ویرایش و درج محتوای آماده توسط تیم سئو، از طریق گردش n8n روی تگ‌ها و دسته‌بندی‌ها. همان مسیر سرعت ایندکس محصولات را بالا برد.
 
@@ -78,22 +78,22 @@ I joined BahamShop in Dec 2024 (Dey 1403). The product was a product search engi
 
 ### Solution and trade-off
 
-I spent the first month getting the site to revenue. The roles were SEO team lead, Figma designer, and project manager; I also ran the SEO work. I moved the backend onto ASP.NET Core 9 with Clean Architecture and caching for faster responses.
+I spent the first month getting the site to revenue. The role was technical lead and backend automation architect: I moved the search backend onto ASP.NET Core 9 with Clean Architecture and caching, and I designed n8n pipelines for data processing and SEO copy. I also coordinated the team. Figma was a side tool for UI drafts, not the job.
 
-For SEO I built an n8n automation. For each product tag and each category, n8n prepared SEO-ready copy. Manual data entry dropped; the SEO team mostly edited and inserted that copy. That ingest raised product indexing speed.
+For each product tag and each category, n8n prepared SEO-ready copy. Manual data entry dropped; the SEO team mostly edited and inserted that copy. That ingest raised product indexing speed.
 
 I closed the tenure in Jun 2025 (Tir 1404) and moved to the next role.
 
 ### Achievement (X-Y-Z)
 
-Took the site from zero revenue to first-month income, measured by the first click-SEO cash flow, by running SEO, the n8n pipeline, and the search backend.
+Architected the search backend on ASP.NET Core 9 with Clean Architecture and caching, taking the site from zero revenue to first-month click-SEO income.
 
-Cut the cost of manual SEO entry, measured by the SEO team editing and inserting generated copy, by n8n workflows on tags and categories. That same path raised product indexing speed.
+Engineered n8n pipelines that generated SEO-ready copy per product tag and category, so the SEO team edited and inserted instead of entering from scratch, which also raised product indexing speed.
 
-Moved the search backend onto ASP.NET Core 9 with Clean Architecture and caching for faster responses.
+Optimized search response time on that same ASP.NET Core 9 stack through Clean Architecture boundaries and caching.
 
 ---
 
 ## ATS Keywords
 
-`Project Manager` `SEO` `SEO automation` `Figma` `n8n` `ASP.NET Core 9` `Clean Architecture` `caching` `product search engine` `scraper` `startup`
+`Technical Lead` `Backend Automation Architect` `ASP.NET Core 9` `Clean Architecture` `caching` `n8n` `workflow automation` `product search engine` `scraper` `SEO automation` `startup`

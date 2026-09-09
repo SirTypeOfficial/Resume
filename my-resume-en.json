@@ -2,11 +2,11 @@
   "resumeLang": "en",
   "basics": {
     "name": "MohammadReza Vazifeh",
-    "label": "Senior Full-Stack .NET Developer | Architecting Scalable Solutions with Blazor, MAUI & Microservices",
+    "label": "Senior Architect of Distributed .NET Systems | Applied AI & Computer Vision | Data Automation",
     "image": "https://liara.cvbuilder.me/Files/User_Photo/48c86b1f-44d1-47b1-87fe-a257d90e8c9e/05L0SINpn0KaSb1-KGcUsQ-706.jpg",
     "email": "mv6468@gmail.com",
     "phone": "9332297757",
-    "summary": "Innovative **Senior Full-Stack Architect & .NET Expert** with **over a decade of experience** in building high-performance, scalable solutions. Specializing in the modern .NET ecosystem **(my.NET 9/10, MAUI, Blazor)**, I bridge the gap between complex backend architecture and engaging frontend experiences. A **polyglot developer (C#, Python, Kotlin) and AI-adopter** who leverages cutting-edge tools to accelerate delivery. Proven track record in engineering robust **Microservices**, developing **algorithmic trading bots**, and integrating **Blockchain technology**. I turn abstract business concepts into deployed, **production-ready reality.**",
+    "summary": "Senior architect of distributed .NET systems and technical lead. Commercial production started in 2018; the .NET path starts with OOP and C# in 2013. Day-to-day work is .NET 9/10, Clean Architecture, DDD, CQRS, and Microservices. Applied AI and computer vision in production through ALPR on Python and FastAPI, plus prompt and agent work in the development loop. Automation through n8n pipelines, Redis, SignalR, RabbitMQ, and MQL5 trading systems. Recent work includes a municipal school-transport platform with more than 200,000 users in some cities, and a part-time .NET MAUI gold ERP for the Kuwait market at Ayar Plus.",
     "url": "MohammadRezaV.ir",
     "location": {
       "city": "Shiraz",
@@ -54,7 +54,7 @@
       "summary": "* Full-time role after BahamShop. Enterprise school-transport platform for municipalities (Shiraz, Isfahan, Qazvin) on C# and Onion Architecture. Features, reports, query work, speed. * Some cities had more than 200,000 users; accounting and the payment gateway sat on the same platform among fleets, services, drivers, students, and parents, including an inspector role. * At the start designed Safir Mehr, a native Kotlin Android fleet app for customers. * ALPR for inspectors with Python and FastAPI: photo in, plate text out, check against the company fleet. * Much of the work in Cursor: rules and skills on the models, code review, fast MVPs. One MVP was a Snapp-like trip app on .NET 10, PostgreSQL Polygon, SignalR, and Redis (request, driver accept/reject, dashboard, fleet in admin). * Contract term ended Jul 2026. Overlapping part-time remote contractor role at Ayar Plus from Sep 2025 through Sep 2026."
     },
     {
-      "position": "Project manager; SEO lead and Figma designer",
+      "position": "Technical Lead & Backend Automation Architect",
       "name": "BahamShop (Product Search Engine Startup)",
       "startDate": "2024-12",
       "endDate": "2025-06",
@@ -63,7 +63,7 @@
         "region": "Fars",
         "country": "Iran"
       },
-      "summary": "* Product search engine with a scraper and SEO for click revenue. Site had no revenue until I joined; it reached income in the first month. * Roles: SEO team lead, Figma designer, project manager. * n8n automation prepared SEO content per product tag and category; the SEO team edited and inserted it, which raised product indexing speed. * Backend on ASP.NET Core 9 with Clean Architecture and caching for faster responses. * Tenure closed Jun 2025; moved to the next role."
+      "summary": "* Product search engine with a scraper and SEO for click revenue. Site had no revenue until I joined; it reached income in the first month. * Role: Technical Lead and Backend Automation Architect. * Architected the search backend on ASP.NET Core 9 with Clean Architecture and caching. * Engineered n8n pipelines that prepared SEO copy per product tag and category; the SEO team edited and inserted it, which raised product indexing speed. * Figma was a side tool for UI drafts. * Tenure closed Jun 2025; moved to the next role."
     },
     {
       "position": "Independent engineer; trading systems, automation, and architecture R&D",
@@ -99,7 +99,7 @@
         "region": "Fars",
         "country": "Iran"
       },
-      "summary": "* First real use of Git and DevOps; with the then project manager, moved the company from informal process onto Agile/Scrum and DevOps. * Worked on the CRM (including Angular) and networked investment platforms; salon reservation projects in the same company. * Late in the tenure, took over project follow-up after the then project manager left."
+      "summary": "* First real use of Git and DevOps; with the then project manager, moved the company from informal process onto Agile/Scrum and DevOps. * Worked on the CRM (including Angular) and networked investment platforms; also a Resource Scheduling & Reservation System. * Late in the tenure, took over project follow-up after the then project manager left."
     },
     {
       "position": ".NET Developer",

@@ -8,29 +8,29 @@ period_fa: دی ۱۴۰۱ – آذر ۱۴۰۳
 period_en: Jan 2023 – Dec 2024
 location: Shiraz, Fars, Iran
 core_skills:
-  - MQL4
   - MQL5
-  - Blockchain
-  - Smart Contracts
-  - Blazor Hybrid
-  - .NET MAUI
   - n8n
-  - Git
-  - DevOps
   - Docker
   - Onion Architecture
-  - Python
-  - Consulting
-tools:
-  - MQL4
-  - MQL5
   - Blazor Hybrid
   - .NET MAUI
-  - n8n
-  - .NET
-  - Git
-  - Docker
+  - MQL4
   - Python
+  - Blockchain
+  - Smart Contracts
+  - Git
+  - DevOps
+  - Consulting
+tools:
+  - MQL5
+  - n8n
+  - Docker
+  - Blazor Hybrid
+  - .NET MAUI
+  - MQL4
+  - Python
+  - Git
+  - .NET
 learning:
   - Blockchain
   - trading bots (MQL4 / MQL5)
@@ -136,22 +136,22 @@ Through Dec 2024, when a business came along I consulted, built e-commerce sites
 
 ### Achievement (X-Y-Z)
 
-Built MQL4 and MQL5 trading bots with module-level backtests, plus budget and capital-management rules, by writing the bots and the backtest modules.
+Engineered MQL4 and MQL5 trading bots with module-level backtests and capital-management rules.
 
-Delivered part-time client work through Dec 2024 as e-commerce sites and n8n automation pipelines.
+Streamlined part-time client delivery through n8n automation pipelines and e-commerce sites.
 
-Raised Blazor Hybrid and .NET MAUI skill by practicing cross-platform clients on that stack.
+Raised Blazor Hybrid and .NET MAUI fluency by practicing cross-platform clients on that stack.
 
 Recorded smart-contract wiring in a few .NET sample projects by implementing the contract inside those solutions.
 
-Deepened Git, Agile/Scrum, and DevOps relative to the Rasta period, and added Docker to the architecture toolkit, through courses and practice in this stretch.
+Deepened Git, Agile/Scrum, and DevOps relative to the Rasta period, and added Docker to the architecture toolkit.
 
 Raised architecture fluency, including Onion Architecture and older styles, by studying and practicing those patterns.
 
-Used Python on the trading systems from this period, with targeted practice on that workload.
+Applied Python on the trading systems from this period, with targeted practice on that workload.
 
 ---
 
 ## ATS Keywords
 
-`Independent` `MQL4` `MQL5` `algorithmic trading` `backtesting` `blockchain` `smart contracts` `.NET` `Blazor Hybrid` `.NET MAUI` `cross-platform` `n8n` `workflow automation` `e-commerce` `consulting` `Git` `DevOps` `Agile` `Scrum` `Docker` `Onion Architecture` `Python` `Pine Script`
+`MQL5` `MQL4` `algorithmic trading` `backtesting` `n8n` `workflow automation` `Docker` `Onion Architecture` `Blazor Hybrid` `.NET MAUI` `blockchain` `smart contracts` `Python` `Git` `DevOps` `Agile` `Scrum` `e-commerce` `consulting` `Pine Script`

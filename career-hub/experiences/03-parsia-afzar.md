@@ -8,20 +8,20 @@ period_fa: مهر ۱۳۹۹ – دی ۱۴۰۱
 period_en: Oct 2020 – Jan 2023
 location: Shiraz, Fars, Iran
 core_skills:
-  - .NET Core
-  - ASP.NET Core MVC
   - Microservices
+  - DDD
   - CQRS
   - RabbitMQ
-  - DDD
+  - .NET Core
+  - ASP.NET Core MVC
   - Vue.js
   - Monitoring
   - CMS
   - OOP
 tools:
+  - RabbitMQ
   - .NET Core
   - ASP.NET Core MVC
-  - RabbitMQ
   - Vue.js
 learning_alongside:
   - Blazor
@@ -92,12 +92,12 @@ In Jan 2023 I shifted focus to trading systems and independent research. Next pe
 
 Kept electricity-distribution automation in production for Bushehr, Mazandaran, Greater Tehran, Arak, and other cities by running ticket-driven support, defect fixes, and feature work on the existing MVC stack.
 
-Drove the unified rewrite of those automation projects, moving separate MVC codebases onto one Microservices platform, using CQRS, RabbitMQ, DDD, Vue.js, monitoring, and .NET Core.
+Architected the unified rewrite of those automation projects, moving separate MVC codebases onto one Microservices platform with CQRS, RabbitMQ, DDD, Vue.js, monitoring, and .NET Core.
 
-Put the company website on a custom CMS so site content could be updated in-house, by implementing ASP.NET Core MVC.
+Engineered a custom ASP.NET Core MVC CMS so site content could be updated in-house.
 
 ---
 
 ## ATS Keywords
 
-`.NET Core` `ASP.NET Core MVC` `Microservices` `CQRS` `RabbitMQ` `DDD` `Domain-Driven Design` `Vue.js` `monitoring` `CMS` `ticketing` `electricity distribution` `Bushehr` `Mazandaran` `Tehran` `Arak`
+`Microservices` `DDD` `Domain-Driven Design` `CQRS` `RabbitMQ` `.NET Core` `ASP.NET Core MVC` `Vue.js` `monitoring` `CMS` `ticketing` `electricity distribution` `Bushehr` `Mazandaran` `Tehran` `Arak`

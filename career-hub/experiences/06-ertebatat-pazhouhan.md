@@ -9,35 +9,35 @@ period_en: Jun 2025 – Jul 2026
 location: Shiraz, Fars, Iran
 employment_type: Full-time
 core_skills:
-  - C#
-  - Onion Architecture
-  - Kotlin
-  - Android
-  - Python
-  - FastAPI
-  - Computer Vision
-  - ALPR
   - .NET 10
-  - PostgreSQL
-  - PostgreSQL Polygon
-  - SignalR
+  - FastAPI
+  - ALPR
+  - Kotlin
   - Redis
+  - SignalR
+  - Computer Vision
+  - Python
+  - PostgreSQL Polygon
+  - Onion Architecture
+  - C#
+  - Android
+  - PostgreSQL
   - Cursor
   - Accounting
   - Payment Gateway
   - Fleet Management
 tools:
-  - C#
-  - Kotlin
-  - Python
-  - FastAPI
   - .NET 10
-  - PostgreSQL
-  - SignalR
+  - FastAPI
+  - Kotlin
   - Redis
+  - SignalR
+  - Python
+  - PostgreSQL
+  - C#
   - Cursor
 parallel_work:
-  - "Ayar Plus: part-time remote technical contractor (Mehr 1404 – Shahrivar 1405); see 07-ayar-plus.md"
+  - "Ayar Plus (عیار پلاس): part-time remote technical contractor (Mehr 1404 – Shahrivar 1405); see 07-ayar-plus.md"
 metrics:
   - "در بعضی شهرها بیش از ۲۰۰ هزار کاربر"
   - "حسابداری و درگاه پرداخت بین ناوگان، سرویس، راننده، دانش‌آموز و ولی"
@@ -88,7 +88,7 @@ related_certificates:
 
 بیشتر توسعه را با Cursor پیش بردم. قوانین و مهارت‌ها را به مدل‌هایی که استفاده می‌کردم اضافه کردم، کد را ریویو کردم، و MVP سریع تحویل دادم. یکی از آن‌ها اپ مشابه اسنپ بود با .NET 10، PostgreSQL، Polygon روی Postgres، SignalR و Redis: درخواست سفر برای راننده می‌رفت، قبول یا رد می‌کرد، داشبورد داشت، و با SignalR ناوگان در پنل ادمین دیده می‌شد. شرکت می‌خواست این MVP را به مشتری‌هایش بدهد.
 
-از مهر ۱۴۰۴، بیرون از این نقش تمام‌وقت، به‌صورت پیمانکار ارشد دات‌نت و مشاور فنی دورکار (پاره‌وقت) روی ایار پلاس کار کردم. جزئیات در [07-ayar-plus.md](07-ayar-plus.md).
+از مهر ۱۴۰۴، بیرون از این نقش تمام‌وقت، به‌صورت پیمانکار ارشد دات‌نت و مشاور فنی دورکار (پاره‌وقت) روی عیار پلاس کار کردم. جزئیات در [07-ayar-plus.md](07-ayar-plus.md).
 
 بازه را با پایان دوره قرارداد، پایان تیر ۱۴۰۵، بستیم.
 
@@ -126,26 +126,26 @@ For the inspector role I started wiring in AI and computer vision. I built an au
 
 I did much of the development in Cursor. I added rules and skills to the models I used, reviewed code, and shipped MVPs quickly. One of those was a Snapp-like ride app on .NET 10, PostgreSQL, Postgres Polygon, SignalR, and Redis: a trip request went to the driver, who accepted or rejected it, there was a dashboard, and SignalR showed the fleet in the admin panel. The company wanted that MVP for its own customers.
 
-From Sep 2025 (Mehr 1404), outside this full-time role, I also worked as a senior .NET contractor and remote technical consultant (part-time) on Ayar Plus. Details are in [07-ayar-plus.md](07-ayar-plus.md).
+From Sep 2025 (Mehr 1404), outside this full-time role, I also worked as a senior .NET contractor and remote technical consultant (part-time) on Ayar Plus (عیار پلاس). Details are in [07-ayar-plus.md](07-ayar-plus.md).
 
 The contract term ended at the close of Jul 2026 (Tir 1405).
 
 ### Achievement (X-Y-Z)
 
-Moved the school-transport platform forward on C# and Onion, measured by reports and faster queries, by developing the system for the Shiraz, Isfahan, and Qazvin municipalities.
+Optimized the school-transport platform on C# and Onion Architecture, measured by faster reports and queries, for the Shiraz, Isfahan, and Qazvin municipalities.
 
-Delivered Safir Mehr as a native Kotlin app so customers had a fleet-management mobile client, by designing it at the start of the tenure.
+Engineered Safir Mehr as a native Kotlin Android client so customers had a fleet-management app from day one.
 
-Kept multi-role accounting on that platform, measured by more than 200,000 users in some cities and money flowing among fleets, services, drivers, students, and parents, by working the books and the payment gateway.
+Kept multi-role accounting and the payment gateway correct for more than 200,000 users in some cities, with settlement among fleets, services, drivers, students, and parents.
 
-Wired plate reading into the inspector flow, measured by plate text returned from a photo, by Python and FastAPI.
+Engineered ALPR into the inspector flow, returning plate text from a photo, with Python and FastAPI.
 
-Built a Snapp-like trip MVP for the company to show customers, covering trip request, driver accept or reject, a dashboard, and live fleet in admin, on .NET 10, PostgreSQL Polygon, SignalR, and Redis.
+Architected a Snapp-like trip MVP on .NET 10, PostgreSQL Polygon, SignalR, and Redis covering request, driver accept or reject, a dashboard, and live fleet in admin.
 
-Raised coding speed with Cursor, measured by review and fast MVPs, by adding rules and skills to the models I used.
+Raised delivery speed with Cursor by adding rules and skills to the models and reviewing the generated code.
 
 ---
 
 ## ATS Keywords
 
-`C#` `Onion Architecture` `Kotlin` `Android` `Safir Mehr` `Python` `FastAPI` `ALPR` `computer vision` `license plate recognition` `.NET 10` `PostgreSQL` `Polygon` `SignalR` `Redis` `Cursor` `MVP` `fleet management` `school transport` `payment gateway` `accounting`
+`.NET 10` `FastAPI` `ALPR` `computer vision` `Kotlin` `Redis` `SignalR` `Python` `PostgreSQL` `Polygon` `Onion Architecture` `C#` `Android` `Safir Mehr` `Cursor` `MVP` `fleet management` `school transport` `payment gateway` `accounting` `prompt engineering`

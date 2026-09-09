@@ -8,8 +8,8 @@ period_fa: تیر ۱۳۹۷ – مهر ۱۳۹۸
 period_en: Jul 2018 – Oct 2019
 location: Shiraz, Fars, Iran
 core_skills:
-  - C#
   - ASP.NET Core
+  - C#
   - RESTful APIs
   - SQL Server
   - PWA
@@ -72,7 +72,7 @@ I implemented the appointment flow as ASP.NET Core REST endpoints so the PWA cou
 
 ### Achievement (X-Y-Z)
 
-Shipped a REST appointment-queue backend for the PWA, in production from Jul 2018 to Oct 2019, on ASP.NET Core and SQL Server in the first production .NET role.
+Engineered a REST appointment-queue backend for the PWA, in production from Jul 2018 to Oct 2019, on ASP.NET Core and SQL Server in the first production .NET role.
 
 ---
 
