@@ -110,7 +110,7 @@ Certifications come only from `career-hub/certificates/certificates.md` (name + 
    - Single column. English: `Inter, Arial, "Helvetica Neue", Helvetica, sans-serif`. Persian: `Vazirmatn, Tahoma, "Segoe UI", sans-serif`.
    - Ink on white. No cards, icons, logos, colored boxes, columns, or background graphics
    - One 1px hairline under `h2` is the only rule allowed
-6. After writing both files, tell the user to open the HTML in a browser and Print → Save as PDF (A4, headers/footers off) so the PDF stays selectable.
+6. After writing both files, tell the user to run `npm install` (once) then `npm run build:pdf`. Puppeteer writes a selectable A4 PDF next to each HTML under `career-hub/tailored-resumes/` (skips `archive/` and `*template*`). Browser Print remains a fallback: open the HTML → Print → Save as PDF (A4, headers/footers off).
 
 ## Checklist
 
@@ -120,4 +120,4 @@ Certifications come only from `career-hub/certificates/certificates.md` (name + 
 - [ ] `[Company]-[Role]-[Lang].md` written with the six sections above
 - [ ] `[Company]-[Role]-[Lang].html` filled from `print-template.html` (Inter for EN, Vazirmatn for FA)
 - [ ] No invented metrics, employers, or certs
-- [ ] User told how to Print to selectable PDF
+- [ ] User told to run `npm run build:pdf` (browser Print as fallback)

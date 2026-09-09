@@ -1,0 +1,14 @@
+{
+  "name": "mohammadreza-vazifeh-career-hub",
+  "private": true,
+  "description": "Bilingual career vault and Puppeteer pipeline for A4 vector resume PDFs",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build:pdf": "node scripts/generate-pdf.js"
+  },
+  "devDependencies": {
+    "puppeteer": "^24.23.0"
+  }
+}

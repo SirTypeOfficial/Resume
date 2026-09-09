@@ -146,7 +146,7 @@ Create a standalone HTML file next to the Markdown. Same content, same section o
 - Real text nodes only (selectable PDF after Print).
 - Start from `.cursor/skills/generate-ats-pdf/print-template.html`, then switch `body` font-family to Vazirmatn when `dir="rtl"`.
 
-After writing both files, tell the user to open the HTML in a browser: Print → Save as PDF (A4, headers/footers off).
+After writing both files, tell the user to run `npm run build:pdf` (Puppeteer, `scripts/generate-pdf.js`) so a selectable A4 PDF lands next to the HTML. Browser Print remains a fallback: open the HTML → Print → Save as PDF (A4, headers/footers off).
 
 ## Checklist (do not skip)
 
@@ -156,4 +156,5 @@ After writing both files, tell the user to open the HTML in a browser: Print →
 - [ ] 06 labeled full-time primary; 07 labeled part-time remote contractor
 - [ ] Header title functional (Show, Don't Tell)
 - [ ] `[Company]-[Role]-[Lang].md` and `.html` written
+- [ ] User told to run `npm run build:pdf` (or browser Print as fallback)
 - [ ] No invented metrics, employers, or certs

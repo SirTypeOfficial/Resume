@@ -32,10 +32,23 @@ Full-stack .NET developer and software architect. Applied AI and computer vision
 
 ## رزومه مستر و لینکدین
 
-| بسته | Markdown | چاپ A4 / PDF قابل انتخاب |
-| --- | --- | --- |
-| رزومه مستر انگلیسی | [master-resume-en.md](career-hub/tailored-resumes/master-resume-en.md) | [master-resume-en.html](career-hub/tailored-resumes/master-resume-en.html) (Ctrl+P → Save as PDF) |
-| رزومه مستر فارسی | [master-resume-fa.md](career-hub/tailored-resumes/master-resume-fa.md) | [master-resume-fa.html](career-hub/tailored-resumes/master-resume-fa.html) (Ctrl+P → Save as PDF) |
+| بسته | Markdown | HTML چاپ A4 | PDF وکتور |
+| --- | --- | --- | --- |
+| رزومه مستر انگلیسی | [master-resume-en.md](career-hub/tailored-resumes/master-resume-en.md) | [master-resume-en.html](career-hub/tailored-resumes/master-resume-en.html) | [master-resume-en.pdf](career-hub/tailored-resumes/master-resume-en.pdf) |
+| رزومه مستر فارسی | [master-resume-fa.md](career-hub/tailored-resumes/master-resume-fa.md) | [master-resume-fa.html](career-hub/tailored-resumes/master-resume-fa.html) | [master-resume-fa.pdf](career-hub/tailored-resumes/master-resume-fa.pdf) |
+
+### دستور تولید خودکار PDF با Puppeteer
+
+هر HTML داخل `career-hub/tailored-resumes/` (به‌جز `archive/` و فایل‌های template) با Chromium هدلس به PDF وکتور کنار همان فایل تبدیل می‌شود. اسکریپت تا لود کامل فونت Inter / Vazirmatn صبر می‌کند و حاشیه A4 را از `@page` در CSS می‌گیرد.
+
+```bash
+npm install
+npm run build:pdf
+```
+
+خروجی: `master-resume-en.pdf`، `master-resume-fa.pdf`، و هر رزومه سفارشی جدید با همان نام HTML.
+
+اگر دانلود Chromium هنگام `npm install` با HTTP 403 از `storage.googleapis.com` قطع شود، فایل `.puppeteerrc.cjs` دانلود را رد می‌کند و اسکریپت از Google Chrome یا Microsoft Edge نصب‌شده روی سیستم استفاده می‌کند.
 
 بسته لینکدین (کپی‌پیست):
 
@@ -70,6 +83,18 @@ Full-stack .NET developer and software architect. Applied AI and computer vision
 
 ---
 
+## پروژه‌های شاخص | Flagship projects
+
+معماری جدا از پرونده شغل، برای Featured و رزومه سفارشی. فهرست: [career-hub/projects/README.md](career-hub/projects/README.md)
+
+| پروژه | پرونده | سابقه |
+| --- | --- | --- |
+| دیسپچ بلادرنگ سرویس مدارس (.NET 10، SignalR، Redis، ۲۰۰ هزار کاربر) | [realtime-dispatch.md](career-hub/projects/realtime-dispatch.md) | [06 پژوهان](career-hub/experiences/06-ertebatat-pazhouhan.md) |
+| ERP طلا با فاکتور آفلاین (MAUI / .NET 10، کویت) | [offline-gold-erp.md](career-hub/projects/offline-gold-erp.md) | [07 عیار پلاس](career-hub/experiences/07-ayar-plus.md) |
+| میکروسرویس اتوماسیون توزیع برق (CQRS، RabbitMQ، DDD) | [electricity-distribution-microservices.md](career-hub/projects/electricity-distribution-microservices.md) | [03 پارسیا افزار](career-hub/experiences/03-parsia-afzar.md) |
+
+---
+
 ## مدارک | Certificates
 
 جدول کامل در [career-hub/certificates/certificates.md](career-hub/certificates/certificates.md). تصویر یا PDF هر مدرک را در [career-hub/certificates/assets/](career-hub/certificates/assets/) با slug همان ردیف بگذارید.
@@ -96,10 +121,12 @@ career-hub/
 ├── certificates/
 │   ├── certificates.md   # جدول و لنگر slug
 │   └── assets/           # تصویر / PDF مدارک
-├── projects/             # پروژه‌های شاخص (در حال تکمیل)
+├── projects/             # دیسپچ بلادرنگ، ERP طلا، میکروسرویس توزیع برق
 ├── linkedin/             # عنوان، About، سوابق کپی‌پیست، Featured، ماتریس مهارت
-└── tailored-resumes/     # رزومه مستر MD/HTML و رزومه‌های سفارشی ATS
+└── tailored-resumes/     # رزومه مستر MD/HTML/PDF و رزومه‌های سفارشی ATS
     └── archive/
+scripts/
+└── generate-pdf.js       # Puppeteer: HTML → PDF وکتور A4
 .cursor/rules/
 ├── career-engine.mdc
 ├── experience-manager.mdc
@@ -125,7 +152,7 @@ career-hub/
 2. قانون `job-tailor.mdc` کلمات کلیدی، استک و دغدغه تجاری JD را استخراج می‌کند، بعد سوابق `career-hub/experiences/`، آموزش و مدارک را می‌خواند.
 3. حدود ۷۰٪ وزن روی سوابق اخیر است (عیار پلاس، پژوهان، باهم‌شاپ). پژوهان تمام‌وقت On-site/Hybrid و عیار پلاس پیمانکار پاره‌وقت دورکار برچسب می‌خورند تا ATS دو شغل تمام‌وقت نخواند.
 4. گلوله‌ها با فرمول **Google X-Y-Z** بازنویسی می‌شوند (انجام X، با معیار Y، از طریق Z). عدد جعلی ساخته نمی‌شود.
-5. دو فایل تک‌ستونه در `career-hub/tailored-resumes/` ذخیره می‌شود: `[Company]-[Role]-[Lang].md` و `[Company]-[Role]-[Lang].html` (A4، Inter برای انگلیسی، Vazirmatn برای فارسی). نسخه‌های قبلی همان سه‌گانه به `archive/` می‌روند.
+5. دو فایل تک‌ستونه در `career-hub/tailored-resumes/` ذخیره می‌شود: `[Company]-[Role]-[Lang].md` و `[Company]-[Role]-[Lang].html` (A4، Inter برای انگلیسی، Vazirmatn برای فارسی). نسخه‌های قبلی همان سه‌گانه به `archive/` می‌روند. سپس `npm run build:pdf` همان HTML را به PDF وکتور کنار فایل تبدیل می‌کند.
 
 **نمونه درخواست:**
 

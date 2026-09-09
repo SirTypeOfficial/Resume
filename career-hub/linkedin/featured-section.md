@@ -2,7 +2,7 @@
 
 Featured sits under the profile header. The first three items are the ones most people see. Use **English titles** on the primary profile. Keep stack and a vault metric in the first line of each description. No Senior / ارشد. No logos or infographics; LinkedIn scrapes title + URL + your caption.
 
-`career-hub/projects/` is still a placeholder (only `.gitkeep`). Until dedicated project pages exist, pin the GitHub experience writeups for dispatch and gold ERP. Those files already hold the architecture narrative (problem, trade-off, X-Y-Z).
+Project pages live under `career-hub/projects/`. Pin those URLs, not the whole role files. Index: [projects/README.md](../projects/README.md).
 
 Repo: [https://github.com/SirTypeOfficial/Resume](https://github.com/SirTypeOfficial/Resume)  
 Site (this repo on Pages): [https://mohammadrezav.ir](https://mohammadrezav.ir)
@@ -49,12 +49,10 @@ Why this pin: it shows how the career system is structured (experiences, educati
 
 **Add as:** Link
 
-**URL (until a file exists under `career-hub/projects/`):**  
-`https://github.com/SirTypeOfficial/Resume/blob/main/career-hub/experiences/06-ertebatat-pazhouhan.md`
+**URL:**  
+`https://github.com/SirTypeOfficial/Resume/blob/main/career-hub/projects/realtime-dispatch.md`
 
-**When a project page is added, switch the URL to:**  
-`https://github.com/SirTypeOfficial/Resume/blob/main/career-hub/projects/realtime-dispatch.md`  
-and keep the same title and description.
+**Pages fallback:** `https://mohammadrezav.ir/career-hub/projects/realtime-dispatch.md`
 
 **Title (paste):**
 
@@ -74,11 +72,10 @@ Trip MVP on a municipal school-transport platform (Shiraz, Isfahan, Qazvin). Som
 
 **Add as:** Link
 
-**URL (until a file exists under `career-hub/projects/`):**  
-`https://github.com/SirTypeOfficial/Resume/blob/main/career-hub/experiences/07-ayar-plus.md`
-
-**When a project page is added, switch the URL to:**  
+**URL:**  
 `https://github.com/SirTypeOfficial/Resume/blob/main/career-hub/projects/offline-gold-erp.md`
+
+**Pages fallback:** `https://mohammadrezav.ir/career-hub/projects/offline-gold-erp.md`
 
 **Title (paste):**
 
@@ -100,9 +97,11 @@ Part-time remote .NET contractor at Ayar Plus (عیار پلاس). Gold shops st
 
 **HTML (Pages):** `https://mohammadrezav.ir/career-hub/tailored-resumes/master-resume-en.html`
 
-**GitHub fallback:** `https://github.com/SirTypeOfficial/Resume/blob/main/career-hub/tailored-resumes/master-resume-en.html`
+**PDF (Pages):** `https://mohammadrezav.ir/career-hub/tailored-resumes/master-resume-en.pdf`
 
-**PDF:** open the HTML in a browser → Print → Save as PDF (A4, headers/footers off) → upload that file as Featured media. LinkedIn opens PDFs in-app; that is the better recruiter path.
+**GitHub fallback:** `https://github.com/SirTypeOfficial/Resume/blob/main/career-hub/tailored-resumes/master-resume-en.pdf`
+
+**PDF media:** upload `career-hub/tailored-resumes/master-resume-en.pdf` (from `npm run build:pdf`). LinkedIn opens PDFs in-app; that is the better recruiter path.
 
 **Title (paste):**
 
@@ -113,7 +112,7 @@ Master resume (EN): Full-Stack .NET Developer & Software Architect
 **Description (paste):**
 
 ```
-Single-column A4, ATS-safe. .NET 10, Microservices, 200K+ municipal users, ALPR, offline gold ERP. Print the HTML if you need a PDF.
+Single-column A4, ATS-safe. .NET 10, Microservices, 200K+ municipal users, ALPR, offline gold ERP. Vector PDF from the Puppeteer pipeline.
 ```
 
 ---
@@ -124,9 +123,11 @@ Single-column A4, ATS-safe. .NET 10, Microservices, 200K+ municipal users, ALPR,
 
 **HTML (Pages):** `https://mohammadrezav.ir/career-hub/tailored-resumes/master-resume-fa.html`
 
-**GitHub fallback:** `https://github.com/SirTypeOfficial/Resume/blob/main/career-hub/tailored-resumes/master-resume-fa.html`
+**PDF (Pages):** `https://mohammadrezav.ir/career-hub/tailored-resumes/master-resume-fa.pdf`
 
-**PDF:** same print path as item 4, from the Persian HTML.
+**GitHub fallback:** `https://github.com/SirTypeOfficial/Resume/blob/main/career-hub/tailored-resumes/master-resume-fa.pdf`
+
+**PDF media:** upload `career-hub/tailored-resumes/master-resume-fa.pdf` from `npm run build:pdf`.
 
 **Title (paste):**
 
@@ -137,7 +138,7 @@ Single-column A4, ATS-safe. .NET 10, Microservices, 200K+ municipal users, ALPR,
 **Description (paste):**
 
 ```
-تک‌ستونه A4. همان واقعیت‌های نسخه انگلیسی: پژوهان تمام‌وقت، عیار پلاس پیمانکار پاره‌وقت دورکار، ۲۰۰ هزار کاربر شهرداری، فاکتور آفلاین طلا. HTML را Print کنید تا PDF ساخته شود.
+تک‌ستونه A4. همان واقعیت‌های نسخه انگلیسی: پژوهان تمام‌وقت، عیار پلاس پیمانکار پاره‌وقت دورکار، ۲۰۰ هزار کاربر شهرداری، فاکتور آفلاین طلا. PDF وکتور از پایپ‌لاین Puppeteer.
 ```
 
 ---
@@ -163,4 +164,4 @@ Do not pin:
 - Kubernetes, Pine Script, or anything in `awareness_only`.
 - Two items that tell the same story (one dispatch pin, one gold ERP pin).
 
-Optional later, after `career-hub/projects/` has real pages: replace items 2 and 3 URLs only. Keep titles and captions unless the project page adds a new vault-backed metric.
+Optional third architecture pin (if Featured has room): [electricity-distribution-microservices.md](../projects/electricity-distribution-microservices.md) at `https://github.com/SirTypeOfficial/Resume/blob/main/career-hub/projects/electricity-distribution-microservices.md`. Do not replace dispatch or gold ERP with it.

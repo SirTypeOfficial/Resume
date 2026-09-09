@@ -42,7 +42,8 @@ related_certificates:
 **بازه:** مهر ۱۳۹۹ – دی ۱۴۰۱ · Oct 2020 – Jan 2023  
 **محل:** شیراز، فارس، ایران  
 **شروع:** مهر ۱۳۹۹، دوره کرونا  
-**کار درگیر:** پشتیبانی اتوماسیون MVC توزیع برق، سیستم تیکت، بازنویسی یکپارچه با Microservices / CQRS / RabbitMQ / DDD / Vue.js / Monitoring / .NET Core، CMS سایت شرکت با ASP.NET Core MVC
+**کار درگیر:** پشتیبانی اتوماسیون MVC توزیع برق، سیستم تیکت، بازنویسی یکپارچه با Microservices / CQRS / RabbitMQ / DDD / Vue.js / Monitoring / .NET Core، CMS سایت شرکت با ASP.NET Core MVC  
+**پروژه شاخص:** [میکروسرویس توزیع برق](../projects/electricity-distribution-microservices.md)
 
 شغل قبلی: [02-rasta-tejarat.md](02-rasta-tejarat.md) · شغل بعدی: [04-freelance-consultant.md](04-freelance-consultant.md)
 

@@ -57,6 +57,16 @@ PDF هنوز در `assets/` نیست. روایت: [مسیر آموزشی](../edu
 
 لنگرهای `aspnet-mvc` و `aspnet-core-2` به همین بخش اشاره دارند.
 
+## فایل‌های assets خارج از روایت شغلی
+
+این PDFها روی دیسک هستند. در رزومه ATS، تیتر پروفایل و Featured لینکدین استفاده نمی‌شوند (خارج از سه‌گانه .NET / Applied AI / اتوماسیون).
+
+| فایل | صادرکننده (از نام فایل) | تاریخ روی نام فایل |
+| --- | --- | --- |
+| [Photoshop](assets/Photoshop-Industrial%20Management%20Institute-August-2019-Shahrivar-98.pdf) | سازمان مدیریت صنعتی واحد جنوب | شهریور ۱۳۹۸ / Aug 2019 |
+| [3ds Max Animation](assets/3dMax-Animation-Industrial%20Management%20Institute-October-2013-Aban-92.pdf) | سازمان مدیریت صنعتی واحد جنوب | آبان ۱۳۹۲ / Oct 2013 |
+| [WordPress](assets/Wordpress-Industrial%20Management%20Institute-November-2016-Azar-95.pdf) | سازمان مدیریت صنعتی واحد جنوب | آذر ۱۳۹۵ / Nov 2016 |
+
 ## aspnet-mvc
 
 → [aspnet-core-mvc](#aspnet-core-mvc)

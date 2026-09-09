@@ -55,7 +55,8 @@ related_certificates:
 **نوع همکاری:** پاره‌وقت · دورکار · پیمانکار فنی (`employment_type: Part-time / Remote Contractor`)  
 **محل کار:** دورکاری از ایران  
 **بازار:** حسابداری اختصاصی بازار کویت (کارفرما ایرانی ساکن کویت)  
-**محصول:** ERP طلا روی .NET MAUI / .NET 10، بک‌اند PHP
+**محصول:** ERP طلا روی .NET MAUI / .NET 10، بک‌اند PHP  
+**پروژه شاخص:** [ERP طلا آفلاین / Offline gold ERP](../projects/offline-gold-erp.md)
 
 این نقش تمام‌وقت نبود و اشتغال اصلی محسوب نمی‌شود. از مهر ۱۴۰۴ تا پایان تیر ۱۴۰۵ با نقش تمام‌وقت On-site/Hybrid در [06-ertebatat-pazhouhan.md](06-ertebatat-pazhouhan.md) هم‌پوشان است: پروژه پیمانکاری پاره‌وقت، در ساعات خارج از تعهدات سازمانی پژوهان.
 
