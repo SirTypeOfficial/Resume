@@ -43,12 +43,12 @@ Senior architect and full-stack engineer focused on .NET 9/10, Clean Architectur
 | :---: | --- | --- | --- | --- |
 | 01 | نیکان اکسیر ویستا رایان · [Nikan Exir Vista Rayan](career-hub/experiences/01-nikan-exir.md) | توسعه‌دهنده .NET · بک‌اند REST نوبت‌دهی و PWA | تیر ۱۳۹۷ – مهر ۱۳۹۸ · Jul 2018 – Oct 2019 | [01-nikan-exir.md](career-hub/experiences/01-nikan-exir.md) |
 | 02 | رستا تجارت بین‌الملل رستاک · [Rasta Tejarat Beinolmelal Rastak](career-hub/experiences/02-rasta-tejarat.md) | توسعه‌دهنده .NET؛ اواخر دوره مدیریت پروژه · Git، Agile/Scrum، Angular، CRM | مهر ۱۳۹۸ – مرداد ۱۳۹۹ · Oct 2019 – Aug 2020 | [02-rasta-tejarat.md](career-hub/experiences/02-rasta-tejarat.md) |
-| 03 | پارسیا افزار فرا اندیشان نوین · [ParsiaAfzar FaraAndishanNovin](career-hub/experiences/03-parsia-afzar.md) | ارشد فول‌استک .NET | مهر ۱۳۹۹ – دی ۱۴۰۱ · Oct 2020 – Jan 2023 | [03-parsia-afzar.md](career-hub/experiences/03-parsia-afzar.md) |
+| 03 | پارسیا افزار فرااندیشان نوین · [ParsiaAfzar FaraAndishanNovin](career-hub/experiences/03-parsia-afzar.md) | پشتیبانی و توسعه اتوماسیون توزیع برق؛ بازنویسی Microservices / CQRS / RabbitMQ / DDD | مهر ۱۳۹۹ – دی ۱۴۰۱ · Oct 2020 – Jan 2023 | [03-parsia-afzar.md](career-hub/experiences/03-parsia-afzar.md) |
 | 04 | فعالیت مشاوره‌ای و فریلنس · [Independent Consultant](career-hub/experiences/04-freelance-consultant.md) | مشاور و فریلنس | دی ۱۴۰۱ – آذر ۱۴۰۳ · Jan 2023 – Present | [04-freelance-consultant.md](career-hub/experiences/04-freelance-consultant.md) |
 | 05 | استارتاپ باهم‌شاپ · [BahamShop](career-hub/experiences/05-baham-shop.md) | رهبر فنی و مدیر پروژه | دی ۱۴۰۳ – تیر ۱۴۰۴ · Dec 2024 – Jun 2025 | [05-baham-shop.md](career-hub/experiences/05-baham-shop.md) |
 | 06 | ارتباطات پژوهان متین · [Ertebatat Pazhoohan Matin](career-hub/experiences/06-ertebatat-pazhouhan.md) | ارشد فول‌استک | تیر ۱۴۰۴ – اکنون · Jun 2025 – Present | [06-ertebatat-pazhouhan.md](career-hub/experiences/06-ertebatat-pazhouhan.md) |
 
-نقش فعلی: **ارتباطات پژوهان متین** — روایت این شغل و ردیف‌های ۰۳ تا ۰۶ هنوز از استخراج JSON اولیه است؛ تا وقتی تعریف نشود در غنی‌سازی این گفتگو وارد جزئیات نمی‌شود.
+نقش فعلی در جدول هنوز از استخراج JSON است. ردیف‌های ۰۴ تا ۰۶ روایت این گفتگو را ندارند.
 
 ---
 
@@ -94,7 +94,7 @@ career-hub/
 
 اگر دربارهٔ یک شغل یا دورهٔ آموزشی حرف بزنید — حتی پراکنده یا عامیانه — قانون [`experience-manager.mdc`](.cursor/rules/experience-manager.mdc) فایل همان سابقه (یا `education/00-training-path.md`) را با روایت مسئله / راهکار / X-Y-Z دوزبانه به‌روز می‌کند، مدرک مرتبط را از `certificates.md` (یا فایل داخل `assets/`) وصل می‌کند، و در صورت دستاورد شاخص جدول همین README را هم هم‌گام می‌کند.
 
-**نمونه:** «تو پارسیا BPMS مونولیت بود، با RabbitMQ جداش کردیم چون توزیع برق تحمل قطعی نداشت.»
+**نمونه:** «تو پارسیا اتوماسیون MVC توزیع برق به‌هم‌ریخته بود، پیشنهاد دادم با Microservices و RabbitMQ یکپارچه‌اش کنیم.»
 
 ---
 
