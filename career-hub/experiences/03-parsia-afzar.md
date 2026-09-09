@@ -44,7 +44,7 @@ related_certificates:
 **شروع:** مهر ۱۳۹۹، دوره کرونا  
 **کار درگیر:** پشتیبانی اتوماسیون MVC توزیع برق، سیستم تیکت، بازنویسی یکپارچه با Microservices / CQRS / RabbitMQ / DDD / Vue.js / Monitoring / .NET Core، CMS سایت شرکت با ASP.NET Core MVC
 
-شغل قبلی: [02-rasta-tejarat.md](02-rasta-tejarat.md)
+شغل قبلی: [02-rasta-tejarat.md](02-rasta-tejarat.md) · شغل بعدی: [04-freelance-consultant.md](04-freelance-consultant.md)
 
 ## مدارک مرتبط | Related certificates
 
@@ -72,6 +72,8 @@ related_certificates:
 
 سایت شرکت را روی CMS اختصاصی گذاشتم، با سنجش به‌روز شدن محتوا از همان CMS، از طریق پیاده‌سازی ASP.NET Core MVC.
 
+دی ۱۴۰۱ بیرون آمدم چون حقوق‌ها عقب می‌افتاد و پرداخت مشکل پیدا کرده بود. همان دوره ترید و بلاکچین را شروع کرده بودم و به آن حقوق نیاز نداشتم؛ وقت را روی یادگیری گذاشتم. ادامه در [04-freelance-consultant.md](04-freelance-consultant.md).
+
 ---
 
 ## 🇬🇧 English
@@ -91,6 +93,8 @@ Kept the electricity-distribution automation system running, measured by ticket 
 Drove the unified rewrite of the automation projects, measured by moving off separate messy MVC codebases onto one Microservices-based system, by using CQRS, RabbitMQ, DDD, Vue.js, monitoring, and .NET Core.
 
 Put the company website on a custom CMS, measured by updating site content through that CMS, by implementing ASP.NET Core MVC.
+
+Left in Dey 1401 / Jan 2023 because payroll was late and payment had become unreliable. I had already started trading and blockchain and did not need that salary; I put the time into study. Next period: [04-freelance-consultant.md](04-freelance-consultant.md).
 
 ---
 

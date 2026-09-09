@@ -20,7 +20,7 @@
 
 **فایل:** [PDF](assets/Principles%20and%20methods%20of%20object-oriented%20programming-Industrial%20Management%20Institute-August-2013-Shahrivar-92.pdf)
 
-سوابق مرتبط: [مسیر آموزشی](../education/00-training-path.md) · [01 نیکان](../experiences/01-nikan-exir.md) · [02 رستا](../experiences/02-rasta-tejarat.md) · [03 پارسیا افزار](../experiences/03-parsia-afzar.md)
+سوابق مرتبط: [مسیر آموزشی](../education/00-training-path.md) · [01 نیکان](../experiences/01-nikan-exir.md) · [02 رستا](../experiences/02-rasta-tejarat.md) · [03 پارسیا افزار](../experiences/03-parsia-afzar.md) · [04 کار مستقل](../experiences/04-freelance-consultant.md)
 
 ## php-codeigniter
 
@@ -40,7 +40,7 @@ PDF هنوز در `assets/` نیست. روایت: [مسیر آموزشی](../edu
 
 **فایل:** [PDF](assets/Xamarin-Android-Industrial%20Management%20Institute-January-2017-Bahman-95.pdf)
 
-سوابق مرتبط: [مسیر آموزشی](../education/00-training-path.md). در نیکان، رستا و پارسیا به‌عنوان استک تولید ذکر نشده.
+سوابق مرتبط: [مسیر آموزشی](../education/00-training-path.md) · [04 کار مستقل](../experiences/04-freelance-consultant.md) (مسیر موبایل به .NET MAUI / Blazor Hybrid). در نیکان، رستا و پارسیا به‌عنوان استک تولید ذکر نشده.
 
 ## aspnet-core-mvc
 
@@ -53,7 +53,7 @@ PDF هنوز در `assets/` نیست. روایت: [مسیر آموزشی](../edu
 
 صدور بهمن ۱۳۹۸ داخل بازه رستا است (مهر ۱۳۹۸ – مرداد ۱۳۹۹)، بعد از خروج از نیکان در مهر ۱۳۹۸. آمادگی قبل از نیکان: self-study دوره بیش از ۱۲۰ ساعته ASP.NET Core آرزو ابراهیمی و کتاب‌های MVC 5 ([مسیر آموزشی](../education/00-training-path.md)).
 
-سوابق مرتبط: [مسیر آموزشی](../education/00-training-path.md) · [01 نیکان](../experiences/01-nikan-exir.md) · [02 رستا](../experiences/02-rasta-tejarat.md) · [03 پارسیا افزار](../experiences/03-parsia-afzar.md)
+سوابق مرتبط: [مسیر آموزشی](../education/00-training-path.md) · [01 نیکان](../experiences/01-nikan-exir.md) · [02 رستا](../experiences/02-rasta-tejarat.md) · [03 پارسیا افزار](../experiences/03-parsia-afzar.md) · [04 کار مستقل](../experiences/04-freelance-consultant.md)
 
 لنگرهای `aspnet-mvc` و `aspnet-core-2` به همین بخش اشاره دارند.
 

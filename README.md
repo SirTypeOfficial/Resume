@@ -21,9 +21,9 @@ Senior Full-Stack .NET Architect · Blazor · MAUI · Microservices
 
 ## معرفی
 
-معمار و توسعه‌دهنده ارشد با بیش از یک دهه کار روی بک‌اند .NET، کلاینت‌های Blazor/MAUI، و معماری میکروسرویس. مسیر کاری از APIهای سازمانی و BPMS تا موتور جستجوی کالا، معاملات الگوریتمی، و سامانه‌های ناوگان مدرسه است. برنامه‌نویسی چندزبانه (C#, Python, Kotlin) و استفاده روزمره از ابزارهای مبتنی بر عامل برای کوتاه کردن چرخه تحویل.
+معمار و توسعه‌دهنده ارشد با بیش از یک دهه کار روی بک‌اند .NET، کلاینت‌های Blazor/MAUI، و معماری میکروسرویس. مسیر از API نوبت‌دهی و اتوماسیون توزیع برق تا کار مستقل روی ربات معامله‌گر و n8n، بعد موتور جستجوی کالا و سامانه‌های ناوگان مدرسه.
 
-Senior architect and full-stack engineer focused on .NET 9/10, Clean Architecture, CQRS, and cross-platform clients. Shipped workflow engines for electricity distribution, a national-scale product search catalog, trading automation, and school-fleet platforms — with Kotlin, Python/CV, and n8n where the product needed them.
+Senior architect and full-stack engineer focused on .NET, Clean Architecture, CQRS, and cross-platform clients. Path includes electricity-distribution automation, independent work on MQL trading bots and n8n, then later product-search and school-fleet platforms.
 
 **تماس:** [mohammadrezav.ir](https://mohammadrezav.ir) · [LinkedIn](https://www.linkedin.com/in/sirtype/) · [GitHub](https://github.com/SirTypeOfficial) · [mv6468@gmail.com](mailto:mv6468@gmail.com) · +98 933 229 7757
 
@@ -44,11 +44,11 @@ Senior architect and full-stack engineer focused on .NET 9/10, Clean Architectur
 | 01 | نیکان اکسیر ویستا رایان · [Nikan Exir Vista Rayan](career-hub/experiences/01-nikan-exir.md) | توسعه‌دهنده .NET · بک‌اند REST نوبت‌دهی و PWA | تیر ۱۳۹۷ – مهر ۱۳۹۸ · Jul 2018 – Oct 2019 | [01-nikan-exir.md](career-hub/experiences/01-nikan-exir.md) |
 | 02 | رستا تجارت بین‌الملل رستاک · [Rasta Tejarat Beinolmelal Rastak](career-hub/experiences/02-rasta-tejarat.md) | توسعه‌دهنده .NET؛ اواخر دوره مدیریت پروژه · Git، Agile/Scrum، Angular، CRM | مهر ۱۳۹۸ – مرداد ۱۳۹۹ · Oct 2019 – Aug 2020 | [02-rasta-tejarat.md](career-hub/experiences/02-rasta-tejarat.md) |
 | 03 | پارسیا افزار فرااندیشان نوین · [ParsiaAfzar FaraAndishanNovin](career-hub/experiences/03-parsia-afzar.md) | پشتیبانی و توسعه اتوماسیون توزیع برق؛ بازنویسی Microservices / CQRS / RabbitMQ / DDD | مهر ۱۳۹۹ – دی ۱۴۰۱ · Oct 2020 – Jan 2023 | [03-parsia-afzar.md](career-hub/experiences/03-parsia-afzar.md) |
-| 04 | فعالیت مشاوره‌ای و فریلنس · [Independent Consultant](career-hub/experiences/04-freelance-consultant.md) | مشاور و فریلنس | دی ۱۴۰۱ – آذر ۱۴۰۳ · Jan 2023 – Present | [04-freelance-consultant.md](career-hub/experiences/04-freelance-consultant.md) |
+| 04 | کار مستقل · [Independent](career-hub/experiences/04-freelance-consultant.md) | توسعه‌دهنده مستقل؛ مشاوره و اتوماسیون پاره‌وقت · MQL4/MQL5، بلاکچین، Blazor Hybrid / MAUI، n8n، Git/DevOps، Docker، Onion، Python | دی ۱۴۰۱ – آذر ۱۴۰۳ · Jan 2023 – Dec 2024 | [04-freelance-consultant.md](career-hub/experiences/04-freelance-consultant.md) |
 | 05 | استارتاپ باهم‌شاپ · [BahamShop](career-hub/experiences/05-baham-shop.md) | رهبر فنی و مدیر پروژه | دی ۱۴۰۳ – تیر ۱۴۰۴ · Dec 2024 – Jun 2025 | [05-baham-shop.md](career-hub/experiences/05-baham-shop.md) |
 | 06 | ارتباطات پژوهان متین · [Ertebatat Pazhoohan Matin](career-hub/experiences/06-ertebatat-pazhouhan.md) | ارشد فول‌استک | تیر ۱۴۰۴ – اکنون · Jun 2025 – Present | [06-ertebatat-pazhouhan.md](career-hub/experiences/06-ertebatat-pazhouhan.md) |
 
-نقش فعلی در جدول هنوز از استخراج JSON است. ردیف‌های ۰۴ تا ۰۶ روایت این گفتگو را ندارند.
+ردیف‌های ۰۵ و ۰۶ هنوز روایت این گفتگو را ندارند؛ متن‌شان از استخراج اولیه JSON است.
 
 ---
 

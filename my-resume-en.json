@@ -53,18 +53,19 @@
       "summary": "* Spearheaded the end-to-end development of \"BahamShop,\" leading a cross-functional team to deliver a next-gen search engine ahead of schedule. * **Designed an\u00A0Automated SEO & Content Workflow\u00A0using\u00A0n8n**, **reducing manual data entry by\u00A0100%\u00A0and significantly improving product indexing speed on search engines**. * Orchestrated the aggregation of product data from multiple sources, creating a centralized database that allows users to compare prices across the entire Iranian market instantly. * Architected a high-performance**\u00A0Product Search Engine\u00A0utilizing\u00A0ASP.NET Core 9\u00A0and\u00A0Clean Architecture**, ensuring sub-millisecond response times for complex queries. * Developed a unified cross-platform experience using\u00A0**.NET MAUI\u00A0and\u00A0Blazor Hybrid**, sharing 90% of the codebase between Web, Android, and iOS to accelerate time-to-market. * Implemented\u00A0**CQRS\u00A0**and\u00A0**RabbitMQ\u00A0**to decouple data ingestion from search query processing, improving system scalability and fault tolerance."
     },
     {
-      "position": "Freelance Full-Stack Developer & Emerging Tech Enthusiast",
-      "name": "Independent Consultant",
+      "position": "Independent developer; occasional consulting and automation",
+      "name": "Independent",
       "startDate": "2023-01",
+      "endDate": "2024-12",
       "location": {
         "city": "Shiraz",
         "region": "Fars",
         "country": "Iran"
       },
-      "summary": "* **Engineered algorithmic trading systems**\u00A0using\u00A0**MQL4/MQL5**\u00A0and\u00A0C#, successfully converting complex manual trading strategies into automated bots (**EAs**) with back-testing and risk management modules. * **Architected cross-platform mobile solutions**\u00A0using\u00A0**.NET MAUI\u00A0and\u00A0Blazor Hybrid**, creating a unified codebase for Web, Android, and iOS to maximize development efficiency. * **Prototyped decentralized applications** (**dApps**)\u00A0by integrating**\u00A0Smart Contracts**\u00A0with .NET applications, leveraging blockchain technology for secure and transparent data handling. * **Developed advanced automation workflows**\u00A0using\u00A0**n8n\u00A0**and**\u00A0AI Agents**, enabling seamless integration between different SaaS platforms and reducing manual operational overhead. * **Delivered freelance consultancy**\u00A0for diverse clients, translating niche business requirements into robust software solutions while maintaining a continuous cycle of upskilling in bleeding-edge technologies."
+      "summary": "* Studied blockchain in earnest and wrote trading bots in MQL4 and MQL5, with module backtesting, budget management, trading mindset, and capital management. * Practiced Blazor Hybrid and the .NET MAUI path for cross-platform software. * Built a few simple .NET samples that implemented a smart contract inside a .NET project. * Deepened Git, Agile/Scrum, and DevOps; learned Docker and got familiar with Kubernetes. * Raised architecture fluency including Onion Architecture and older styles. * Used Python more professionally on trading systems; got familiar with Pine Script. * Occasional consulting through Azar 1403 / Dec 2024: e-commerce sites and n8n automation. Digital marketing, MBA, and DBA: general familiarity only, not deep skills."
     },
     {
-      "position": "Senior Full-Stack Developer (.NET)",
+      "position": "Electricity-distribution automation support and development; microservices rewrite",
       "name": "ParsiaAfzar FaraAndishanNovin",
       "startDate": "2020-10",
       "endDate": "2023-01",
@@ -73,31 +74,19 @@
         "region": "Fars",
         "country": "Iran"
       },
-      "summary": "* Spearheaded the architecture and development\u00A0of a dynamic Workflow Engine (BPMS), transitioning from a monolithic structure to a scalable\u00A0**Microservices architecture**\u00A0using\u00A0**RabbitMQ**,\u00A0**CQRS**, and\u00A0**Domain-Driven Design (DDD)**. * Led a cross-functional development team, conducting code reviews and mentoring junior developers to ensure high code quality and successful integration of the\u00A0**Vue.js**\u00A0frontend with the\u00A0.NET Core\u00A0backend. * **Delivered mission-critical software solutions\u00A0for electricity distribution companies across multiple cities**, ensuring high availability and optimizing data processing workflows. * Engineered a custom Content Management System (**CMS**)\u00A0using\u00A0**ASP.NET Core MVC**, significantly improving the company's web presence and content administration capabilities."
-    },
-    {
-      "position": "Senior Full-Stack Developer (.NET)",
-      "name": "ParsiaAfzar FaraAndishanNovin",
-      "startDate": "2020-10",
-      "endDate": "2023-01",
-      "location": {
-        "city": "Shiraz",
-        "region": "Fars",
-        "country": "Iran"
-      },
-      "summary": "* Spearheaded the architecture and development\u00A0of a dynamic Workflow Engine (BPMS), transitioning from a monolithic structure to a scalable\u00A0**Microservices architecture**\u00A0using\u00A0**RabbitMQ**,\u00A0**CQRS**, and\u00A0**Domain-Driven Design (DDD)**. * Led a cross-functional development team, conducting code reviews and mentoring junior developers to ensure high code quality and successful integration of the\u00A0**Vue.js**\u00A0frontend with the\u00A0.NET Core\u00A0backend. * **Delivered mission-critical software solutions\u00A0for electricity distribution companies across multiple cities**, ensuring high availability and optimizing data processing workflows. * Engineered a custom Content Management System (**CMS**)\u00A0using\u00A0**ASP.NET Core MVC**, significantly improving the company's web presence and content administration capabilities."
+      "summary": "* Supported and developed an existing MVC electricity-distribution automation system (Bushehr, Mazandaran, Greater Tehran, Arak, and other cities) via tickets, development, and bug fixes. * Proposed and implemented a unified rewrite with Microservices, CQRS, RabbitMQ, DDD, Vue.js, monitoring, and .NET Core. * Built a custom ASP.NET Core MVC CMS for the company site. * Left in Jan 2023 because payroll was late; trading and crypto already covered living costs."
     },
     {
       "position": "Project Manager / .NET Developer",
       "name": "Rasta International Finance",
       "startDate": "2019-10",
-      "endDate": "2020-10",
+      "endDate": "2020-08",
       "location": {
         "city": "Shiraz",
         "region": "Fars",
         "country": "Iran"
       },
-      "summary": "* **Established modern DevOps practices** by introducing **Git** and **Azure DevOps**, transitioning the organization from legacy workflows to **Agile/Scrum methodologies**, which significantly improved team collaboration and release cycles. * **Managed the end-to-end delivery** of a financial **CRM** and a network-based investment platform, translating complex business requirements into technical roadmaps. * Architected and deployed a **RESTful API** for a high-traffic **PWA** reservation system, ensuring seamless data synchronization and integration with the Angular frontend. * **Oversaw the frontend development strategy**, facilitating the adoption of **Angular frameworks** to enhance user experience and modernize the application's user interface."
+      "summary": "* First real use of Git and DevOps; with the then project manager, moved the company from traditional methods onto Agile/Scrum and DevOps. * Worked on the CRM (including Angular) and networked investment platforms; salon reservation projects sat in the same company. * Late in the tenure, managed the projects after the project manager planned to emigrate."
     },
     {
       "position": ".NET Developer",
@@ -109,7 +98,7 @@
         "region": "Fars",
         "country": "Iran"
       },
-      "summary": "* **Developed and maintained RESTful APIs**\u00A0using\u00A0**ASP.NET Core**, serving as the backend backbone for a beauty salon reservation and appointment management system. * **Collaborated closely with the frontend team**\u00A0to integrate the Progressive Web Application (PWA) with backend services, ensuring efficient data transmission. * **Designed and implemented database schemas**\u00A0using\u00A0**SQL Server**\u00A0and\u00A0**Entity Framework**, optimizing data storage for user appointments and schedules."
+      "summary": "* Backend .NET developer: designed and implemented ASP.NET Core REST APIs for a queue-management system and worked with the team's new PWA. * Learned SQL Server on the job against real data. * First production .NET role after two years of military service; company focus was accounting software."
     }
   ],
   "certificates": [

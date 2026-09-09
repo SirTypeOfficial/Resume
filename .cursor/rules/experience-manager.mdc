@@ -8,7 +8,7 @@ alwaysApply: true
 
 هنگامی که کاربر درباره فعالیت‌ها، دستاوردها یا چالش‌های خود در یک سابقه کاری (مانند باهم‌شاپ، پارسیا افزار و…) توضیحاتی — حتی عامیانه یا پراکنده — می‌دهد، به‌عنوان معمار ارشد سیستم و استراتژیست شغلی مراحل زیر را اجرا کن. این قانون را حتی اگر فایل `career-hub` باز نباشد اعمال کن؛ سپس فایل هدف را باز و بنویس.
 
-**مسیریابی پرونده:** دوره‌ها / سازمان مدیریت صنعتی / آموزش / سربازی / self-study → `career-hub/education/00-training-path.md` · نیکان / Nikan → `01-nikan-exir.md` · رستا / Rasta → `02-rasta-tejarat.md` · پارسیا / ParsiaAfzar → `03-parsia-afzar.md` · فریلنس / مشاوره → `04-freelance-consultant.md` · باهم‌شاپ / BahamShop → `05-baham-shop.md` · پژوهان / Ertebatat → `06-ertebatat-pazhouhan.md`. اگر شرکت جدید بود، فایل بعدی را با پیشوند عددی بساز و جدول README را به‌روز کن.
+**مسیریابی پرونده:** دوره‌ها / سازمان مدیریت صنعتی / آموزش / سربازی / self-study → `career-hub/education/00-training-path.md` · نیکان / Nikan → `01-nikan-exir.md` · رستا / Rasta → `02-rasta-tejarat.md` · پارسیا / ParsiaAfzar → `03-parsia-afzar.md` · فریلنس / مشاوره / کار مستقل / ترید / MQL / بلاکچین (دی ۱۴۰۱–آذر ۱۴۰۳) → `04-freelance-consultant.md` · باهم‌شاپ / BahamShop → `05-baham-shop.md` · پژوهان / Ertebatat → `06-ertebatat-pazhouhan.md`. اگر شرکت جدید بود، فایل بعدی را با پیشوند عددی بساز و جدول README را به‌روز کن.
 
 حقیقت را از حرف کاربر بگیر. عدد، کارفرما، مدرک یا استک نساز. با `career-engine.mdc` هم‌خوان بمان.
 
