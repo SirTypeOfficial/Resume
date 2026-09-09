@@ -64,15 +64,15 @@ REST API را با ASP.NET Core برای جریان نوبت پیاده کردم
 
 ### Problem and architectural challenge
 
-Nikan built accounting software. I joined in Tir 1397 / Jul 2018 as a .NET developer, after two years of military service, and stayed through Mehr 1398 / Oct 2019. The work was backend: designing and implementing RESTful APIs with ASP.NET Core for the queue-management system, and working with a PWA that was new to the team that year. SQL Server was learned on the job against real data. Before joining I had done Arezoo Ebrahimi's ASP.NET Core course (more than 120 hours, self-study) and had read MVC 5 books.
+Nikan built accounting software. I joined as a .NET developer in Jul 2018 (Tir 1397), after military service, and stayed through Oct 2019 (Mehr 1398). The work was backend: REST APIs on ASP.NET Core for an appointment-queue system, plus a PWA the team had just adopted. I learned SQL Server on the job against production data. Before joining I had completed Arezoo Ebrahimi's ASP.NET Core course (120+ hours, self-study) and had read MVC 5 books.
 
 ### Solution and trade-off
 
-Implemented the appointment flow as ASP.NET Core REST APIs so the PWA could use a JSON contract for queue operations. Stored the data on SQL Server. The work was backend, API, and that PWA.
+I implemented the appointment flow as ASP.NET Core REST endpoints so the PWA could drive queue operations over JSON. Data lived on SQL Server. Scope stayed on backend, API, and that PWA.
 
 ### Achievement (X-Y-Z)
 
-Put a queue-management backend on REST for the PWA, measured by that API running from Tir 1397 to Mehr 1398 (Jul 2018 to Oct 2019), by using ASP.NET Core and SQL Server in the first production .NET role.
+Shipped a REST appointment-queue backend for the PWA, in production from Jul 2018 to Oct 2019, on ASP.NET Core and SQL Server in the first production .NET role.
 
 ---
 

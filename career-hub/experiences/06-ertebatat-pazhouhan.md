@@ -2,11 +2,12 @@
 id: 06-ertebatat-pazhouhan
 company_fa: شرکت ارتباطات پژوهان متین
 company_en: Ertebatat Pazhoohan Matin
-role_fa: توسعه‌دهنده پلتفرم سرویس مدارس
-role_en: Developer, school-transport platform
+role_fa: توسعه‌دهنده تمام‌وقت پلتفرم سرویس مدارس
+role_en: Full-time developer, school-transport platform
 period_fa: تیر ۱۴۰۴ – پایان تیر ۱۴۰۵
 period_en: Jun 2025 – Jul 2026
 location: Shiraz, Fars, Iran
+employment_type: Full-time
 core_skills:
   - C#
   - Onion Architecture
@@ -36,7 +37,7 @@ tools:
   - Redis
   - Cursor
 parallel_work:
-  - Ayar Plus (Mehr 1404 – Shahrivar 1405) in 07-ayar-plus.md
+  - "Ayar Plus: part-time remote technical contractor (Mehr 1404 – Shahrivar 1405); see 07-ayar-plus.md"
 metrics:
   - "در بعضی شهرها بیش از ۲۰۰ هزار کاربر"
   - "حسابداری و درگاه پرداخت بین ناوگان، سرویس، راننده، دانش‌آموز و ولی"
@@ -51,12 +52,13 @@ related_certificates:
 
 # ارتباطات پژوهان متین | Ertebatat Pazhoohan Matin
 
-**نقش:** توسعه‌دهنده پلتفرم سرویس مدارس / Developer, school-transport platform  
+**نقش:** توسعه‌دهنده تمام‌وقت پلتفرم سرویس مدارس / Full-time developer, school-transport platform  
 **بازه:** تیر ۱۴۰۴ – پایان تیر ۱۴۰۵ · Jun 2025 – Jul 2026  
 **محل:** شیراز، فارس، ایران  
+**نوع همکاری:** تمام‌وقت  
 **محصول:** پلتفرم سازمانی سرویس مدارس برای شهرداری‌ها (شیراز، اصفهان، قزوین)
 
-شغل قبلی: [05-baham-shop.md](05-baham-shop.md) · کار موازی مهر ۱۴۰۴ – شهریور ۱۴۰۵: [07-ayar-plus.md](07-ayar-plus.md)
+شغل قبلی: [05-baham-shop.md](05-baham-shop.md) · پیمانکار پاره‌وقت موازی از مهر ۱۴۰۴: [07-ayar-plus.md](07-ayar-plus.md)
 
 ## مدارک مرتبط | Related certificates
 
@@ -72,7 +74,7 @@ related_certificates:
 
 ### مسئله و چالش معماری
 
-بلافاصله بعد از باهم‌شاپ، تیر ۱۴۰۴ وارد ارتباطات پژوهان متین شدم و تا پایان تیر ۱۴۰۵ آنجا بودم. پلتفرم سازمانی سرویس مدارس بود و به شهرداری‌ها ارائه می‌شد. در کلان‌شهرهایی مثل شیراز، اصفهان و قزوین استفاده می‌شد. استک پلتفرم C# با معماری پیاز (Onion Architecture) بود. نقش من توسعه‌دهنده بود: توسعه سامانه، گزارش‌ها، بهبود کوئری و بالا بردن سرعت سیستم.
+تیر ۱۴۰۴، بعد از باهم‌شاپ، وارد ارتباطات پژوهان متین شدم و تا پایان تیر ۱۴۰۵ آنجا بودم. نقش تمام‌وقت بود. پلتفرم سازمانی سرویس مدارس بود و به شهرداری‌ها ارائه می‌شد. در کلان‌شهرهایی مثل شیراز، اصفهان و قزوین استفاده می‌شد. استک پلتفرم C# با معماری پیاز (Onion Architecture) بود. کار من توسعه سامانه، گزارش‌ها، بهبود کوئری و بالا بردن سرعت سیستم بود.
 
 بار مالی روی همین پلتفرم بود. در بعضی شهرها بیش از ۲۰۰ هزار کاربر داشت. مدیریت منابع مالی و حساب‌وکتاب، درگاه پرداخت، و تسویه بین شرکت‌های ناوگان حمل‌ونقل، سرویس‌ها، راننده‌ها، دانش‌آموزان و اولیا باید درست کار می‌کرد. نقش‌ها متنوع بود، از جمله بازرس. پیچیدگی حسابداری بالا بود.
 
@@ -86,9 +88,9 @@ related_certificates:
 
 بیشتر توسعه را با Cursor پیش بردم. قوانین و مهارت‌ها را به مدل‌هایی که استفاده می‌کردم اضافه کردم، کد را ریویو کردم، و MVP سریع تحویل دادم. یکی از آن‌ها اپ مشابه اسنپ بود با .NET 10، PostgreSQL، Polygon روی Postgres، SignalR و Redis: درخواست سفر برای راننده می‌رفت، قبول یا رد می‌کرد، داشبورد داشت، و با SignalR ناوگان در پنل ادمین دیده می‌شد. شرکت می‌خواست این MVP را به مشتری‌هایش بدهد.
 
-از مهر ۱۴۰۴ هم‌زمان بیرون از شرکت روی ایار پلاس کار کردم؛ جزئیات در [07-ayar-plus.md](07-ayar-plus.md).
+از مهر ۱۴۰۴، بیرون از این نقش تمام‌وقت، به‌صورت پیمانکار ارشد دات‌نت و مشاور فنی دورکار (پاره‌وقت) روی ایار پلاس کار کردم. جزئیات در [07-ayar-plus.md](07-ayar-plus.md).
 
-بعد از شروع جنگ و پایان قرارداد، همکاری ادامه پیدا نکرد. پایان تیر ۱۴۰۵ خارج شدم.
+بازه را با پایان دوره قرارداد، پایان تیر ۱۴۰۵، بستیم.
 
 ### دستاورد (X-Y-Z)
 
@@ -104,15 +106,13 @@ MVP سفر مشابه اسنپ را برای ارائه به مشتری شرکت
 
 سرعت کدنویسی را با Cursor بالا بردم، با سنجش ریویو و تحویل MVP سریع، از طریق قوانین و مهارت روی مدل‌ها.
 
-بازه را تا پایان تیر ۱۴۰۵ تمام کردم، با سنجش خروج بعد از شروع جنگ و پایان قرارداد.
-
 ---
 
 ## 🇬🇧 English
 
 ### Problem and architectural challenge
 
-I joined Ertebatat Pazhoohan Matin in Tir 1404 / Jun 2025, right after BahamShop, and stayed through the end of Tir 1405 / Jul 2026. The product was an enterprise school-transport platform sold to municipalities. It ran in metros such as Shiraz, Isfahan, and Qazvin. The stack was C# with Onion Architecture. My role was developer: feature work, reports, query work, and making the system faster.
+I joined Ertebatat Pazhoohan Matin in Jun 2025 (Tir 1404), after BahamShop, and stayed through the end of Jul 2026 (Tir 1405). The role was full-time. The product was an enterprise school-transport platform sold to municipalities. It ran in metros such as Shiraz, Isfahan, and Qazvin. The stack was C# with Onion Architecture. The work was features, reports, query work, and making the system faster.
 
 Finance sat on the same platform. Some cities had more than 200,000 users. Money, books, the payment gateway, and settlement between fleet companies, services, drivers, students, and parents had to stay correct. Roles were many, including inspector. The accounting was hard.
 
@@ -122,29 +122,27 @@ I kept building on that C# and Onion core: features, reports, queries, speed.
 
 At the start I designed Safir Mehr, a native Kotlin Android app for fleet management, so customers had a mobile app.
 
-For the inspector role I started wiring in AI and computer vision. I built an automatic license-plate reader (ALPR) with Python and FastAPI: it took a photo and returned the plate text. The inspector used that text to see whether the plate belonged to our fleet.
+For the inspector role I started wiring in AI and computer vision. I built an automatic license-plate reader (ALPR) with Python and FastAPI: it took a photo and returned the plate text. The inspector used that text to see whether the plate belonged to the company fleet.
 
 I did much of the development in Cursor. I added rules and skills to the models I used, reviewed code, and shipped MVPs quickly. One of those was a Snapp-like ride app on .NET 10, PostgreSQL, Postgres Polygon, SignalR, and Redis: a trip request went to the driver, who accepted or rejected it, there was a dashboard, and SignalR showed the fleet in the admin panel. The company wanted that MVP for its own customers.
 
-From Mehr 1404 / Sep 2025 I also worked on Ayar Plus outside this company; details are in [07-ayar-plus.md](07-ayar-plus.md).
+From Sep 2025 (Mehr 1404), outside this full-time role, I also worked as a senior .NET contractor and remote technical consultant (part-time) on Ayar Plus. Details are in [07-ayar-plus.md](07-ayar-plus.md).
 
-After the war started and the contract ended, the cooperation did not continue. I left at the end of Tir 1405 / Jul 2026.
+The contract term ended at the close of Jul 2026 (Tir 1405).
 
 ### Achievement (X-Y-Z)
 
 Moved the school-transport platform forward on C# and Onion, measured by reports and faster queries, by developing the system for the Shiraz, Isfahan, and Qazvin municipalities.
 
-Delivered Safir Mehr as a native Kotlin app, measured by customers having a fleet-management mobile app, by designing it at the start of the tenure.
+Delivered Safir Mehr as a native Kotlin app so customers had a fleet-management mobile client, by designing it at the start of the tenure.
 
 Kept multi-role accounting on that platform, measured by more than 200,000 users in some cities and money flowing among fleets, services, drivers, students, and parents, by working the books and the payment gateway.
 
 Wired plate reading into the inspector flow, measured by plate text returned from a photo, by Python and FastAPI.
 
-Built a Snapp-like trip MVP for the company to show customers, measured by trip request, driver accept or reject, a dashboard, and live fleet in admin, by .NET 10, PostgreSQL Polygon, SignalR, and Redis.
+Built a Snapp-like trip MVP for the company to show customers, covering trip request, driver accept or reject, a dashboard, and live fleet in admin, on .NET 10, PostgreSQL Polygon, SignalR, and Redis.
 
 Raised coding speed with Cursor, measured by review and fast MVPs, by adding rules and skills to the models I used.
-
-Closed the tenure at the end of Tir 1405, measured by leaving after the war started and the contract ended.
 
 ---
 

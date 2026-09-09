@@ -21,9 +21,9 @@ Senior Full-Stack .NET Architect · Blazor · MAUI · Microservices
 
 ## معرفی
 
-معمار و توسعه‌دهنده ارشد با بیش از یک دهه کار روی بک‌اند .NET، کلاینت‌های Blazor/MAUI، و معماری میکروسرویس. مسیر از API نوبت‌دهی و اتوماسیون توزیع برق تا کار مستقل روی ربات معامله‌گر و n8n، بعد موتور جستجوی کالا، پلتفرم سرویس مدارس (در بعضی شهرها بیش از ۲۰۰ هزار کاربر)، و ERP طلا برای بازار کویت در ایار پلاس.
+معمار و توسعه‌دهنده ارشد با بیش از یک دهه کار روی بک‌اند .NET، کلاینت‌های Blazor/MAUI، و معماری میکروسرویس. مسیر از API نوبت‌دهی و اتوماسیون توزیع برق تا کار مستقل روی بک‌تست MQL و پایپ‌لاین n8n، بعد موتور جستجوی کالا، پلتفرم سرویس مدارس (در بعضی شهرها بیش از ۲۰۰ هزار کاربر)، و پیمانکاری پاره‌وقت ERP طلا برای بازار کویت در ایار پلاس.
 
-Senior architect and full-stack engineer focused on .NET, Clean Architecture, CQRS, and cross-platform clients. Path includes electricity-distribution automation, independent work on MQL trading bots and n8n, then later product-search, a school-transport platform (200k+ users in some cities), and a Kuwait gold ERP at Ayar Plus.
+Senior architect and full-stack engineer focused on .NET, Clean Architecture, CQRS, and cross-platform clients. Path includes electricity-distribution automation, independent work on MQL backtests and n8n pipelines, then product search, a school-transport platform (200k+ users in some cities), and a part-time remote engagement on a Kuwait gold ERP at Ayar Plus.
 
 **تماس:** [mohammadrezav.ir](https://mohammadrezav.ir) · [LinkedIn](https://www.linkedin.com/in/sirtype/) · [GitHub](https://github.com/SirTypeOfficial) · [mv6468@gmail.com](mailto:mv6468@gmail.com) · +98 933 229 7757
 
@@ -44,10 +44,10 @@ Senior architect and full-stack engineer focused on .NET, Clean Architecture, CQ
 | 01 | نیکان اکسیر ویستا رایان · [Nikan Exir Vista Rayan](career-hub/experiences/01-nikan-exir.md) | توسعه‌دهنده .NET · بک‌اند REST نوبت‌دهی و PWA | تیر ۱۳۹۷ – مهر ۱۳۹۸ · Jul 2018 – Oct 2019 | [01-nikan-exir.md](career-hub/experiences/01-nikan-exir.md) |
 | 02 | رستا تجارت بین‌الملل رستاک · [Rasta Tejarat Beinolmelal Rastak](career-hub/experiences/02-rasta-tejarat.md) | توسعه‌دهنده .NET؛ اواخر دوره مدیریت پروژه · Git، Agile/Scrum، Angular، CRM | مهر ۱۳۹۸ – مرداد ۱۳۹۹ · Oct 2019 – Aug 2020 | [02-rasta-tejarat.md](career-hub/experiences/02-rasta-tejarat.md) |
 | 03 | پارسیا افزار فرااندیشان نوین · [ParsiaAfzar FaraAndishanNovin](career-hub/experiences/03-parsia-afzar.md) | پشتیبانی و توسعه اتوماسیون توزیع برق؛ بازنویسی Microservices / CQRS / RabbitMQ / DDD | مهر ۱۳۹۹ – دی ۱۴۰۱ · Oct 2020 – Jan 2023 | [03-parsia-afzar.md](career-hub/experiences/03-parsia-afzar.md) |
-| 04 | کار مستقل · [Independent](career-hub/experiences/04-freelance-consultant.md) | توسعه‌دهنده مستقل؛ مشاوره و اتوماسیون پاره‌وقت · MQL4/MQL5، بلاکچین، Blazor Hybrid / MAUI، n8n، Git/DevOps، Docker، Onion، Python | دی ۱۴۰۱ – آذر ۱۴۰۳ · Jan 2023 – Dec 2024 | [04-freelance-consultant.md](career-hub/experiences/04-freelance-consultant.md) |
+| 04 | کار مستقل · [Independent](career-hub/experiences/04-freelance-consultant.md) | مهندس مستقل · بک‌تست MQL4/MQL5، پایپ‌لاین n8n، تحقیق معماری (Onion، Docker، Blazor Hybrid / MAUI) | دی ۱۴۰۱ – آذر ۱۴۰۳ · Jan 2023 – Dec 2024 | [04-freelance-consultant.md](career-hub/experiences/04-freelance-consultant.md) |
 | 05 | استارتاپ باهم‌شاپ · [BahamShop](career-hub/experiences/05-baham-shop.md) | مدیر پروژه؛ رهبر تیم سئو و طراح Figma · ASP.NET Core 9، n8n، سئو؛ درآمد از ماه اول | دی ۱۴۰۳ – تیر ۱۴۰۴ · Dec 2024 – Jun 2025 | [05-baham-shop.md](career-hub/experiences/05-baham-shop.md) |
-| 06 | ارتباطات پژوهان متین · [Ertebatat Pazhoohan Matin](career-hub/experiences/06-ertebatat-pazhouhan.md) | توسعه‌دهنده پلتفرم سرویس مدارس · C# / Onion، سفیر مهر (Kotlin)، ALPR، MVP سفر (SignalR، Redis) | تیر ۱۴۰۴ – پایان تیر ۱۴۰۵ · Jun 2025 – Jul 2026 | [06-ertebatat-pazhouhan.md](career-hub/experiences/06-ertebatat-pazhouhan.md) |
-| 07 | ایار پلاس · [Ayar Plus](career-hub/experiences/07-ayar-plus.md) | توسعه‌دهنده .NET MAUI؛ مدتی مدیر پروژه · ERP طلا، کویت، Bit Platform | مهر ۱۴۰۴ – شهریور ۱۴۰۵ · Sep 2025 – Sep 2026 | [07-ayar-plus.md](career-hub/experiences/07-ayar-plus.md) |
+| 06 | ارتباطات پژوهان متین · [Ertebatat Pazhoohan Matin](career-hub/experiences/06-ertebatat-pazhouhan.md) | توسعه‌دهنده تمام‌وقت پلتفرم سرویس مدارس · C# / Onion، سفیر مهر (Kotlin)، ALPR، MVP سفر (SignalR، Redis) | تیر ۱۴۰۴ – پایان تیر ۱۴۰۵ · Jun 2025 – Jul 2026 | [06-ertebatat-pazhouhan.md](career-hub/experiences/06-ertebatat-pazhouhan.md) |
+| 07 | ایار پلاس · [Ayar Plus](career-hub/experiences/07-ayar-plus.md) | پیمانکار ارشد دات‌نت و مشاور فنی دورکار (Part-time) · ERP طلا، کویت، MAUI / Bit Platform | مهر ۱۴۰۴ – شهریور ۱۴۰۵ · Sep 2025 – Sep 2026 | [07-ayar-plus.md](career-hub/experiences/07-ayar-plus.md) |
 
 ---
 

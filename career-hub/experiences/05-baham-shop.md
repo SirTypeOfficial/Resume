@@ -20,13 +20,10 @@ tools:
   - n8n
   - Figma
   - ASP.NET Core 9
-unfinished:
-  - cross-platform client (started, not shipped)
 metrics:
   - "سایت تا ورود درآمد نداشت؛ در ماه اول ورود به درآمد رسید"
   - "اتوماسیون n8n برای محتوای سئو تگ محصول و دسته‌بندی؛ تیم سئو ویرایش و درج می‌کرد"
   - "افزایش سرعت ایندکس محصولات"
-  - "افزایش سرعت پیشرفت پروژه؛ سیستم کراس‌پلتفرم تمام نشد"
 related_certificates:
   - aspnet-core-mvc
   - oop-csharp
@@ -53,25 +50,23 @@ related_certificates:
 
 ### مسئله و چالش معماری
 
-دی ۱۴۰۳ مدیر استارتاپ باهم‌شاپ تماس گرفت. باهم‌شاپ موتور جستجوی کالا بود. کالاها را با موتور scraper وارد سایت می‌کرد و روی هر محصول با سئوی حرفه‌ای سعی می‌کرد از کلیک درآمد بگیرد. تا وقتی وارد شدم سایت درآمدی نداشت و استارتاپ هنوز به کسب درآمد نرسیده بود.
+دی ۱۴۰۳ وارد استارتاپ باهم‌شاپ شدم. باهم‌شاپ موتور جستجوی کالا بود. کالاها را با موتور scraper وارد سایت می‌کرد و روی هر محصول با سئو از کلیک درآمد می‌گرفت. تا وقتی وارد شدم سایت درآمدی نداشت و استارتاپ هنوز به کسب درآمد نرسیده بود.
 
 ### راهکار و Trade-off
 
-ماه اول را روی رساندن سایت به درآمد گذاشتم. نقش من رهبر تیم سئو، طراح Figma و مدیر پروژه بود؛ کارهای سئو را هم مدیریت می‌کردم. بک‌اند را با ASP.NET Core 9 پیش بردم که تازه آمده بود، با Clean Architecture و سیستم کش برای پاسخگویی سریع.
+ماه اول را روی رساندن سایت به درآمد گذاشتم. نقش من رهبر تیم سئو، طراح Figma و مدیر پروژه بود؛ کارهای سئو را هم مدیریت می‌کردم. بک‌اند را با ASP.NET Core 9 پیش بردم، با Clean Architecture و سیستم کش برای پاسخگویی سریع.
 
-برای سئو یک automation با n8n ساختم. برای هر تگ محصول و هر دسته‌بندی، n8n محتوای مناسب سئو آماده می‌کرد. ورود دستی اطلاعات راحت‌تر شد؛ کار همکاران تیم سئو بیشتر ویرایش و درج همان محتوا بود. همان درج باعث شد سرعت ایندکس محصولات بالا برود.
+برای سئو یک automation با n8n ساختم. برای هر تگ محصول و هر دسته‌بندی، n8n محتوای مناسب سئو آماده می‌کرد. ورود دستی اطلاعات سبک شد؛ کار همکاران تیم سئو بیشتر ویرایش و درج همان محتوا بود. همان درج سرعت ایندکس محصولات را بالا برد.
 
-یک سیستم کراس‌پلتفرم هم برایشان شروع کردم. تمام نشد. مشکلات مالی دوباره پیش آمد، شروع جنگ بین من و مدیر استارتاپ اختلاف انداخت، از حقوق دریافتی راضی نبودم و موقعیت شغلی بهتری داشتم. تا تیر ۱۴۰۴ آنجا بودم.
+بازه را تا تیر ۱۴۰۴ تمام کردم و به نقش بعدی رفتم.
 
 ### دستاورد (X-Y-Z)
 
-سایت را در ماه اول به درآمد رساندم، با سنجش رسیدن به کسب درآمد در حالی که قبل از ورود درآمدی نبود، از طریق مدیریت سئو، گردش n8n و کار روی بک‌اند.
+سایت را در ماه اول به درآمد رساندم، با سنجش اولین جریان درآمد از کلیک سئو در حالی که قبل از ورود درآمدی نبود، از طریق مدیریت سئو، پایپ‌لاین n8n و کار روی بک‌اند.
 
 ورود دستی اطلاعات سئو را سبک کردم، با سنجش ویرایش و درج محتوای آماده توسط تیم سئو، از طریق گردش n8n روی تگ‌ها و دسته‌بندی‌ها. همان مسیر سرعت ایندکس محصولات را بالا برد.
 
-بک‌اند جستجو را با ASP.NET Core 9 جلو بردم، با سنجش پاسخگویی سریع از مسیر Clean Architecture و کش، از طریق همان استک که تازه منتشر شده بود.
-
-کارهایی که انجام شد سرعت پیشرفت پروژه را بالا برد. سیستم کراس‌پلتفرم تمام نشد.
+بک‌اند جستجو را با ASP.NET Core 9 جلو بردم، با سنجش پاسخگویی سریع از مسیر Clean Architecture و کش، از طریق همان استک.
 
 ---
 
@@ -79,25 +74,23 @@ related_certificates:
 
 ### Problem and architectural challenge
 
-The BahamShop startup manager called in Dey 1403 / Dec 2024. BahamShop was a product search engine. A scraper pulled products into the site, and professional SEO on each product was how they meant to earn from clicks. When I joined, the site had no income yet. The startup had not reached revenue.
+I joined BahamShop in Dec 2024 (Dey 1403). The product was a product search engine. A scraper pulled listings into the site, and SEO on each product was the click-revenue model. When I joined, the site had no income. The startup had not reached revenue.
 
 ### Solution and trade-off
 
-I spent the first month getting the site to revenue. My roles were SEO team lead, Figma designer, and project manager; I also ran the SEO work. I pushed the backend on ASP.NET Core 9, which had just shipped, with Clean Architecture and caching for faster responses.
+I spent the first month getting the site to revenue. The roles were SEO team lead, Figma designer, and project manager; I also ran the SEO work. I moved the backend onto ASP.NET Core 9 with Clean Architecture and caching for faster responses.
 
-For SEO I built an n8n automation. For each product tag and each category, n8n prepared SEO-ready content. Manual data entry got easier; the SEO team mostly edited and inserted that copy. That ingest raised product indexing speed.
+For SEO I built an n8n automation. For each product tag and each category, n8n prepared SEO-ready copy. Manual data entry dropped; the SEO team mostly edited and inserted that copy. That ingest raised product indexing speed.
 
-I also started a cross-platform system for them. It did not ship. Money problems showed up again, the start of the war caused a disagreement with the startup manager, I was unhappy with pay, and I had better roles elsewhere. I stayed through Tir 1404 / Jun 2025.
+I closed the tenure in Jun 2025 (Tir 1404) and moved to the next role.
 
 ### Achievement (X-Y-Z)
 
-Got the site to revenue in the first month, measured by first income after a stretch with none, by running SEO, the n8n pipeline, and backend work.
+Took the site from zero revenue to first-month income, measured by the first click-SEO cash flow, by running SEO, the n8n pipeline, and the search backend.
 
 Cut the cost of manual SEO entry, measured by the SEO team editing and inserting generated copy, by n8n workflows on tags and categories. That same path raised product indexing speed.
 
-Moved the search backend onto ASP.NET Core 9, measured by faster response through Clean Architecture and caching, by building on that newly released stack.
-
-The work raised how fast the project moved. The cross-platform system was not finished.
+Moved the search backend onto ASP.NET Core 9 with Clean Architecture and caching for faster responses.
 
 ---
 

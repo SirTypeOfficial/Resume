@@ -20,7 +20,7 @@ tools:
   - Angular
 metrics:
   - "انتقال سازمان از روش سنتی به Agile/Scrum و DevOps با Git، همراه با مدیر پروژه وقت"
-  - "در اواخر دوره، مدیریت پروژه‌ها پس از تصمیم مدیر پروژه به مهاجرت"
+  - "در اواخر دوره، مدیریت پروژه‌ها پس از خروج مدیر پروژه وقت"
 related_certificates:
   - aspnet-core-mvc
   - oop-csharp
@@ -47,17 +47,17 @@ related_certificates:
 
 ### مسئله و چالش معماری
 
-مهر ۱۳۹۸ وارد رستا تجارت بین‌الملل رستاک شدم و تا مرداد ۱۳۹۹ ماندم. سازمان با روش‌های سنتی کار می‌کرد. Git را از قبل شنیده بودم؛ اولین بار همان‌جا واقعاً با Git و با DevOps کار کردم. محصول‌ها CRM و پلتفرم‌های سرمایه‌گذاری تحت شبکه بودند. Angular را برای همان CRM جدی‌تر یاد گرفتم. پروژه‌های رزرواسیون آرایشگاه هم در همین شرکت بود. مدیر پروژه وقت قصد مهاجرت داشت؛ در اواخر دوره، مدیریت پروژه‌ها با من بود.
+مهر ۱۳۹۸ وارد رستا تجارت بین‌الملل رستاک شدم و تا مرداد ۱۳۹۹ ماندم. سازمان با روش‌های سنتی کار می‌کرد. Git را از قبل شنیده بودم؛ اولین بار همان‌جا واقعاً با Git و با DevOps کار کردم. محصول‌ها CRM و پلتفرم‌های سرمایه‌گذاری تحت شبکه بودند. Angular را برای همان CRM جدی‌تر یاد گرفتم. پروژه‌های رزرواسیون آرایشگاه هم در همین شرکت بود. در اواخر دوره، پس از خروج مدیر پروژه وقت، پیگیری پروژه‌ها با من بود.
 
 ### راهکار و Trade-off
 
-با کمک همان مدیر پروژه، کار را از روش سنتی به Agile و Scrum و DevOps بردیم و Git را وارد گردش کار کردیم. روی CRM با Angular کار کردم. روی پلتفرم سرمایه‌گذاری تحت شبکه هم کار کردم. رزرواسیون آرایشگاه در همین بازه بود. وقتی مدیر پروژه برای مهاجرت می‌رفت، تحویل و پیگیری پروژه‌ها را خودم ادامه دادم.
+با کمک همان مدیر پروژه، کار را از روش سنتی به Agile و Scrum و DevOps بردیم و Git را وارد گردش کار کردیم. روی CRM با Angular کار کردم. روی پلتفرم سرمایه‌گذاری تحت شبکه هم کار کردم. رزرواسیون آرایشگاه در همین بازه بود. بعد از خروج مدیر پروژه وقت، تحویل و پیگیری پروژه‌ها را خودم ادامه دادم.
 
 ### دستاورد (X-Y-Z)
 
 گردش‌کار سازمان را به Git و Agile/Scrum و DevOps رساندم، با سنجش استفادهٔ تیم از این روش به‌جای کار سنتی، از طریق استقرار Git و همراهی با مدیر پروژه وقت.
 
-در اواخر دوره پروژه‌ها را خودم مدیریت کردم، با سنجش ادامهٔ تحویل CRM، پلتفرم سرمایه‌گذاری تحت شبکه و رزرواسیون آرایشگاه، از طریق گرفتن مسئولیت مدیریت بعد از تصمیم مهاجرت مدیر پروژه.
+در اواخر دوره پروژه‌ها را خودم مدیریت کردم، با سنجش ادامهٔ تحویل CRM، پلتفرم سرمایه‌گذاری تحت شبکه و رزرواسیون آرایشگاه، از طریق گرفتن مسئولیت مدیریت پس از خروج مدیر پروژه وقت.
 
 روی CRM با Angular کار کردم، با سنجش انجام کار فرانت همان CRM، از طریق یادگیری و پیاده‌سازی Angular در همان محصول.
 
@@ -67,19 +67,19 @@ related_certificates:
 
 ### Problem and architectural challenge
 
-Joined Rasta Tejarat Beinolmelal Rastak in Mehr 1398 / Oct 2019 and left in Mordad 1399 / Aug 2020, in Shiraz, Fars. The company still ran on traditional methods. Git was a name I already knew; this was the first place I actually used Git, and the first place I used DevOps. The products were a CRM and networked investment platforms. Angular was learned in earnest on that CRM. Hair-salon reservation projects sat in the same company. The project manager planned to emigrate; late in the tenure, project management sat with me.
+I joined Rasta Tejarat Beinolmelal Rastak in Oct 2019 (Mehr 1398) and stayed through Aug 2020 (Mordad 1399), in Shiraz. Delivery still ran on informal process. This was the first place I used Git in daily work and the first place I used DevOps practices. Products were a CRM and networked investment platforms. I did Angular work on the CRM. The company also ran hair-salon reservation projects. Late in the tenure, after the then project manager left, I took over project follow-up.
 
 ### Solution and trade-off
 
-With that project manager, we moved the organization from traditional methods onto Agile, Scrum, and DevOps, and put Git into the workflow. I did Angular work on the CRM. I also worked on the networked investment platform. Salon reservation work ran in the same period. When the project manager was leaving the country, I kept delivery and follow-up of the projects.
+With the then project manager, we moved delivery onto Agile, Scrum, and DevOps and put Git into the workflow. I worked Angular on the CRM, contributed to the networked investment platform, and worked the salon reservation projects. After the project manager left, I kept delivery and follow-up.
 
 ### Achievement (X-Y-Z)
 
-Moved the organization onto Git, Agile/Scrum, and DevOps, measured by the team using those methods instead of the old process, by introducing Git and working with the then project manager.
+Moved the team from informal delivery onto Git, Agile/Scrum, and DevOps by introducing Git into the workflow with the then project manager.
 
-Managed the projects in late tenure, measured by continued delivery of the CRM, the networked investment platform, and salon reservation work, by taking project-management responsibility after the project manager decided to emigrate.
+Took over project follow-up in late tenure so CRM, investment-platform, and salon-reservation work kept shipping after the project manager left.
 
-Did Angular work on the CRM, measured by frontend work on that CRM, by learning and applying Angular on that product.
+Shipped Angular work on the CRM frontend by learning and applying Angular on that product.
 
 ---
 
